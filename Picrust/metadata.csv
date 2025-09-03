@@ -1,0 +1,110 @@
+﻿＃NAME,Name,Type,Time,Treatment,Colony,Environment,Env_Time
+L01A,L01A,coral,1,Lobo,1,tank,tank_1
+L01B,L01B,coral,1,Lobo,2,tank,tank_1
+L01C,L01C,coral,1,Lobo,3,tank,tank_1
+L02A,L02A,coral,2,Lobo,1,tank,tank_2
+L02B,L02B,coral,2,Lobo,2,tank,tank_2
+L02C,L02C,coral,2,Lobo,3,tank,tank_2
+L03A,L03A,coral,3,Lobo,1,tank,tank_3
+L03B,L03B,coral,3,Lobo,2,tank,tank_3
+L03C,L03C,coral,3,Lobo,3,tank,tank_3
+L04A,L04A,coral,4,Lobo,1,tank,tank_4
+L04B,L04B,coral,4,Lobo,2,tank,tank_4
+L04C,L04C,coral,4,Lobo,3,tank,tank_4
+L05A,L05A,coral,5,Lobo,1,tank,tank_5
+L05B,L05B,coral,5,Lobo,2,tank,tank_5
+L05C,L05C,coral,5,Lobo,3,tank,tank_5
+L06A,L06A,coral,6,Lobo,1,tank,tank_6
+L06B,L06B,coral,6,Lobo,2,tank,tank_6
+L06C,L06C,coral,6,Lobo,3,tank,tank_6
+L07A,L07A,coral,7,Lobo,1,tank,tank_7
+L07B,L07B,coral,7,Lobo,2,tank,tank_7
+L07C,L07C,coral,7,Lobo,3,tank,tank_7
+L08A,L08A,coral,8,Lobo,1,tank,tank_8
+L08B,L08B,coral,8,Lobo,2,tank,tank_8
+L08C,L08C,coral,8,Lobo,3,tank,tank_8
+L09A,L09A,coral,9,Lobo,1,tank,tank_9
+L09B,L09B,coral,9,Lobo,2,tank,tank_9
+L09C,L09C,coral,9,Lobo,3,tank,tank_9
+L10A,L10A,coral,10,Lobo,1,tank,tank_10
+L10B,L10B,coral,10,Lobo,2,tank,tank_10
+L10C,L10C,coral,10,Lobo,3,tank,tank_10
+L11A,L11A,coral,11,Lobo,1,tank,tank_11
+L11B,L11B,coral,11,Lobo,2,tank,tank_11
+L11C,L11C,coral,11,Lobo,3,tank,tank_11
+L12A,L12A,coral,12,Lobo,1,tank,tank_12
+L12B,L12B,coral,12,Lobo,2,tank,tank_12
+L12C,L12C,coral,12,Lobo,3,tank,tank_12
+LW0A,LW0A,coral,0,Lobo,1,wild,wild_0
+LW0B,LW0B,coral,0,Lobo,2,wild,wild_0
+LW0C,LW0C,coral,0,Lobo,3,wild,wild_0
+LW1A,LW1A,coral,6,Lobo,1,wild,wild_6
+LW1B,LW1B,coral,6,Lobo,2,wild,wild_6
+LW1C,LW1C,coral,6,Lobo,3,wild,wild_6
+LWFA,LWFA,coral,19,Lobo,1,wild,wild_19
+LWFB,LWFB,coral,19,Lobo,2,wild,wild_19
+LWFC,LWFC,coral,19,Lobo,3,wild,wild_19
+L13A,L13A,coral,19,Lobo,1,tank,tank_19
+L13B,L13B,coral,19,Lobo,2,tank,tank_19
+L13C,L13C,coral,19,Lobo,3,tank,tank_19
+S01A,S01A,coral,1,Sclero,1,tank,tank_1
+S01B,S01B,coral,1,Sclero,2,tank,tank_1
+S01C,S01C,coral,1,Sclero,3,tank,tank_1
+S02A,S02A,coral,2,Sclero,1,tank,tank_2
+S02C,S02C,coral,2,Sclero,3,tank,tank_2
+S03A,S03A,coral,3,Sclero,1,tank,tank_3
+S03B,S03B,coral,3,Sclero,2,tank,tank_3
+S03C,S03C,coral,3,Sclero,3,tank,tank_3
+S04A,S04A,coral,4,Sclero,1,tank,tank_4
+S04B,S04B,coral,4,Sclero,2,tank,tank_4
+S04C,S04C,coral,4,Sclero,3,tank,tank_4
+S05A,S05A,coral,5,Sclero,1,tank,tank_5
+S05C,S05C,coral,5,Sclero,3,tank,tank_5
+S06A,S06A,coral,6,Sclero,1,tank,tank_6
+S06B,S06B,coral,6,Sclero,2,tank,tank_6
+S06C,S06C,coral,6,Sclero,3,tank,tank_6
+S07A,S07A,coral,7,Sclero,1,tank,tank_7
+S07B,S07B,coral,7,Sclero,2,tank,tank_7
+S07C,S07C,coral,7,Sclero,3,tank,tank_7
+S08A,S08A,coral,8,Sclero,1,tank,tank_8
+S08B,S08B,coral,8,Sclero,2,tank,tank_8
+S08C,S08C,coral,8,Sclero,3,tank,tank_8
+S09A,S09A,coral,9,Sclero,1,tank,tank_9
+S09B,S09B,coral,9,Sclero,2,tank,tank_9
+S09C,S09C,coral,9,Sclero,3,tank,tank_9
+S10A,S10A,coral,10,Sclero,1,tank,tank__10
+S10B,S10B,coral,10,Sclero,2,tank,tank__10
+S10C,S10C,coral,10,Sclero,3,tank,tank__10
+S11A,S11A,coral,11,Sclero,1,tank,tank_11
+S11B,S11B,coral,11,Sclero,2,tank,tank_11
+S11C,S11C,coral,11,Sclero,3,tank,tank_11
+S12A,S12A,coral,12,Sclero,1,tank,tank_12
+S12B,S12B,coral,12,Sclero,2,tank,tank_12
+S12C,S12C,coral,12,Sclero,3,tank,tank_12
+SW0A,SW0A,coral,0,Sclero,1,wild,wild_0
+SW0B,SW0B,coral,0,Sclero,2,wild,wild_0
+SW0C,SW0C,coral,0,Sclero,3,wild,wild_0
+SW1A,SW1A,coral,6,Sclero,1,wild,wild_6
+SW1B,SW1B,coral,6,Sclero,2,wild,wild_6
+SW1C,SW1C,coral,6,Sclero,3,wild,wild_6
+SWFA,SWFA,coral,19,Sclero,1,wild,wild_19
+SWFB,SWFB,coral,19,Sclero,2,wild,wild_19
+SWFC,SWFC,coral,19,Sclero,3,wild,wild_19
+S13A,S13A,coral,19,Sclero,1,tank,tank_19
+S13B,S13B,coral,19,Sclero,2,tank,tank_19
+S13C,S13C,coral,19,Sclero,3,tank,tank_19
+W0A,W0A,water,0,Sea water,1,tank,tank_0
+W0B,W0B,water,0,Sea water,2,tank,tank_0
+W0C,W0C,water,0,Sea water,3,tank,tank_0
+W1A,W1A,water,1,Sea water,1,tank,tank_1
+W1B,W1B,water,1,Sea water,2,tank,tank_1
+W1C,W1C,water,1,Sea water,3,tank,tank_1
+W2A,W2A,water,6,Sea water,1,tank,tank_6
+W2B,W2B,water,6,Sea water,2,tank,tank_6
+W2C,W2C,water,6,Sea water,3,tank,tank_6
+W3A,W3A,water,19,Sea water,1,tank,tank_19
+W3B,W3B,water,19,Sea water,2,tank,tank_19
+W3C,W3C,water,19,Sea water,3,tank,tank_19
+WW0,WW0,water,0,Sea water,1,wild,wild_0
+WW1,WW1,water,6,Sea water,1,wild,wild_6
+WW2,WW2,water,19,Sea water,1,wild,wild_19
