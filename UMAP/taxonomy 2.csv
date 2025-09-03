@@ -1,0 +1,3085 @@
+#OTU_ID,Total.lipid,Class,Lipid
+10-oxo-docosanoic acid,Lipid,FA,10-oxo-docosanoic acid
+10-oxo-docosanoic acid,Lipid,FA,10-oxo-docosanoic acid
+"11,14-eicosadienoic acid",Lipid,FA,"11,14-eicosadienoic acid"
+"11(Z),14(Z)-Eicosadienoic acid",Lipid,FA,"11(Z),14(Z)-Eicosadienoic acid"
+"11(Z),14(Z)-Eicosadienoic Acid",Lipid,FA,"11(Z),14(Z)-Eicosadienoic Acid"
+"12-hydroxy-5Z,8Z,10Z,14Z-Eicosatetraenoic acid",Lipid,FA,"12-hydroxy-5Z,8Z,10Z,14Z-Eicosatetraenoic acid"
+"12-hydroxy-5Z,8Z,10Z,14Z-Eicosatetraenoic acid",Lipid,FA,"12-hydroxy-5Z,8Z,10Z,14Z-Eicosatetraenoic acid"
+"13,14-dihydroxy-docosanoic acid",Lipid,FA,"13,14-dihydroxy-docosanoic acid"
+"13,14-dihydroxy-docosanoic acid",Lipid,FA,"13,14-dihydroxy-docosanoic acid"
+"15-oxo-11Z,13E-eicosadienoic acid",Lipid,FA,"15-oxo-11Z,13E-eicosadienoic acid"
+"16:4(4Z,7Z,10Z,13Z)",Lipid,FA,"16:4(4Z,7Z,10Z,13Z)"
+"16:4(4Z,7Z,10Z,13Z)",Lipid,FA,"16:4(4Z,7Z,10Z,13Z)"
+"16:4(4Z,7Z,10Z,13Z)",Lipid,FA,"16:4(4Z,7Z,10Z,13Z)"
+"16:4(4Z,7Z,10Z,13Z)",Lipid,FA,"16:4(4Z,7Z,10Z,13Z)"
+"26:6(8Z,11Z,14Z,17Z,20Z,23Z)",Lipid,FA,"26:6(8Z,11Z,14Z,17Z,20Z,23Z)"
+"27:3(5Z,9Z,20Z)",Lipid,FA,"27:3(5Z,9Z,20Z)"
+"28:3(5Z,9Z,21Z)",Lipid,FA,"28:3(5Z,9Z,21Z)"
+"28:4(13Z,16Z,19Z,22Z)",Lipid,FA,"28:4(13Z,16Z,19Z,22Z)"
+"28:5(13Z,16Z,19Z,22Z,25Z)",Lipid,FA,"28:5(13Z,16Z,19Z,22Z,25Z)"
+"28:5(13Z,16Z,19Z,22Z,25Z)",Lipid,FA,"28:5(13Z,16Z,19Z,22Z,25Z)"
+"28:5(13Z,16Z,19Z,22Z,25Z)",Lipid,FA,"28:5(13Z,16Z,19Z,22Z,25Z)"
+"28:5(13Z,16Z,19Z,22Z,25Z)",Lipid,FA,"28:5(13Z,16Z,19Z,22Z,25Z)"
+"28:6(10Z,13Z,16Z,19Z,22Z,25Z)",Lipid,FA,"28:6(10Z,13Z,16Z,19Z,22Z,25Z)"
+28:7(n-6),Lipid,FA,28:7(n-6)
+"3,6,9,12,15-octadecapentaenoic acid",Lipid,FA,"3,6,9,12,15-octadecapentaenoic acid"
+"30:3(5Z,9Z,23Z)",Lipid,FA,"30:3(5Z,9Z,23Z)"
+"30:4(15Z,18Z,21Z,24Z)",Lipid,FA,"30:4(15Z,18Z,21Z,24Z)"
+"30:5(15Z,18Z,21Z,24Z,27Z)",Lipid,FA,"30:5(15Z,18Z,21Z,24Z,27Z)"
+"30:6(12Z,15Z,18Z,21Z,24Z,27Z)",Lipid,FA,"30:6(12Z,15Z,18Z,21Z,24Z,27Z)"
+"32:4(17Z,20Z,23Z,26Z)",Lipid,FA,"32:4(17Z,20Z,23Z,26Z)"
+"32:4(17Z,20Z,23Z,26Z)",Lipid,FA,"32:4(17Z,20Z,23Z,26Z)"
+"32:4(17Z,20Z,23Z,26Z)",Lipid,FA,"32:4(17Z,20Z,23Z,26Z)"
+"32:4(17Z,20Z,23Z,26Z)",Lipid,FA,"32:4(17Z,20Z,23Z,26Z)"
+"32:5(17Z,20Z,23Z,26Z,29Z)",Lipid,FA,"32:5(17Z,20Z,23Z,26Z,29Z)"
+"32:6(14Z,17Z,20Z,23Z,26Z,29Z)",Lipid,FA,"32:6(14Z,17Z,20Z,23Z,26Z,29Z)"
+"34:4(19Z,22Z,25Z,28Z)",Lipid,FA,"34:4(19Z,22Z,25Z,28Z)"
+"34:4(19Z,22Z,25Z,28Z)",Lipid,FA,"34:4(19Z,22Z,25Z,28Z)"
+"34:4(19Z,22Z,25Z,28Z)",Lipid,FA,"34:4(19Z,22Z,25Z,28Z)"
+"34:4(19Z,22Z,25Z,28Z)",Lipid,FA,"34:4(19Z,22Z,25Z,28Z)"
+"34:4(19Z,22Z,25Z,28Z)",Lipid,FA,"34:4(19Z,22Z,25Z,28Z)"
+"34:4(19Z,22Z,25Z,28Z)",Lipid,FA,"34:4(19Z,22Z,25Z,28Z)"
+"34:5(19Z,22Z,25Z,28Z,31Z)",Lipid,FA,"34:5(19Z,22Z,25Z,28Z,31Z)"
+"34:6(16Z,19Z,22Z,25Z,28Z,31Z)",Lipid,FA,"34:6(16Z,19Z,22Z,25Z,28Z,31Z)"
+"36:4(21Z,24Z,27Z,30Z)",Lipid,FA,"36:4(21Z,24Z,27Z,30Z)"
+"36:4(21Z,24Z,27Z,30Z)",Lipid,FA,"36:4(21Z,24Z,27Z,30Z)"
+"36:4(21Z,24Z,27Z,30Z)",Lipid,FA,"36:4(21Z,24Z,27Z,30Z)"
+"36:4(21Z,24Z,27Z,30Z)",Lipid,FA,"36:4(21Z,24Z,27Z,30Z)"
+"36:5(21Z,24Z,27Z,30Z,33Z)",Lipid,FA,"36:5(21Z,24Z,27Z,30Z,33Z)"
+"36:5(21Z,24Z,27Z,30Z,33Z)",Lipid,FA,"36:5(21Z,24Z,27Z,30Z,33Z)"
+"36:6(18Z,21Z,24Z,27Z,30Z,33Z)",Lipid,FA,"36:6(18Z,21Z,24Z,27Z,30Z,33Z)"
+"36:6(18Z,21Z,24Z,27Z,30Z,33Z)",Lipid,FA,"36:6(18Z,21Z,24Z,27Z,30Z,33Z)"
+"36:6(18Z,21Z,24Z,27Z,30Z,33Z)",Lipid,FA,"36:6(18Z,21Z,24Z,27Z,30Z,33Z)"
+"36:6(18Z,21Z,24Z,27Z,30Z,33Z)",Lipid,FA,"36:6(18Z,21Z,24Z,27Z,30Z,33Z)"
+"36:6(5Z,9Z,12Z,15Z,18Z,21Z)(34Me[S])",Lipid,FA,"36:6(5Z,9Z,12Z,15Z,18Z,21Z)(34Me[S])"
+"38:4(23Z,26Z,29Z,32Z)",Lipid,FA,"38:4(23Z,26Z,29Z,32Z)"
+"38:5(23Z,26Z,29Z,32Z,35Z)",Lipid,FA,"38:5(23Z,26Z,29Z,32Z,35Z)"
+"38:6(20Z,23Z,26Z,29Z,32Z,35Z)",Lipid,FA,"38:6(20Z,23Z,26Z,29Z,32Z,35Z)"
+"38:6(20Z,23Z,26Z,29Z,32Z,35Z)",Lipid,FA,"38:6(20Z,23Z,26Z,29Z,32Z,35Z)"
+"38:6(20Z,23Z,26Z,29Z,32Z,35Z)",Lipid,FA,"38:6(20Z,23Z,26Z,29Z,32Z,35Z)"
+"38:6(20Z,23Z,26Z,29Z,32Z,35Z)",Lipid,FA,"38:6(20Z,23Z,26Z,29Z,32Z,35Z)"
+"3E,9Z,12Z,15Z-octadecatetraenoic acid",Lipid,FA,"3E,9Z,12Z,15Z-octadecatetraenoic acid"
+"4,7,10-hexadecatrienoic acid",Lipid,FA,"4,7,10-hexadecatrienoic acid"
+"4,7,10,13-docosatetraenoic acid",Lipid,FA,"4,7,10,13-docosatetraenoic acid"
+"4,7,10,13,16-docosapentaenoic acid",Lipid,FA,"4,7,10,13,16-docosapentaenoic acid"
+"4,8,12,15,18-eicosapentaenoic acid",Lipid,FA,"4,8,12,15,18-eicosapentaenoic acid"
+"4,8,12,15,19,21-tetracosahexaenoic acid",Lipid,FA,"4,8,12,15,19,21-tetracosahexaenoic acid"
+"40:6(22Z,25Z,28Z,28Z,31Z,37Z)",Lipid,FA,"40:6(22Z,25Z,28Z,28Z,31Z,37Z)"
+"40:6(22Z,25Z,28Z,28Z,31Z,37Z)",Lipid,FA,"40:6(22Z,25Z,28Z,28Z,31Z,37Z)"
+"40:6(22Z,25Z,28Z,28Z,31Z,37Z)",Lipid,FA,"40:6(22Z,25Z,28Z,28Z,31Z,37Z)"
+"40:6(22Z,25Z,28Z,28Z,31Z,37Z)",Lipid,FA,"40:6(22Z,25Z,28Z,28Z,31Z,37Z)"
+"42:6(25Z,27Z,30Z,33Z,36Z,39Z)",Lipid,FA,"42:6(25Z,27Z,30Z,33Z,36Z,39Z)"
+"42:6(25Z,27Z,30Z,33Z,36Z,39Z)",Lipid,FA,"42:6(25Z,27Z,30Z,33Z,36Z,39Z)"
+"4Z,7Z,10Z,13Z,16Z,19Z,22Z,25Z-octacosaoctaenoic acid",Lipid,FA,"4Z,7Z,10Z,13Z,16Z,19Z,22Z,25Z-octacosaoctaenoic acid"
+"5,14,15-trihydroxy-6,8,10,12-Eicosatetraenoic acid",Lipid,FA,"5,14,15-trihydroxy-6,8,10,12-Eicosatetraenoic acid"
+"5,14,15-trihydroxy-6,8,10,12-Eicosatetraenoic acid",Lipid,FA,"5,14,15-trihydroxy-6,8,10,12-Eicosatetraenoic acid"
+"5,6,15-trihydroxy-7,9,13-Eicosatrien-11-ynoic acid",Lipid,FA,"5,6,15-trihydroxy-7,9,13-Eicosatrien-11-ynoic acid"
+"5,7,9,11,13-tetradecapentaenoic acid",Lipid,FA,"5,7,9,11,13-tetradecapentaenoic acid"
+"5,7,9,11,13-tetradecapentaenoic acid",Lipid,FA,"5,7,9,11,13-tetradecapentaenoic acid"
+"5,7,9,11,13-tetradecapentaenoic acid",Lipid,FA,"5,7,9,11,13-tetradecapentaenoic acid"
+"5,7,9,11,13-tetradecapentaenoic acid",Lipid,FA,"5,7,9,11,13-tetradecapentaenoic acid"
+"5,7,9,11,13-tetradecapentaenoic acid",Lipid,FA,"5,7,9,11,13-tetradecapentaenoic acid"
+"5,8,12-Trihydroxy-9-octadecenoic acid",Lipid,FA,"5,8,12-Trihydroxy-9-octadecenoic acid"
+"5Z,8Z,11Z-Eicosatrienedioic acid",Lipid,FA,"5Z,8Z,11Z-Eicosatrienedioic acid"
+"5Z,8Z,11Z,14Z-Eicosatetraenedioic acid",Lipid,FA,"5Z,8Z,11Z,14Z-Eicosatetraenedioic acid"
+"6Z,9Z,12Z,15Z,18Z-heneicosapentaenoic acid C21:5",Lipid,FA,"6Z,9Z,12Z,15Z,18Z-heneicosapentaenoic acid C21:5"
+"6Z,9Z,12Z,15Z,18Z-tetracosapentaenoic acid",Lipid,FA,"6Z,9Z,12Z,15Z,18Z-tetracosapentaenoic acid"
+"6Z,9Z,12Z,15Z,18Z-tetracosapentaenoic acid",Lipid,FA,"6Z,9Z,12Z,15Z,18Z-tetracosapentaenoic acid"
+"6Z,9Z,12Z,15Z,18Z-tetracosapentaenoic acid",Lipid,FA,"6Z,9Z,12Z,15Z,18Z-tetracosapentaenoic acid"
+"7-Acetoxy-2E,4E,6E-tetradecatrienoic acid",Lipid,FA,"7-Acetoxy-2E,4E,6E-tetradecatrienoic acid"
+"7,9,13,17-tetramethyl-7S,14S-dihydroxy-2E,4E,8E,10E,12E,16-octadecahexaenoic acid",Lipid,FA,"7,9,13,17-tetramethyl-7S,14S-dihydroxy-2E,4E,8E,10E,12E,16-octadecahexaenoic acid"
+"7,9,13,17-tetramethyl-7S,14S-dihydroxy-2E,4E,8E,10E,12E,16-octadecahexaenoic acid",Lipid,FA,"7,9,13,17-tetramethyl-7S,14S-dihydroxy-2E,4E,8E,10E,12E,16-octadecahexaenoic acid"
+"8,11,14,18-Eicosatetraynoic acid",Lipid,FA,"8,11,14,18-Eicosatetraynoic acid"
+8E-Heptadecenedioic acid,Lipid,FA,8E-Heptadecenedioic acid
+"9-hydroxy-2Z,5E,7Z,11Z,14Z-Eicosapentaenoic acid",Lipid,FA,"9-hydroxy-2Z,5E,7Z,11Z,14Z-Eicosapentaenoic acid"
+"9-hydroxy-2Z,5E,7Z,11Z,14Z-Eicosapentaenoic acid",Lipid,FA,"9-hydroxy-2Z,5E,7Z,11Z,14Z-Eicosapentaenoic acid"
+9-oxo-7E-hexadecenoic acid,Lipid,FA,9-oxo-7E-hexadecenoic acid
+"9,10-epoxy-11,13-docosadiynoic acid",Lipid,FA,"9,10-epoxy-11,13-docosadiynoic acid"
+"9,10-epoxy-11,13-docosadiynoic acid",Lipid,FA,"9,10-epoxy-11,13-docosadiynoic acid"
+"9,10-epoxy-11,13-docosadiynoic acid",Lipid,FA,"9,10-epoxy-11,13-docosadiynoic acid"
+"9,10-epoxy-11,13-docosadiynoic acid",Lipid,FA,"9,10-epoxy-11,13-docosadiynoic acid"
+"9,10-epoxy-11,13-docosadiynoic acid",Lipid,FA,"9,10-epoxy-11,13-docosadiynoic acid"
+"9,10-epoxy-11,13-docosadiynoic acid",Lipid,FA,"9,10-epoxy-11,13-docosadiynoic acid"
+"9,10-epoxy-11,13-docosadiynoic acid",Lipid,FA,"9,10-epoxy-11,13-docosadiynoic acid"
+"9,10-epoxy-11,13-docosadiynoic acid",Lipid,FA,"9,10-epoxy-11,13-docosadiynoic acid"
+"9,10-epoxy-11,13-docosadiynoic acid",Lipid,FA,"9,10-epoxy-11,13-docosadiynoic acid"
+"9,12-hexadecadienoic acid",Lipid,FA,"9,12-hexadecadienoic acid"
+"9,13-dihydroxy-10-ethoxy-11-octadecenoic acid",Lipid,FA,"9,13-dihydroxy-10-ethoxy-11-octadecenoic acid"
+"all-trans-7-hydroxyhexadeca-2,4,8,10-tetraenoic acid",Lipid,FA,"all-trans-7-hydroxyhexadeca-2,4,8,10-tetraenoic acid"
+"Am-PE(O-16:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PE,"Am-PE(O-16:0/22:4(7Z,10Z,13Z,16Z))"
+"Am-PE(O-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PE,"Am-PE(O-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+"Am-PE(O-20:0/20:4(5Z,8Z,11Z,14Z))",Lipid,PE,"Am-PE(O-20:0/20:4(5Z,8Z,11Z,14Z))"
+"Am-PE(P-18:0/18:2(9Z,12Z))",Lipid,PE,"Am-PE(P-18:0/18:2(9Z,12Z))"
+"Am-PE(P-18:0/20:4(5Z,8Z,11Z,14Z))",Lipid,PE,"Am-PE(P-18:0/20:4(5Z,8Z,11Z,14Z))"
+"Am-PE(P-20:0/18:2(9Z,12Z))",Lipid,PE,"Am-PE(P-20:0/18:2(9Z,12Z))"
+Arabic acid,Lipid,FA,Arabic acid
+Arachidonic acid,Lipid,FA,Arachidonic acid
+Arachidyl linoleate,Lipid,WE,Arachidyl linoleate
+BMP 18:0_13:1,Lipid,BMP,BMP 18:0_13:1
+BMP 19:1_18:4,Lipid,BMP,BMP 19:1_18:4
+BMP 26:2_20:4,Lipid,BMP,BMP 26:2_20:4
+BMP 3:0_18:1,Lipid,BMP,BMP 3:0_18:1
+BMP 3:0_18:1,Lipid,BMP,BMP 3:0_18:1
+CE 16:2,Lipid,CE,CE 16:2
+CE 16:3,Lipid,CE,CE 16:3
+CE 16:4,Lipid,CE,CE 16:4
+CE 18:3,Lipid,CE,CE 18:3
+CE 20:3,Lipid,CE,CE 20:3
+CE 20:4,Lipid,CE,CE 20:4
+CE 22:6,Lipid,CE,CE 22:6
+CE 24:5,Lipid,CE,CE 24:5
+CE 24:6,Lipid,CE,CE 24:6
+CE 28:7,Lipid,CE,CE 28:7
+CE 30:6,Lipid,CE,CE 30:6
+CE 30:8,Lipid,CE,CE 30:8
+CE 34:7,Lipid,CE,CE 34:7
+CE 36:7,Lipid,CE,CE 36:7
+CE 36:8,Lipid,CE,CE 36:8
+Cer 10:0;3O/12:1;(2OH),Lipid,Cer,Cer 10:0;3O/12:1;(2OH)
+Cer 10:0;3O/12:1;(2OH),Lipid,Cer,Cer 10:0;3O/12:1;(2OH)
+Cer 12:2;2O/8:0,Lipid,Cer,Cer 12:2;2O/8:0
+Cer 14:0;2O/16:5;(3OH)(FA 12:0),Lipid,Cer,Cer 14:0;2O/16:5;(3OH)(FA 12:0)
+Cer 14:0;2O/16:5;(3OH)(FA 12:0),Lipid,CER,Cer 14:0;2O/16:5;(3OH)(FA 12:0)
+Cer 14:0;2O/16:5;(3OH)(FA 13:1),Lipid,Cer,Cer 14:0;2O/16:5;(3OH)(FA 13:1)
+Cer 14:0;2O/20:1;(2OH),Lipid,Cer,Cer 14:0;2O/20:1;(2OH)
+Cer 14:0;2O/20:2;(2OH),Lipid,Cer,Cer 14:0;2O/20:2;(2OH)
+Cer 14:0;2O/22:0;(2OH),Lipid,CER,Cer 14:0;2O/22:0;(2OH)
+Cer 14:2;3O/18:2;(2OH),Lipid,Cer,Cer 14:2;3O/18:2;(2OH)
+Cer 14:3;2O/14:1,Lipid,Cer,Cer 14:3;2O/14:1
+Cer 14:3;2O/14:1,Lipid,CER,Cer 14:3;2O/14:1
+Cer 14:3;2O/15:0,Lipid,CER,Cer 14:3;2O/15:0
+Cer 14:3;2O/3:0,Lipid,CER,Cer 14:3;2O/3:0
+Cer 14:3;2O/5:0,Lipid,Cer,Cer 14:3;2O/5:0
+Cer 14:3;2O/5:0,Lipid,Cer,Cer 14:3;2O/5:0
+Cer 14:3;2O/6:0,Lipid,Cer,Cer 14:3;2O/6:0
+Cer 14:3;2O/6:0,Lipid,Cer,Cer 14:3;2O/6:0
+Cer 14:3;2O/6:0,Lipid,CER,Cer 14:3;2O/6:0
+Cer 15:0;2O/16:0,Lipid,CER,Cer 15:0;2O/16:0
+Cer 15:2;2O/14:1,Lipid,Cer,Cer 15:2;2O/14:1
+Cer 15:2;3O/16:2;(2OH),Lipid,Cer,Cer 15:2;3O/16:2;(2OH)
+Cer 16:0;2O/16:1,Lipid,Cer,Cer 16:0;2O/16:1
+Cer 16:0;2O/16:5;(3OH)(FA 12:0),Lipid,Cer,Cer 16:0;2O/16:5;(3OH)(FA 12:0)
+Cer 16:0;2O/20:5,Lipid,Cer,Cer 16:0;2O/20:5
+Cer 16:0;2O/3:0,Lipid,Cer,Cer 16:0;2O/3:0
+Cer 16:0;2O/4:0,Lipid,Cer,Cer 16:0;2O/4:0
+Cer 16:1;2O/16:0,Lipid,CER,Cer 16:1;2O/16:0
+Cer 16:1;2O/20:5,Lipid,Cer,Cer 16:1;2O/20:5
+Cer 16:2;2O/20:2;(2OH),Lipid,CER,Cer 16:2;2O/20:2;(2OH)
+Cer 16:2;2O/20:5,Lipid,Cer,Cer 16:2;2O/20:5
+Cer 16:3;2O/12:0,Lipid,Cer,Cer 16:3;2O/12:0
+Cer 17:0;2O/24:5,Lipid,CER,Cer 17:0;2O/24:5
+Cer 17:1;2O/16:0,Lipid,CER,Cer 17:1;2O/16:0
+Cer 17:1;2O/18:1;(2OH),Lipid,CER,Cer 17:1;2O/18:1;(2OH)
+Cer 17:1;2O/23:1;(2OH),Lipid,Cer,Cer 17:1;2O/23:1;(2OH)
+Cer 17:2;2O/14:1,Lipid,Cer,Cer 17:2;2O/14:1
+Cer 17:2;2O/14:1,Lipid,CER,Cer 17:2;2O/14:1
+Cer 17:2;2O/16:0,Lipid,CER,Cer 17:2;2O/16:0
+Cer 17:2;2O/18:2;(2OH),Lipid,Cer,Cer 17:2;2O/18:2;(2OH)
+Cer 17:2;2O/18:2;(2OH),Lipid,CER,Cer 17:2;2O/18:2;(2OH)
+Cer 17:2;2O/20:2;(2OH),Lipid,Cer,Cer 17:2;2O/20:2;(2OH)
+Cer 17:2;2O/20:2;(2OH),Lipid,CER,Cer 17:2;2O/20:2;(2OH)
+Cer 18:0;2O/16:0,Lipid,Cer,Cer 18:0;2O/16:0
+Cer 18:0;2O/16:0,Lipid,Cer,Cer 18:0;2O/16:0
+Cer 18:0;2O/16:0,Lipid,CER,Cer 18:0;2O/16:0
+Cer 18:0;2O/16:0,Lipid,CER,Cer 18:0;2O/16:0
+Cer 18:0;2O/16:0;(2OH),Lipid,Cer,Cer 18:0;2O/16:0;(2OH)
+Cer 18:0;2O/16:0;(2OH),Lipid,CER,Cer 18:0;2O/16:0;(2OH)
+Cer 18:0;2O/16:1;(2OH),Lipid,Cer,Cer 18:0;2O/16:1;(2OH)
+Cer 18:0;2O/16:1;(2OH),Lipid,CER,Cer 18:0;2O/16:1;(2OH)
+Cer 18:0;2O/18:0,Lipid,Cer,Cer 18:0;2O/18:0
+Cer 18:0;2O/18:0,Lipid,Cer,Cer 18:0;2O/18:0
+Cer 18:0;2O/18:0,Lipid,CER,Cer 18:0;2O/18:0
+Cer 18:0;2O/18:0,Lipid,CER,Cer 18:0;2O/18:0
+Cer 18:0;2O/18:1;(2OH),Lipid,Cer,Cer 18:0;2O/18:1;(2OH)
+Cer 18:0;2O/18:1;(2OH),Lipid,CER,Cer 18:0;2O/18:1;(2OH)
+Cer 18:0;2O/2:0,Lipid,Cer,Cer 18:0;2O/2:0
+Cer 18:0;2O/2:0,Lipid,Cer,Cer 18:0;2O/2:0
+Cer 18:0;2O/2:0,Lipid,CER,Cer 18:0;2O/2:0
+Cer 18:0;2O/20:0,Lipid,Cer,Cer 18:0;2O/20:0
+Cer 18:0;2O/20:0,Lipid,CER,Cer 18:0;2O/20:0
+Cer 18:0;3O/16:0,Lipid,Cer,Cer 18:0;3O/16:0
+Cer 18:0;3O/16:0,Lipid,CER,Cer 18:0;3O/16:0
+Cer 18:0;3O/18:0,Lipid,Cer,Cer 18:0;3O/18:0
+Cer 18:0;3O/18:0,Lipid,Cer,Cer 18:0;3O/18:0
+Cer 18:0;3O/18:0,Lipid,CER,Cer 18:0;3O/18:0
+Cer 18:0;3O/18:0;(2OH),Lipid,Cer,Cer 18:0;3O/18:0;(2OH)
+Cer 18:0;3O/18:0;(2OH),Lipid,CER,Cer 18:0;3O/18:0;(2OH)
+Cer 18:0;3O/18:1;(2OH),Lipid,Cer,Cer 18:0;3O/18:1;(2OH)
+Cer 18:0;3O/20:0,Lipid,CER,Cer 18:0;3O/20:0
+Cer 18:1;2O/16:0,Lipid,Cer,Cer 18:1;2O/16:0
+Cer 18:1;2O/16:0,Lipid,Cer,Cer 18:1;2O/16:0
+Cer 18:1;2O/16:0,Lipid,CER,Cer 18:1;2O/16:0
+Cer 18:1;2O/17:0,Lipid,Cer,Cer 18:1;2O/17:0
+Cer 18:1;2O/18:0,Lipid,Cer,Cer 18:1;2O/18:0
+Cer 18:1;2O/18:0,Lipid,CER,Cer 18:1;2O/18:0
+Cer 18:1;2O/18:1;(2OH),Lipid,CER,Cer 18:1;2O/18:1;(2OH)
+Cer 18:1;2O/18:2,Lipid,Cer,Cer 18:1;2O/18:2
+Cer 18:1;2O/19:0,Lipid,Cer,Cer 18:1;2O/19:0
+Cer 18:1;2O/2:0,Lipid,Cer,Cer 18:1;2O/2:0
+Cer 18:1;2O/2:0,Lipid,Cer,Cer 18:1;2O/2:0
+Cer 18:1;2O/2:0,Lipid,Cer,Cer 18:1;2O/2:0
+Cer 18:1;2O/20:0,Lipid,Cer,Cer 18:1;2O/20:0
+Cer 18:1;2O/22:6,Lipid,Cer,Cer 18:1;2O/22:6
+Cer 18:1;2O/22:6,Lipid,Cer,Cer 18:1;2O/22:6
+Cer 18:1;3O/18:0,Lipid,CER,Cer 18:1;3O/18:0
+Cer 18:1;3O/18:0;(2OH),Lipid,Cer,Cer 18:1;3O/18:0;(2OH)
+Cer 18:1;3O/18:0;(2OH),Lipid,CER,Cer 18:1;3O/18:0;(2OH)
+Cer 18:1;3O/20:0,Lipid,CER,Cer 18:1;3O/20:0
+Cer 18:2;2O/16:0,Lipid,Cer,Cer 18:2;2O/16:0
+Cer 18:2;2O/16:0,Lipid,CER,Cer 18:2;2O/16:0
+Cer 18:2;2O/16:0;(2OH),Lipid,CER,Cer 18:2;2O/16:0;(2OH)
+Cer 18:2;2O/16:1,Lipid,Cer,Cer 18:2;2O/16:1
+Cer 18:2;2O/16:1,Lipid,CER,Cer 18:2;2O/16:1
+Cer 18:2;2O/16:2,Lipid,CER,Cer 18:2;2O/16:2
+Cer 18:2;2O/18:0,Lipid,Cer,Cer 18:2;2O/18:0
+Cer 18:2;2O/18:0,Lipid,CER,Cer 18:2;2O/18:0
+Cer 18:2;2O/18:2,Lipid,CER,Cer 18:2;2O/18:2
+Cer 18:2;2O/2:0,Lipid,Cer,Cer 18:2;2O/2:0
+Cer 18:2;2O/2:0,Lipid,Cer,Cer 18:2;2O/2:0
+Cer 18:2;2O/20:0,Lipid,Cer,Cer 18:2;2O/20:0
+Cer 18:2;2O/20:0,Lipid,CER,Cer 18:2;2O/20:0
+Cer 18:2;2O/20:2,Lipid,Cer,Cer 18:2;2O/20:2
+Cer 18:2;2O/21:1,Lipid,CER,Cer 18:2;2O/21:1
+Cer 18:2;2O/22:0,Lipid,Cer,Cer 18:2;2O/22:0
+Cer 18:2;2O/22:0,Lipid,CER,Cer 18:2;2O/22:0
+Cer 18:2;2O/22:0;(2OH),Lipid,CER,Cer 18:2;2O/22:0;(2OH)
+Cer 18:3;2O/2:0,Lipid,Cer,Cer 18:3;2O/2:0
+Cer 19:2;2O/16:0,Lipid,Cer,Cer 19:2;2O/16:0
+Cer 19:2;2O/16:0,Lipid,CER,Cer 19:2;2O/16:0
+Cer 19:2;2O/16:0;(2OH),Lipid,Cer,Cer 19:2;2O/16:0;(2OH)
+Cer 19:2;2O/17:2,Lipid,Cer,Cer 19:2;2O/17:2
+Cer 19:2;2O/18:0,Lipid,Cer,Cer 19:2;2O/18:0
+Cer 19:2;2O/18:0,Lipid,CER,Cer 19:2;2O/18:0
+Cer 19:2;2O/2:0,Lipid,Cer,Cer 19:2;2O/2:0
+Cer 19:2;2O/20:0,Lipid,Cer,Cer 19:2;2O/20:0
+Cer 19:2;2O/20:0,Lipid,CER,Cer 19:2;2O/20:0
+Cer 19:2;2O/20:0;(2OH),Lipid,CER,Cer 19:2;2O/20:0;(2OH)
+Cer 19:2;2O/20:1,Lipid,Cer,Cer 19:2;2O/20:1
+Cer 19:2;2O/20:1,Lipid,CER,Cer 19:2;2O/20:1
+Cer 19:2;2O/21:0,Lipid,Cer,Cer 19:2;2O/21:0
+Cer 19:2;2O/21:0,Lipid,CER,Cer 19:2;2O/21:0
+Cer 19:2;2O/22:0,Lipid,Cer,Cer 19:2;2O/22:0
+Cer 19:2;2O/22:0,Lipid,CER,Cer 19:2;2O/22:0
+Cer 19:2;2O/22:0;(2OH),Lipid,Cer,Cer 19:2;2O/22:0;(2OH)
+Cer 19:2;2O/22:0;(2OH),Lipid,CER,Cer 19:2;2O/22:0;(2OH)
+Cer 19:2;2O/22:1,Lipid,CER,Cer 19:2;2O/22:1
+Cer 19:3;2O/15:0,Lipid,CER,Cer 19:3;2O/15:0
+Cer 19:3;2O/16:0,Lipid,CER,Cer 19:3;2O/16:0
+Cer 19:3;2O/18:1;(2OH),Lipid,Cer,Cer 19:3;2O/18:1;(2OH)
+Cer 19:3;2O/18:1;(2OH),Lipid,CER,Cer 19:3;2O/18:1;(2OH)
+Cer 19:3;2O/18:2,Lipid,Cer,Cer 19:3;2O/18:2
+Cer 19:3;2O/18:2,Lipid,Cer,Cer 19:3;2O/18:2
+Cer 19:3;2O/18:2,Lipid,Cer,Cer 19:3;2O/18:2
+Cer 19:3;2O/18:2,Lipid,CER,Cer 19:3;2O/18:2
+Cer 19:3;2O/18:2,Lipid,CER,Cer 19:3;2O/18:2
+Cer 20:0;2O/16:0,Lipid,CER,Cer 20:0;2O/16:0
+Cer 20:1;2O/2:0,Lipid,Cer,Cer 20:1;2O/2:0
+Cer 20:1;2O/2:0,Lipid,Cer,Cer 20:1;2O/2:0
+Cer 20:2;2O/16:0,Lipid,CER,Cer 20:2;2O/16:0
+Cer 20:2;2O/18:0,Lipid,CER,Cer 20:2;2O/18:0
+Cer 20:2;2O/18:2,Lipid,Cer,Cer 20:2;2O/18:2
+Cer 20:3;2O/16:2,Lipid,Cer,Cer 20:3;2O/16:2
+Cer 20:3;2O/16:2,Lipid,CER,Cer 20:3;2O/16:2
+Cer 20:3;2O/2:0,Lipid,Cer,Cer 20:3;2O/2:0
+Cer 20:3;2O/20:2,Lipid,Cer,Cer 20:3;2O/20:2
+Cer 20:3;2O/20:5,Lipid,Cer,Cer 20:3;2O/20:5
+Cer 21:0;2O/18:0;(2OH),Lipid,CER,Cer 21:0;2O/18:0;(2OH)
+Cer 21:0;2O/18:2;(2OH),Lipid,Cer,Cer 21:0;2O/18:2;(2OH)
+Cer 21:0;2O/2:0,Lipid,CER,Cer 21:0;2O/2:0
+Cer 21:2;2O/17:1,Lipid,Cer,Cer 21:2;2O/17:1
+Cer 22:0;2O/16:2,Lipid,Cer,Cer 22:0;2O/16:2
+Cer 22:0;2O/16:2,Lipid,CER,Cer 22:0;2O/16:2
+Cer 22:0;2O/18:0,Lipid,Cer,Cer 22:0;2O/18:0
+Cer 23:2;2O/5:0,Lipid,Cer,Cer 23:2;2O/5:0
+Cer 24:0;2O/16:2,Lipid,Cer,Cer 24:0;2O/16:2
+Cer 24:0;2O/16:2,Lipid,CER,Cer 24:0;2O/16:2
+Cer 24:3;3O/12:1;(2OH),Lipid,CER,Cer 24:3;3O/12:1;(2OH)
+Cer 27:3;2O/3:0,Lipid,CER,Cer 27:3;2O/3:0
+Cer 29:0;2O/5:0,Lipid,CER,Cer 29:0;2O/5:0
+Cer 32:0;2O/2:0,Lipid,Cer,Cer 32:0;2O/2:0
+Cer 36:1;3O/16:0;(2OH),Lipid,CER,Cer 36:1;3O/16:0;(2OH)
+Cer 37:4;O3,Lipid,Cer,Cer 37:4;O3
+Cer 37:4;O3,Lipid,Cer,Cer 37:4;O3
+Cer 38:3;2O/5:0,Lipid,CER,Cer 38:3;2O/5:0
+Cer 8:0;2O/10:0,Lipid,CER,Cer 8:0;2O/10:0
+Cer 8:0;2O/14:0,Lipid,Cer,Cer 8:0;2O/14:0
+Cer 8:0;2O/29:0,Lipid,Cer,Cer 8:0;2O/29:0
+Cer 8:0;2O/29:0,Lipid,CER,Cer 8:0;2O/29:0
+Cer 8:0;2O/31:0,Lipid,Cer,Cer 8:0;2O/31:0
+Cer 8:0;2O/31:0,Lipid,CER,Cer 8:0;2O/31:0
+Cer 8:0;2O/32:0,Lipid,CER,Cer 8:0;2O/32:0
+Cer 8:0;2O/33:0,Lipid,CER,Cer 8:0;2O/33:0
+Cer 8:0;3O/14:1;(2OH),Lipid,Cer,Cer 8:0;3O/14:1;(2OH)
+Cer 8:0;3O/26:0;(2OH),Lipid,CER,Cer 8:0;3O/26:0;(2OH)
+Cer 8:1;2O/19:2,Lipid,Cer,Cer 8:1;2O/19:2
+Cer 8:1;2O/20:3,Lipid,Cer,Cer 8:1;2O/20:3
+Cer 8:1;2O/20:3,Lipid,CER,Cer 8:1;2O/20:3
+Cer 8:1;2O/20:4,Lipid,Cer,Cer 8:1;2O/20:4
+Cer 8:1;2O/28:3,Lipid,CER,Cer 8:1;2O/28:3
+Cer 8:1;2O/28:4,Lipid,CER,Cer 8:1;2O/28:4
+Cer 8:1;2O/28:4,Lipid,CER,Cer 8:1;2O/28:4
+Cer 8:1;2O/32:6,Lipid,Cer,Cer 8:1;2O/32:6
+Cer 9:0;3O/14:1;(2OH),Lipid,CER,Cer 9:0;3O/14:1;(2OH)
+Cer 9:0;3O/16:2;(2OH),Lipid,CER,Cer 9:0;3O/16:2;(2OH)
+Cer 9:1;2O/24:5,Lipid,CER,Cer 9:1;2O/24:5
+Cer 9:1;2O/28:3,Lipid,CER,Cer 9:1;2O/28:3
+Cer 9:1;2O/32:2,Lipid,CER,Cer 9:1;2O/32:2
+Cer(d14:1(4E)/20:0(2OH)),Lipid,Cer,Cer(d14:1(4E)/20:0(2OH))
+Cer(d14:1(4E)/20:1(11Z)(2OH)),Lipid,Cer,Cer(d14:1(4E)/20:1(11Z)(2OH))
+Cer(d14:1(4E)/20:1(11Z)(2OH)),Lipid,CER,Cer(d14:1(4E)/20:1(11Z)(2OH))
+Cer(d14:1(4E)/22:0(2OH)),Lipid,Cer,Cer(d14:1(4E)/22:0(2OH))
+Cer(d14:1(4E)/22:0(2OH)),Lipid,CER,Cer(d14:1(4E)/22:0(2OH))
+Cer(d14:1(4E)/26:0(2OH)),Lipid,CER,Cer(d14:1(4E)/26:0(2OH))
+"Cer(d14:2(4E,6E)/18:1(9Z)(2OH))",Lipid,Cer,"Cer(d14:2(4E,6E)/18:1(9Z)(2OH))"
+"Cer(d14:2(4E,6E)/18:1(9Z)(2OH))",Lipid,CER,"Cer(d14:2(4E,6E)/18:1(9Z)(2OH))"
+"Cer(d14:2(4E,6E)/20:1(11Z)(2OH))",Lipid,Cer,"Cer(d14:2(4E,6E)/20:1(11Z)(2OH))"
+"Cer(d14:2(4E,6E)/22:1(13Z)(2OH))",Lipid,Cer,"Cer(d14:2(4E,6E)/22:1(13Z)(2OH))"
+"Cer(d15:2(4E,6E)/20:0(2OH))",Lipid,Cer,"Cer(d15:2(4E,6E)/20:0(2OH))"
+"Cer(d15:2(4E,6E)/20:0(2OH))",Lipid,CER,"Cer(d15:2(4E,6E)/20:0(2OH))"
+"Cer(d15:2(4E,6E)/22:0(2OH))",Lipid,Cer,"Cer(d15:2(4E,6E)/22:0(2OH))"
+"Cer(d15:2(4E,6E)/22:0(2OH))",Lipid,CER,"Cer(d15:2(4E,6E)/22:0(2OH))"
+Cer(d16:1/17:0),Lipid,CER,Cer(d16:1/17:0)
+"Cer(d16:2(4E,6E)/24:0(2OH))",Lipid,CER,"Cer(d16:2(4E,6E)/24:0(2OH))"
+Cer(d18:0/16:0(2OH)),Lipid,CER,Cer(d18:0/16:0(2OH))
+Cer(d18:0/21:0),Lipid,Cer,Cer(d18:0/21:0)
+Cer(d18:0/21:0),Lipid,CER,Cer(d18:0/21:0)
+Cer(d18:0/22:0(2OH)),Lipid,CER,Cer(d18:0/22:0(2OH))
+Cer(d18:0/23:0),Lipid,CER,Cer(d18:0/23:0)
+Cer(d18:0/30:0(30OH)),Lipid,Cer,Cer(d18:0/30:0(30OH))
+Cer(d18:0/30:0(30OH)),Lipid,CER,Cer(d18:0/30:0(30OH))
+Cer(d18:0/h17:0),Lipid,Cer,Cer(d18:0/h17:0)
+Cer(d18:0/h17:0),Lipid,CER,Cer(d18:0/h17:0)
+Cer(d18:1/14:0),Lipid,Cer,Cer(d18:1/14:0)
+Cer(d18:1/14:0),Lipid,Cer,Cer(d18:1/14:0)
+Cer(d18:1/14:0),Lipid,CER,Cer(d18:1/14:0)
+Cer(d18:1/16:0),Lipid,Cer,Cer(d18:1/16:0)
+Cer(d18:1/20:0),Lipid,CER,Cer(d18:1/20:0)
+Cer(d18:1/34:0(34OH)),Lipid,Cer,Cer(d18:1/34:0(34OH))
+Cer(d18:1/34:0(34OH)),Lipid,CER,Cer(d18:1/34:0(34OH))
+Cer(d18:1/36:0(36OH)),Lipid,Cer,Cer(d18:1/36:0(36OH))
+Cer(d18:2/14:0),Lipid,CER,Cer(d18:2/14:0)
+Cer(d18:2/20:0),Lipid,Cer,Cer(d18:2/20:0)
+Cer(d18:2/28:0(2OH)),Lipid,Cer,Cer(d18:2/28:0(2OH))
+Cer(d18:2/28:0(2OH)),Lipid,CER,Cer(d18:2/28:0(2OH))
+Cer(d18:2/30:0(30OH)),Lipid,Cer,Cer(d18:2/30:0(30OH))
+Cer(d18:2/30:0(30OH)),Lipid,CER,Cer(d18:2/30:0(30OH))
+Cer(d18:2/32:0(32OH)),Lipid,CER,Cer(d18:2/32:0(32OH))
+Cer(m18:0/16:0),Lipid,Cer,Cer(m18:0/16:0)
+Cer(m18:0/16:0),Lipid,Cer,Cer(m18:0/16:0)
+Cer(m18:0/16:0),Lipid,CER,Cer(m18:0/16:0)
+Cer(m18:0/18:0),Lipid,Cer,Cer(m18:0/18:0)
+Cer(m18:0/18:0),Lipid,CER,Cer(m18:0/18:0)
+Cer(m18:0/20:0),Lipid,CER,Cer(m18:0/20:0)
+Cer(m18:1(4E)/16:0),Lipid,Cer,Cer(m18:1(4E)/16:0)
+Cer(m18:1(4E)/16:0),Lipid,CER,Cer(m18:1(4E)/16:0)
+Cer(m18:1(4E)/18:0),Lipid,Cer,Cer(m18:1(4E)/18:0)
+Cer(m18:1(4E)/18:0),Lipid,CER,Cer(m18:1(4E)/18:0)
+Cer(m18:1(4E)/20:0),Lipid,Cer,Cer(m18:1(4E)/20:0)
+Cer(m18:1(4E)/20:0),Lipid,CER,Cer(m18:1(4E)/20:0)
+Cer(m18:1(4E)/22:0),Lipid,Cer,Cer(m18:1(4E)/22:0)
+Cer(m18:1(4E)/22:0),Lipid,CER,Cer(m18:1(4E)/22:0)
+Cer(m18:1(4E)/24:0),Lipid,CER,Cer(m18:1(4E)/24:0)
+Cer(t18:0/19:0),Lipid,CER,Cer(t18:0/19:0)
+Cer(t18:0/21:0),Lipid,CER,Cer(t18:0/21:0)
+Cer(t18:0/22:0(2OH)),Lipid,Cer,Cer(t18:0/22:0(2OH))
+Cer(t18:0/22:0(2OH)),Lipid,CER,Cer(t18:0/22:0(2OH))
+Cer(t18:0/23:0),Lipid,CER,Cer(t18:0/23:0)
+Cer(t18:0/24:0(2OH)),Lipid,CER,Cer(t18:0/24:0(2OH))
+Cer(t18:1(6OH)/14:0),Lipid,Cer,Cer(t18:1(6OH)/14:0)
+Cer(t18:1(6OH)/14:0),Lipid,CER,Cer(t18:1(6OH)/14:0)
+Cer(t18:1(6OH)/16:0(2OH)),Lipid,CER,Cer(t18:1(6OH)/16:0(2OH))
+Cer(t18:1(6OH)/17:0),Lipid,CER,Cer(t18:1(6OH)/17:0)
+Cer(t18:1(6OH)/21:0),Lipid,CER,Cer(t18:1(6OH)/21:0)
+Cer(t18:1(6OH)/26:0(2OH)),Lipid,Cer,Cer(t18:1(6OH)/26:0(2OH))
+Cer(t18:1(6OH)/26:0(2OH)),Lipid,CER,Cer(t18:1(6OH)/26:0(2OH))
+CerP 14:0;2O/10:0,Lipid,Cer,CerP 14:0;2O/10:0
+CerP 14:0;2O/10:0,Lipid,CerP,CerP 14:0;2O/10:0
+CerP 19:0;2O/2:0,Lipid,CerP,CerP 19:0;2O/2:0
+CerP 19:1;2O/24:4,Lipid,CerP,CerP 19:1;2O/24:4
+DG 10:0_16:2,Lipid,DG,DG 10:0_16:2
+DG 12:0_14:0,Lipid,DG,DG 12:0_14:0
+DG 12:0_16:1,Lipid,DG,DG 12:0_16:1
+DG 12:0_16:4,Lipid,DG,DG 12:0_16:4
+DG 14:0_14:0,Lipid,DG,DG 14:0_14:0
+DG 14:0_16:0,Lipid,DG,DG 14:0_16:0
+DG 14:0_16:1,Lipid,DG,DG 14:0_16:1
+DG 14:0_16:2,Lipid,DG,DG 14:0_16:2
+DG 14:0_16:3,Lipid,DG,DG 14:0_16:3
+DG 14:0_16:4,Lipid,DG,DG 14:0_16:4
+DG 14:0_18:3,Lipid,DG,DG 14:0_18:3
+DG 14:0_22:6,Lipid,DG,DG 14:0_22:6
+DG 14:1_16:4,Lipid,DG,DG 14:1_16:4
+DG 14:1_19:1,Lipid,DG,DG 14:1_19:1
+DG 15:0_17:0,Lipid,DG,DG 15:0_17:0
+DG 15:0_18:5,Lipid,DG,DG 15:0_18:5
+DG 15:0_32:2,Lipid,DG,DG 15:0_32:2
+DG 15:1_32:2,Lipid,DG,DG 15:1_32:2
+DG 15:1_34:2,Lipid,DG,DG 15:1_34:2
+DG 15:1_38:4,Lipid,DG,DG 15:1_38:4
+DG 16:0_16:1,Lipid,DG,DG 16:0_16:1
+DG 16:0_16:2,Lipid,DG,DG 16:0_16:2
+DG 16:0_16:3,Lipid,DG,DG 16:0_16:3
+DG 16:0_16:4,Lipid,DG,DG 16:0_16:4
+DG 16:0_17:1,Lipid,DG,DG 16:0_17:1
+DG 16:0_18:2,Lipid,DG,DG 16:0_18:2
+DG 16:0_18:3,Lipid,DG,DG 16:0_18:3
+DG 16:0_18:4,Lipid,DG,DG 16:0_18:4
+DG 16:0_20:5,Lipid,DG,DG 16:0_20:5
+DG 16:0_22:6,Lipid,DG,DG 16:0_22:6
+DG 16:0_24:5,Lipid,DG,DG 16:0_24:5
+DG 16:0_24:6,Lipid,DG,DG 16:0_24:6
+DG 16:0-18:1,Lipid,DG,DG 16:0-18:1
+DG 16:1_16:2,Lipid,DG,DG 16:1_16:2
+DG 16:1_16:3,Lipid,DG,DG 16:1_16:3
+DG 16:1_18:1,Lipid,DG,DG 16:1_18:1
+DG 16:1_18:2,Lipid,DG,DG 16:1_18:2
+DG 16:1_18:5,Lipid,DG,DG 16:1_18:5
+DG 16:1_19:2,Lipid,DG,DG 16:1_19:2
+DG 16:1_22:6,Lipid,DG,DG 16:1_22:6
+DG 16:1_28:7,Lipid,DG,DG 16:1_28:7
+DG 16:2_16:3,Lipid,DG,DG 16:2_16:3
+DG 16:2_18:4,Lipid,DG,DG 16:2_18:4
+DG 16:2_18:5,Lipid,DG,DG 16:2_18:5
+DG 16:2_20:2,Lipid,DG,DG 16:2_20:2
+DG 16:2_20:5,Lipid,DG,DG 16:2_20:5
+DG 16:2_22:6,Lipid,DG,DG 16:2_22:6
+DG 16:3_16:3,Lipid,DG,DG 16:3_16:3
+DG 16:3_16:4,Lipid,DG,DG 16:3_16:4
+DG 16:3_18:3,Lipid,DG,DG 16:3_18:3
+DG 16:3_18:4,Lipid,DG,DG 16:3_18:4
+DG 16:3_18:5,Lipid,DG,DG 16:3_18:5
+DG 16:3_22:6,Lipid,DG,DG 16:3_22:6
+DG 16:4_16:4,Lipid,DG,DG 16:4_16:4
+DG 16:4_18:4,Lipid,DG,DG 16:4_18:4
+DG 16:4_18:5,Lipid,DG,DG 16:4_18:5
+DG 16:4_20:5,Lipid,DG,DG 16:4_20:5
+DG 16:4_20:5,Lipid,DG,DG 16:4_20:5
+DG 16:4_20:5,Lipid,DG,DG 16:4_20:5
+DG 16:4_22:6,Lipid,DG,DG 16:4_22:6
+DG 16:4_28:4,Lipid,DG,DG 16:4_28:4
+DG 16:4_30:4,Lipid,DG,DG 16:4_30:4
+DG 17:1_20:4,Lipid,DG,DG 17:1_20:4
+DG 17:1_32:1,Lipid,DG,DG 17:1_32:1
+DG 17:1_32:2,Lipid,DG,DG 17:1_32:2
+DG 17:1_32:4,Lipid,DG,DG 17:1_32:4
+DG 17:1_34:2,Lipid,DG,DG 17:1_34:2
+DG 17:1_34:3,Lipid,DG,DG 17:1_34:3
+DG 17:1_36:2,Lipid,DG,DG 17:1_36:2
+DG 17:1_36:3,Lipid,DG,DG 17:1_36:3
+DG 17:1_38:4,Lipid,DG,DG 17:1_38:4
+DG 17:1_38:4,Lipid,DG,DG 17:1_38:4
+DG 17:1_38:4,Lipid,DG,DG 17:1_38:4
+DG 17:1_38:4,Lipid,DG,DG 17:1_38:4
+DG 17:1_38:5,Lipid,DG,DG 17:1_38:5
+DG 17:1_40:2,Lipid,DG,DG 17:1_40:2
+DG 17:1_40:5,Lipid,DG,DG 17:1_40:5
+DG 17:1_40:6,Lipid,DG,DG 17:1_40:6
+DG 17:1_42:5,Lipid,DG,DG 17:1_42:5
+DG 17:1_42:6,Lipid,DG,DG 17:1_42:6
+DG 17:2_26:7,Lipid,DG,DG 17:2_26:7
+DG 17:2_40:6,Lipid,DG,DG 17:2_40:6
+DG 18:0_16:2,Lipid,DG,DG 18:0_16:2
+DG 18:0_17:1,Lipid,DG,DG 18:0_17:1
+DG 18:0_18:1,Lipid,DG,DG 18:0_18:1
+DG 18:0_18:2,Lipid,DG,DG 18:0_18:2
+DG 18:0_22:4,Lipid,DG,DG 18:0_22:4
+DG 18:0_22:6,Lipid,DG,DG 18:0_22:6
+DG 18:0_24:5,Lipid,DG,DG 18:0_24:5
+DG 18:0_24:6,Lipid,DG,DG 18:0_24:6
+DG 18:1_16:2,Lipid,DG,DG 18:1_16:2
+DG 18:1_16:3,Lipid,DG,DG 18:1_16:3
+DG 18:1_16:4,Lipid,DG,DG 18:1_16:4
+DG 18:1_18:2,Lipid,DG,DG 18:1_18:2
+DG 18:1_18:4,Lipid,DG,DG 18:1_18:4
+DG 18:1_20:4,Lipid,DG,DG 18:1_20:4
+DG 18:1_22:6,Lipid,DG,DG 18:1_22:6
+DG 18:1/18:1,Lipid,DG,DG 18:1/18:1
+DG 18:2_16:3,Lipid,DG,DG 18:2_16:3
+DG 18:2_18:3,Lipid,DG,DG 18:2_18:3
+DG 18:2_18:4,Lipid,DG,DG 18:2_18:4
+DG 18:2_22:6,Lipid,DG,DG 18:2_22:6
+DG 18:3_18:3,Lipid,DG,DG 18:3_18:3
+DG 18:3_18:4,Lipid,DG,DG 18:3_18:4
+DG 18:3_22:6,Lipid,DG,DG 18:3_22:6
+DG 18:4_18:4,Lipid,DG,DG 18:4_18:4
+DG 18:4_18:5,Lipid,DG,DG 18:4_18:5
+DG 18:4_20:5,Lipid,DG,DG 18:4_20:5
+DG 18:4_22:6,Lipid,DG,DG 18:4_22:6
+DG 18:4_32:8,Lipid,DG,DG 18:4_32:8
+DG 18:5_20:5,Lipid,DG,DG 18:5_20:5
+DG 19:0_36:2,Lipid,DG,DG 19:0_36:2
+DG 19:1_16:4,Lipid,DG,DG 19:1_16:4
+DG 19:1_20:4,Lipid,DG,DG 19:1_20:4
+DG 19:1_26:6,Lipid,DG,DG 19:1_26:6
+DG 19:1_38:8,Lipid,DG,DG 19:1_38:8
+DG 19:2_38:4,Lipid,DG,DG 19:2_38:4
+DG 20:0_16:2,Lipid,DG,DG 20:0_16:2
+DG 20:4_44:4,Lipid,DG,DG 20:4_44:4
+DG 20:4_44:5,Lipid,DG,DG 20:4_44:5
+DG 20:5_22:6,Lipid,DG,DG 20:5_22:6
+DG 21:0_36:1,Lipid,DG,DG 21:0_36:1
+DG 21:0_38:5,Lipid,DG,DG 21:0_38:5
+DG 21:1_30:6,Lipid,DG,DG 21:1_30:6
+DG 22:3_20:5,Lipid,DG,DG 22:3_20:5
+DG 22:6_22:6,Lipid,DG,DG 22:6_22:6
+DG 23:0_36:9,Lipid,DG,DG 23:0_36:9
+DG 24:5_38:5,Lipid,DG,DG 24:5_38:5
+DG 24:5_42:5,Lipid,DG,DG 24:5_42:5
+DG 24:5_42:6,Lipid,DG,DG 24:5_42:6
+DG 24:5_44:5,Lipid,DG,DG 24:5_44:5
+DG 28:3_16:4,Lipid,DG,DG 28:3_16:4
+DG 28:3_16:4,Lipid,DG,DG 28:3_16:4
+DG 30:0_17:1,Lipid,DG,DG 30:0_17:1
+DG 31:0_16:2,Lipid,DG,DG 31:0_16:2
+DG 31:0_30:6,Lipid,DG,DG 31:0_30:6
+DG 32:0_17:1,Lipid,DG,DG 32:0_17:1
+DG 32:0_32:7,Lipid,DG,DG 32:0_32:7
+DG 32:0_36:8,Lipid,DG,DG 32:0_36:8
+DG 33:0_16:2,Lipid,DG,DG 33:0_16:2
+DG 33:0_18:2,Lipid,DG,DG 33:0_18:2
+DG 33:0_20:4,Lipid,DG,DG 33:0_20:4
+DG 34:0_17:1,Lipid,DG,DG 34:0_17:1
+DG 34:0_17:1,Lipid,DG,DG 34:0_17:1
+DG 34:0_17:1,Lipid,DG,DG 34:0_17:1
+DG 34:0_17:1,Lipid,DG,DG 34:0_17:1
+DG 34:0_24:5,Lipid,DG,DG 34:0_24:5
+DG 34:0_28:7,Lipid,DG,DG 34:0_28:7
+DG 34:0_30:8,Lipid,DG,DG 34:0_30:8
+DG 34:0_34:8,Lipid,DG,DG 34:0_34:8
+DG 34:0_36:8,Lipid,DG,DG 34:0_36:8
+DG 34:2_34:8,Lipid,DG,DG 34:2_34:8
+DG 34:2_36:8,Lipid,DG,DG 34:2_36:8
+DG 35:0_16:2,Lipid,DG,DG 35:0_16:2
+DG 35:0_20:4,Lipid,DG,DG 35:0_20:4
+DG 36:0_17:1,Lipid,DG,DG 36:0_17:1
+DG 36:1_24:5,Lipid,DG,DG 36:1_24:5
+DG 36:1_30:8,Lipid,DG,DG 36:1_30:8
+DG 36:1_34:8,Lipid,DG,DG 36:1_34:8
+DG 36:2_36:8,Lipid,DG,DG 36:2_36:8
+DG 36:4_32:8,Lipid,DG,DG 36:4_32:8
+DG 36:4_34:8,Lipid,DG,DG 36:4_34:8
+DG 36:4_36:8,Lipid,DG,DG 36:4_36:8
+DG 37:0_16:2,Lipid,DG,DG 37:0_16:2
+DG 37:0_18:1,Lipid,DG,DG 37:0_18:1
+DG 37:0_18:2,Lipid,DG,DG 37:0_18:2
+DG 37:0_20:4,Lipid,DG,DG 37:0_20:4
+DG 37:0_20:5,Lipid,DG,DG 37:0_20:5
+DG 37:0_22:6,Lipid,DG,DG 37:0_22:6
+DG 37:0_24:6,Lipid,DG,DG 37:0_24:6
+DG 38:4_30:8,Lipid,DG,DG 38:4_30:8
+DG 38:4_34:7,Lipid,DG,DG 38:4_34:7
+DG 38:4_34:8,Lipid,DG,DG 38:4_34:8
+DG 38:4_36:7,Lipid,DG,DG 38:4_36:7
+DG 38:4_36:8,Lipid,DG,DG 38:4_36:8
+DG 38:4_38:8,Lipid,DG,DG 38:4_38:8
+DG 39:0_18:1,Lipid,DG,DG 39:0_18:1
+DG 39:0_18:2,Lipid,DG,DG 39:0_18:2
+DG 39:0_20:4,Lipid,DG,DG 39:0_20:4
+DG 39:0_20:5,Lipid,DG,DG 39:0_20:5
+DG 39:0_24:5,Lipid,DG,DG 39:0_24:5
+DG 40:0_24:5,Lipid,DG,DG 40:0_24:5
+DG 41:0_20:4,Lipid,DG,DG 41:0_20:4
+DG 42:0_20:4,Lipid,DG,DG 42:0_20:4
+DG 42:4_24:5,Lipid,DG,DG 42:4_24:5
+DG 42:5_24:6,Lipid,DG,DG 42:5_24:6
+DG 8:0_13:0,Lipid,DG,DG 8:0_13:0
+DG 8:0_16:4,Lipid,DG,DG 8:0_16:4
+DG 8:0_18:3,Lipid,DG,DG 8:0_18:3
+DG 8:0_20:5,Lipid,DG,DG 8:0_20:5
+DG 9:0_13:1,Lipid,DG,DG 9:0_13:1
+DG 9:0_18:3,Lipid,DG,DG 9:0_18:3
+DG 9:0_18:4,Lipid,DG,DG 9:0_18:4
+DG dO-34:4,Lipid,DG,DG dO-34:4
+DG dO-34:4,Lipid,DG,DG dO-34:4
+DG dO-34:4,Lipid,DG,DG dO-34:4
+DG dO-34:4,Lipid,DG,DG dO-34:4
+DG dO-34:4,Lipid,DG,DG dO-34:4
+DG dO-34:4,Lipid,DG,DG dO-34:4
+DG dO-34:4,Lipid,DG,DG dO-34:4
+DG dO-34:4,Lipid,DG,DG dO-34:4
+DG dO-34:4,Lipid,DG,DG dO-34:4
+DG dO-34:4,Lipid,DG,DG dO-34:4
+DG dO-34:4,Lipid,DG,DG dO-34:4
+DG dO-34:4,Lipid,DG,DG dO-34:4
+DG dO-34:4,Lipid,DG,DG dO-34:4
+DG dO-34:4,Lipid,DG,DG dO-34:4
+DG dO-34:4,Lipid,DG,DG dO-34:4
+DG dO-34:4,Lipid,DG,DG dO-34:4
+DG dO-36:4,Lipid,DG,DG dO-36:4
+DG dO-36:4,Lipid,DG,DG dO-36:4
+DG dO-36:4,Lipid,DG,DG dO-36:4
+DG dO-36:4,Lipid,DG,DG dO-36:4
+DG dO-40:8,Lipid,DG,DG dO-40:8
+DG O-15:0_18:1,Lipid,DG,DG O-15:0_18:1
+DG O-15:0_21:1,Lipid,DG,DG O-15:0_21:1
+DG O-16:0_14:0,Lipid,DG,DG O-16:0_14:0
+DG O-16:0_16:0,Lipid,DG,DG O-16:0_16:0
+DG O-16:0_16:1,Lipid,DG,DG O-16:0_16:1
+DG O-16:0_16:2,Lipid,DG,DG O-16:0_16:2
+DG O-16:0_16:4,Lipid,DG,DG O-16:0_16:4
+DG O-16:0_17:1,Lipid,DG,DG O-16:0_17:1
+DG O-16:0_18:1,Lipid,DG,DG O-16:0_18:1
+DG O-16:0_18:2,Lipid,DG,DG O-16:0_18:2
+DG O-16:0_18:3,Lipid,DG,DG O-16:0_18:3
+DG O-16:0_18:4,Lipid,DG,DG O-16:0_18:4
+DG O-16:0_20:3,Lipid,DG,DG O-16:0_20:3
+DG O-16:0_20:4,Lipid,DG,DG O-16:0_20:4
+DG O-16:0_20:5,Lipid,DG,DG O-16:0_20:5
+DG O-16:0_22:5,Lipid,DG,DG O-16:0_22:5
+DG O-16:0_22:6,Lipid,DG,DG O-16:0_22:6
+DG O-16:0_24:5,Lipid,DG,DG O-16:0_24:5
+DG O-16:0_24:6,Lipid,DG,DG O-16:0_24:6
+DG O-16:1_18:0,Lipid,DG,DG O-16:1_18:0
+DG O-16:1_20:4,Lipid,DG,DG O-16:1_20:4
+DG O-16:2_16:0,Lipid,DG,DG O-16:2_16:0
+DG O-16:2_18:3,Lipid,DG,DG O-16:2_18:3
+DG O-16:2_3:0,Lipid,DG,DG O-16:2_3:0
+DG O-16:2_3:0,Lipid,DG,DG O-16:2_3:0
+DG O-16:3_16:0,Lipid,DG,DG O-16:3_16:0
+DG O-16:3_2:0,Lipid,DG,DG O-16:3_2:0
+DG O-16:3_2:0,Lipid,DG,DG O-16:3_2:0
+DG O-16:3_3:0,Lipid,DG,DG O-16:3_3:0
+DG O-16:3_3:0,Lipid,DG,DG O-16:3_3:0
+DG O-16:3_3:0,Lipid,DG,DG O-16:3_3:0
+DG O-16:4_17:1,Lipid,DG,DG O-16:4_17:1
+DG O-16:4_3:0,Lipid,DG,DG O-16:4_3:0
+DG O-16:4_3:0,Lipid,DG,DG O-16:4_3:0
+DG O-16:4_3:0,Lipid,DG,DG O-16:4_3:0
+DG O-16:4_7:0,Lipid,DG,DG O-16:4_7:0
+DG O-17:0_16:3,Lipid,DG,DG O-17:0_16:3
+DG O-17:0_18:5,Lipid,DG,DG O-17:0_18:5
+DG O-17:0_2:0,Lipid,DG,DG O-17:0_2:0
+DG O-17:1_14:0,Lipid,DG,DG O-17:1_14:0
+DG O-17:1_14:0,Lipid,DG,DG O-17:1_14:0
+DG O-17:1_16:0,Lipid,DG,DG O-17:1_16:0
+DG O-17:1_16:0,Lipid,DG,DG O-17:1_16:0
+DG O-17:1_16:0,Lipid,DG,DG O-17:1_16:0
+DG O-17:1_16:0,Lipid,DG,DG O-17:1_16:0
+DG O-17:1_16:1,Lipid,DG,DG O-17:1_16:1
+DG O-17:1_18:0,Lipid,DG,DG O-17:1_18:0
+DG O-17:1_20:4,Lipid,DG,DG O-17:1_20:4
+DG O-17:2_14:0,Lipid,DG,DG O-17:2_14:0
+DG O-17:2_16:0,Lipid,DG,DG O-17:2_16:0
+DG O-17:2_16:2,Lipid,DG,DG O-17:2_16:2
+DG O-17:2_16:3,Lipid,DG,DG O-17:2_16:3
+DG O-17:2_16:4,Lipid,DG,DG O-17:2_16:4
+DG O-18:0_16:0,Lipid,DG,DG O-18:0_16:0
+DG O-18:0_16:2,Lipid,DG,DG O-18:0_16:2
+DG O-18:0_16:4,Lipid,DG,DG O-18:0_16:4
+DG O-18:0_17:1,Lipid,DG,DG O-18:0_17:1
+DG O-18:0_18:0,Lipid,DG,DG O-18:0_18:0
+DG O-18:0_18:1,Lipid,DG,DG O-18:0_18:1
+DG O-18:0_18:2,Lipid,DG,DG O-18:0_18:2
+DG O-18:0_18:3,Lipid,DG,DG O-18:0_18:3
+DG O-18:0_19:0,Lipid,DG,DG O-18:0_19:0
+DG O-18:0_20:0,Lipid,DG,DG O-18:0_20:0
+DG O-18:0_20:2,Lipid,DG,DG O-18:0_20:2
+DG O-18:0_20:4,Lipid,DG,DG O-18:0_20:4
+DG O-18:0_20:4,Lipid,DG,DG O-18:0_20:4
+DG O-18:0_20:4,Lipid,DG,DG O-18:0_20:4
+DG O-18:0_20:4,Lipid,DG,DG O-18:0_20:4
+DG O-18:0_20:5,Lipid,DG,DG O-18:0_20:5
+DG O-18:0_22:5,Lipid,DG,DG O-18:0_22:5
+DG O-18:0_22:6,Lipid,DG,DG O-18:0_22:6
+DG O-18:0_24:5,Lipid,DG,DG O-18:0_24:5
+DG O-18:0_24:6,Lipid,DG,DG O-18:0_24:6
+DG O-18:1_20:4,Lipid,DG,DG O-18:1_20:4
+DG O-18:1_20:5,Lipid,DG,DG O-18:1_20:5
+DG O-18:1_24:5,Lipid,DG,DG O-18:1_24:5
+DG O-18:1_24:6,Lipid,DG,DG O-18:1_24:6
+DG O-18:5_3:0,Lipid,DG,DG O-18:5_3:0
+DG O-19:1_16:0,Lipid,DG,DG O-19:1_16:0
+DG O-19:1_16:1,Lipid,DG,DG O-19:1_16:1
+DG O-19:1_16:2,Lipid,DG,DG O-19:1_16:2
+DG O-19:1_17:1,Lipid,DG,DG O-19:1_17:1
+DG O-19:1_18:1,Lipid,DG,DG O-19:1_18:1
+DG O-19:1_20:4,Lipid,DG,DG O-19:1_20:4
+DG O-19:1_22:6,Lipid,DG,DG O-19:1_22:6
+DG O-19:1_24:5,Lipid,DG,DG O-19:1_24:5
+DG O-19:2_15:1,Lipid,DG,DG O-19:2_15:1
+DG O-19:2_18:1,Lipid,DG,DG O-19:2_18:1
+DG O-20:0_18:1,Lipid,DG,DG O-20:0_18:1
+DG O-20:0_20:4,Lipid,DG,DG O-20:0_20:4
+DG O-20:2_16:0,Lipid,DG,DG O-20:2_16:0
+DG O-20:2_16:1,Lipid,DG,DG O-20:2_16:1
+DG O-20:4_21:2,Lipid,DG,DG O-20:4_21:2
+DG O-20:4_22:3,Lipid,DG,DG O-20:4_22:3
+DG O-21:2_16:2,Lipid,DG,DG O-21:2_16:2
+DG O-22:4_3:0,Lipid,DG,DG O-22:4_3:0
+DG O-22:5_6:0,Lipid,DG,DG O-22:5_6:0
+DG O-22:6_5:0,Lipid,DG,DG O-22:6_5:0
+DG O-22:6_6:0,Lipid,DG,DG O-22:6_6:0
+DG O-24:4_2:0,Lipid,DG,DG O-24:4_2:0
+DG O-24:4_2:0,Lipid,DG,DG O-24:4_2:0
+DG O-24:4_2:0,Lipid,DG,DG O-24:4_2:0
+DG O-24:4_2:0,Lipid,DG,DG O-24:4_2:0
+DG O-24:5_3:0,Lipid,DG,DG O-24:5_3:0
+DG O-24:6_2:0,Lipid,DG,DG O-24:6_2:0
+DG O-24:6_3:0,Lipid,DG,DG O-24:6_3:0
+DG O-24:6_3:0,Lipid,DG,DG O-24:6_3:0
+DG O-26:2_3:0,Lipid,DG,DG O-26:2_3:0
+DG O-26:4_2:0,Lipid,DG,DG O-26:4_2:0
+DG O-26:5_2:0,Lipid,DG,DG O-26:5_2:0
+DG O-26:5_2:0,Lipid,DG,DG O-26:5_2:0
+DG O-26:5_2:0,Lipid,DG,DG O-26:5_2:0
+DG O-26:5_2:0,Lipid,DG,DG O-26:5_2:0
+DG O-28:1_3:0,Lipid,DG,DG O-28:1_3:0
+DG O-28:4_16:4,Lipid,DG,DG O-28:4_16:4
+DG O-28:4_5:0,Lipid,DG,DG O-28:4_5:0
+DG O-28:5_13:1,Lipid,DG,DG O-28:5_13:1
+DG O-28:5_16:4,Lipid,DG,DG O-28:5_16:4
+DG O-40:8,Lipid,DG,DG O-40:8
+DG O-40:8,Lipid,DG,DG O-40:8
+DG O-40:8,Lipid,DG,DG O-40:8
+DG O-40:8,Lipid,DG,DG O-40:8
+DG O-40:8,Lipid,DG,DG O-40:8
+DG O-40:8,Lipid,DG,DG O-40:8
+DG O-40:9,Lipid,DG,DG O-40:9
+DG O36:4,Lipid,DG,DG O36:4
+DG O36:4,Lipid,DG,DG O36:4
+DG O36:4,Lipid,DG,DG O36:4
+DG O36:4,Lipid,DG,DG O36:4
+DG O37:4,Lipid,DG,DG O37:4
+"DG(12:0/18:3(9Z,12Z,15Z)/0:0)[iso2]",Lipid,DG,"DG(12:0/18:3(9Z,12Z,15Z)/0:0)[iso2]"
+"DG(12:0/20:3(8Z,11Z,14Z)/0:0)[iso2]",Lipid,DG,"DG(12:0/20:3(8Z,11Z,14Z)/0:0)[iso2]"
+"DG(12:0/20:4(5Z,8Z,11Z,14Z)/0:0)[iso2]",Lipid,DG,"DG(12:0/20:4(5Z,8Z,11Z,14Z)/0:0)[iso2]"
+"DG(12:0/20:5(5Z,8Z,11Z,14Z,17Z)/0:0)[iso2]",Lipid,DG,"DG(12:0/20:5(5Z,8Z,11Z,14Z,17Z)/0:0)[iso2]"
+"DG(12:0/22:5(7Z,10Z,13Z,16Z,19Z)/0:0)[iso2]",Lipid,DG,"DG(12:0/22:5(7Z,10Z,13Z,16Z,19Z)/0:0)[iso2]"
+"DG(12:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)[iso2]",Lipid,DG,"DG(12:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)[iso2]"
+"DG(13:0/18:2(9Z,12Z)/0:0)[iso2]",Lipid,DG,"DG(13:0/18:2(9Z,12Z)/0:0)[iso2]"
+"DG(13:0/18:3(9Z,12Z,15Z)/0:0)[iso2]",Lipid,DG,"DG(13:0/18:3(9Z,12Z,15Z)/0:0)[iso2]"
+"DG(13:0/20:4(5Z,8Z,11Z,14Z)/0:0)[iso2]",Lipid,DG,"DG(13:0/20:4(5Z,8Z,11Z,14Z)/0:0)[iso2]"
+"DG(13:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)[iso2]",Lipid,DG,"DG(13:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)[iso2]"
+DG(14:1(9Z)/14:1(9Z)/0:0),Lipid,DG,DG(14:1(9Z)/14:1(9Z)/0:0)
+"DG(14:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)[iso2]",Lipid,DG,"DG(14:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)[iso2]"
+DG(16:0/16:1(9Z)/0:0)[iso2],Lipid,DG,DG(16:0/16:1(9Z)/0:0)[iso2]
+DG(16:1(9Z)/17:1(9Z)/0:0)[iso2],Lipid,DG,DG(16:1(9Z)/17:1(9Z)/0:0)[iso2]
+"DG(16:1(9Z)/17:2(9Z,12Z)/0:0)[iso2]",Lipid,DG,"DG(16:1(9Z)/17:2(9Z,12Z)/0:0)[iso2]"
+"DG(17:1(9Z)/17:2(9Z,12Z)/0:0)[iso2]",Lipid,DG,"DG(17:1(9Z)/17:2(9Z,12Z)/0:0)[iso2]"
+"DG(17:2(9Z,12Z)/17:2(9Z,12Z)/0:0)",Lipid,DG,"DG(17:2(9Z,12Z)/17:2(9Z,12Z)/0:0)"
+"DG(17:2(9Z,12Z)/20:0/0:0)[iso2]",Lipid,DG,"DG(17:2(9Z,12Z)/20:0/0:0)[iso2]"
+DG(18:1(11E)/16:0/0:0),Lipid,DG,DG(18:1(11E)/16:0/0:0)
+"DG(18:2(9Z,12Z)/18:3(9Z,12Z,15Z)/0:0)[iso2]",Lipid,DG,"DG(18:2(9Z,12Z)/18:3(9Z,12Z,15Z)/0:0)[iso2]"
+"DG(18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z)/0:0)",Lipid,DG,"DG(18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z)/0:0)"
+"DG(18:3(9Z,12Z,15Z)/20:1(11Z)/0:0)[iso2]",Lipid,DG,"DG(18:3(9Z,12Z,15Z)/20:1(11Z)/0:0)[iso2]"
+"DG(18:3(9Z,12Z,15Z)/20:2(11Z,14Z)/0:0)[iso2]",Lipid,DG,"DG(18:3(9Z,12Z,15Z)/20:2(11Z,14Z)/0:0)[iso2]"
+"DG(18:3(9Z,12Z,15Z)/20:4(5Z,8Z,11Z,14Z)/0:0)[iso2]",Lipid,DG,"DG(18:3(9Z,12Z,15Z)/20:4(5Z,8Z,11Z,14Z)/0:0)[iso2]"
+"DG(18:3(9Z,12Z,15Z)/20:5(5Z,8Z,11Z,14Z,17Z)/0:0)[iso2]",Lipid,DG,"DG(18:3(9Z,12Z,15Z)/20:5(5Z,8Z,11Z,14Z,17Z)/0:0)[iso2]"
+"DG(18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z)/0:0)",Lipid,DG,"DG(18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z)/0:0)"
+"DG(18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z)/0:0)",Lipid,DG,"DG(18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z)/0:0)"
+"DG(18:4(6Z,9Z,12Z,15Z)/20:5(5Z,8Z,11Z,14Z,17Z)/0:0)[iso2]",Lipid,DG,"DG(18:4(6Z,9Z,12Z,15Z)/20:5(5Z,8Z,11Z,14Z,17Z)/0:0)[iso2]"
+"DG(19:0/20:2(11Z,14Z)/0:0)[iso2]",Lipid,DG,"DG(19:0/20:2(11Z,14Z)/0:0)[iso2]"
+"DG(19:0/22:3(10Z,13Z,16Z)/0:0)[iso2]",Lipid,DG,"DG(19:0/22:3(10Z,13Z,16Z)/0:0)[iso2]"
+"DG(20:0/22:3(10Z,13Z,16Z)/0:0)[iso2]",Lipid,DG,"DG(20:0/22:3(10Z,13Z,16Z)/0:0)[iso2]"
+"DG(20:3(8Z,11Z,14Z)/20:4(5Z,8Z,11Z,14Z)/0:0)[iso2]",Lipid,DG,"DG(20:3(8Z,11Z,14Z)/20:4(5Z,8Z,11Z,14Z)/0:0)[iso2]"
+"DG(20:4(5Z,8Z,11Z,14Z)/20:4(5Z,8Z,11Z,14Z)/0:0)",Lipid,DG,"DG(20:4(5Z,8Z,11Z,14Z)/20:4(5Z,8Z,11Z,14Z)/0:0)"
+"DG(20:4(5Z,8Z,11Z,14Z)/20:5(5Z,8Z,11Z,14Z,17Z)/0:0)[iso2]",Lipid,DG,"DG(20:4(5Z,8Z,11Z,14Z)/20:5(5Z,8Z,11Z,14Z,17Z)/0:0)[iso2]"
+"DG(20:4(5Z,8Z,11Z,14Z)/22:3(10Z,13Z,16Z)/0:0)[iso2]",Lipid,DG,"DG(20:4(5Z,8Z,11Z,14Z)/22:3(10Z,13Z,16Z)/0:0)[iso2]"
+"DG(20:5(5Z,8Z,11Z,14Z,17Z)/22:3(10Z,13Z,16Z)/0:0)[iso2]",Lipid,DG,"DG(20:5(5Z,8Z,11Z,14Z,17Z)/22:3(10Z,13Z,16Z)/0:0)[iso2]"
+"DG(21:0/22:4(7Z,10Z,13Z,16Z)/0:0)[iso2]",Lipid,DG,"DG(21:0/22:4(7Z,10Z,13Z,16Z)/0:0)[iso2]"
+"DG(22:1(13Z)/22:3(10Z,13Z,16Z)/0:0)[iso2]",Lipid,DG,"DG(22:1(13Z)/22:3(10Z,13Z,16Z)/0:0)[iso2]"
+"DG(22:3(10Z,13Z,16Z)/22:4(7Z,10Z,13Z,16Z)/0:0)[iso2]",Lipid,DG,"DG(22:3(10Z,13Z,16Z)/22:4(7Z,10Z,13Z,16Z)/0:0)[iso2]"
+"DG(22:3(10Z,13Z,16Z)/22:5(7Z,10Z,13Z,16Z,19Z)/0:0)[iso2]",Lipid,DG,"DG(22:3(10Z,13Z,16Z)/22:5(7Z,10Z,13Z,16Z,19Z)/0:0)[iso2]"
+"DG(22:3(10Z,13Z,16Z)/22:5(7Z,10Z,13Z,16Z,19Z)/0:0)[iso2]",Lipid,DG,"DG(22:3(10Z,13Z,16Z)/22:5(7Z,10Z,13Z,16Z,19Z)/0:0)[iso2]"
+"DG(22:5(7Z,10Z,13Z,16Z,19Z)/22:5(7Z,10Z,13Z,16Z,19Z)/0:0)",Lipid,DG,"DG(22:5(7Z,10Z,13Z,16Z,19Z)/22:5(7Z,10Z,13Z,16Z,19Z)/0:0)"
+"DG(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)",Lipid,DG,"DG(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)"
+DG(O-16:0/18:1(9Z)),Lipid,DG,DG(O-16:0/18:1(9Z))
+DG(P-14:0/18:1(9Z)),Lipid,DG,DG(P-14:0/18:1(9Z))
+DGCC 10:0_22:6,Lipid,DGCC,DGCC 10:0_22:6
+DGCC 10:0_24:5,Lipid,DGCC,DGCC 10:0_24:5
+DGCC 10:0_26:7,Lipid,DGCC,DGCC 10:0_26:7
+DGCC 10:0_36:8,Lipid,DGCC,DGCC 10:0_36:8
+DGCC 12:0_26:6,Lipid,DGCC,DGCC 12:0_26:6
+DGCC 13:0_32:7,Lipid,DGCC,DGCC 13:0_32:7
+DGCC 13:1_24:5,Lipid,DGCC,DGCC 13:1_24:5
+DGCC 14:0_16:0,Lipid,DGCC,DGCC 14:0_16:0
+DGCC 14:0_16:3,Lipid,DGCC,DGCC 14:0_16:3
+DGCC 14:0_20:5,Lipid,DGCC,DGCC 14:0_20:5
+DGCC 14:0_22:6,Lipid,DGCC,DGCC 14:0_22:6
+DGCC 14:0_26:7,Lipid,DGCC,DGCC 14:0_26:7
+DGCC 14:1_16:2,Lipid,DGCC,DGCC 14:1_16:2
+DGCC 14:1_20:2,Lipid,DGCC,DGCC 14:1_20:2
+DGCC 14:1_28:4,Lipid,DGCC,DGCC 14:1_28:4
+DGCC 14:1_30:7,Lipid,DGCC,DGCC 14:1_30:7
+DGCC 14:1_32:7,Lipid,DGCC,DGCC 14:1_32:7
+DGCC 15:0_17:1,Lipid,DGCC,DGCC 15:0_17:1
+DGCC 15:0_20:5,Lipid,DGCC,DGCC 15:0_20:5
+DGCC 15:0_22:5,Lipid,DGCC,DGCC 15:0_22:5
+DGCC 15:1_15:1,Lipid,DGCC,DGCC 15:1_15:1
+DGCC 15:1_30:6,Lipid,DGCC,DGCC 15:1_30:6
+DGCC 16:0_16:0,Lipid,DGCC,DGCC 16:0_16:0
+DGCC 16:0_16:1,Lipid,DGCC,DGCC 16:0_16:1
+DGCC 16:0_16:2,Lipid,DGCC,DGCC 16:0_16:2
+DGCC 16:0_16:3,Lipid,DGCC,DGCC 16:0_16:3
+DGCC 16:0_16:4,Lipid,DGCC,DGCC 16:0_16:4
+DGCC 16:0_20:5,Lipid,DGCC,DGCC 16:0_20:5
+DGCC 16:0_22:5,Lipid,DGCC,DGCC 16:0_22:5
+DGCC 16:0_22:6,Lipid,DGCC,DGCC 16:0_22:6
+DGCC 16:0_24:5,Lipid,DGCC,DGCC 16:0_24:5
+DGCC 16:0_24:6,Lipid,DGCC,DGCC 16:0_24:6
+DGCC 16:0_42:9,Lipid,DGCC,DGCC 16:0_42:9
+DGCC 16:1_16:3,Lipid,DGCC,DGCC 16:1_16:3
+DGCC 16:1_16:4,Lipid,DGCC,DGCC 16:1_16:4
+DGCC 16:1_18:3,Lipid,DGCC,DGCC 16:1_18:3
+DGCC 16:1_22:6,Lipid,DGCC,DGCC 16:1_22:6
+DGCC 16:2_16:3,Lipid,DGCC,DGCC 16:2_16:3
+DGCC 16:2_20:5,Lipid,DGCC,DGCC 16:2_20:5
+DGCC 16:2_22:5,Lipid,DGCC,DGCC 16:2_22:5
+DGCC 16:3_18:3,Lipid,DGCC,DGCC 16:3_18:3
+DGCC 16:3_22:6,Lipid,DGCC,DGCC 16:3_22:6
+DGCC 16:4_18:4,Lipid,DGCC,DGCC 16:4_18:4
+DGCC 16:4_22:4,Lipid,DGCC,DGCC 16:4_22:4
+DGCC 16:4_22:6,Lipid,DGCC,DGCC 16:4_22:6
+DGCC 17:0_17:1,Lipid,DGCC,DGCC 17:0_17:1
+DGCC 17:0_22:6,Lipid,DGCC,DGCC 17:0_22:6
+DGCC 17:1_17:2,Lipid,DGCC,DGCC 17:1_17:2
+DGCC 17:1_42:3,Lipid,DGCC,DGCC 17:1_42:3
+DGCC 17:2_20:3,Lipid,DGCC,DGCC 17:2_20:3
+DGCC 18:0_26:6,Lipid,DGCC,DGCC 18:0_26:6
+DGCC 18:0_28:6,Lipid,DGCC,DGCC 18:0_28:6
+DGCC 18:0_28:7,Lipid,DGCC,DGCC 18:0_28:7
+DGCC 18:1_20:4,Lipid,DGCC,DGCC 18:1_20:4
+DGCC 18:1_22:4,Lipid,DGCC,DGCC 18:1_22:4
+DGCC 18:3_18:5,Lipid,DGCC,DGCC 18:3_18:5
+DGCC 18:3_20:3,Lipid,DGCC,DGCC 18:3_20:3
+DGCC 18:3_22:4,Lipid,DGCC,DGCC 18:3_22:4
+DGCC 18:3_22:6,Lipid,DGCC,DGCC 18:3_22:6
+DGCC 18:3_28:4,Lipid,DGCC,DGCC 18:3_28:4
+DGCC 18:5_22:5,Lipid,DGCC,DGCC 18:5_22:5
+DGCC 18:5_32:9,Lipid,DGCC,DGCC 18:5_32:9
+DGCC 19:0_28:7,Lipid,DGCC,DGCC 19:0_28:7
+DGCC 19:0_38:1,Lipid,DGCC,DGCC 19:0_38:1
+DGCC 19:1_38:1,Lipid,DGCC,DGCC 19:1_38:1
+DGCC 19:2_20:4,Lipid,DGCC,DGCC 19:2_20:4
+DGCC 20:0_14:1,Lipid,DGCC,DGCC 20:0_14:1
+DGCC 20:0_22:6,Lipid,DGCC,DGCC 20:0_22:6
+DGCC 20:0_28:7,Lipid,DGCC,DGCC 20:0_28:7
+DGCC 20:1_20:5,Lipid,DGCC,DGCC 20:1_20:5
+DGCC 20:3_22:4,Lipid,DGCC,DGCC 20:3_22:4
+DGCC 20:3_26:6,Lipid,DGCC,DGCC 20:3_26:6
+DGCC 20:5_20:5,Lipid,DGCC,DGCC 20:5_20:5
+DGCC 20:5_22:6,Lipid,DGCC,DGCC 20:5_22:6
+DGCC 21:2_16:4,Lipid,DGCC,DGCC 21:2_16:4
+DGCC 22:0_22:6,Lipid,DGCC,DGCC 22:0_22:6
+DGCC 22:5_22:6,Lipid,DGCC,DGCC 22:5_22:6
+DGCC 22:6_22:6,Lipid,DGCC,DGCC 22:6_22:6
+DGCC 22:6_28:7,Lipid,DGCC,DGCC 22:6_28:7
+DGCC 28:0_19:1,Lipid,DGCC,DGCC 28:0_19:1
+DGCC 29:0_16:3,Lipid,DGCC,DGCC 29:0_16:3
+DGCC 8:0_26:2,Lipid,DGCC,DGCC 8:0_26:2
+DGCC 8:0_28:4,Lipid,DGCC,DGCC 8:0_28:4
+DGCC 8:0_30:8,Lipid,DGCC,DGCC 8:0_30:8
+DGCC 8:0_32:8,Lipid,DGCC,DGCC 8:0_32:8
+DGCC 8:0_36:7,Lipid,DGCC,DGCC 8:0_36:7
+DGCC 8:0_36:8,Lipid,DGCC,DGCC 8:0_36:8
+DGCC 8:0_38:8,Lipid,DGCC,DGCC 8:0_38:8
+DGCC 9:0_26:2,Lipid,DGCC,DGCC 9:0_26:2
+DGCC 9:0_30:6,Lipid,DGCC,DGCC 9:0_30:6
+DGDG 14:0_16:2,Lipid,DGDG,DGDG 14:0_16:2
+DGDG 14:0_16:3,Lipid,DGDG,DGDG 14:0_16:3
+DGDG 16:0_16:1,Lipid,DGDG,DGDG 16:0_16:1
+DGDG 16:0_16:2,Lipid,DGDG,DGDG 16:0_16:2
+DGDG 16:0_16:3,Lipid,DGDG,DGDG 16:0_16:3
+DGDG 16:0_16:4,Lipid,DGDG,DGDG 16:0_16:4
+DGDG 16:0_18:4,Lipid,DGDG,DGDG 16:0_18:4
+DGDG 16:1_16:2,Lipid,DGDG,DGDG 16:1_16:2
+DGDG 16:1_16:3,Lipid,DGDG,DGDG 16:1_16:3
+DGDG 16:1_18:4,Lipid,DGDG,DGDG 16:1_18:4
+DGDG 16:2_16:2,Lipid,DGDG,DGDG 16:2_16:2
+DGDG 16:2_16:3,Lipid,DGDG,DGDG 16:2_16:3
+DGDG 16:2_18:3,Lipid,DGDG,DGDG 16:2_18:3
+DGDG 16:2_18:4,Lipid,DGDG,DGDG 16:2_18:4
+DGDG 16:2_18:5,Lipid,DGDG,DGDG 16:2_18:5
+DGDG 16:2_20:5,Lipid,DGDG,DGDG 16:2_20:5
+DGDG 16:2_22:6,Lipid,DGDG,DGDG 16:2_22:6
+DGDG 16:3_16:3,Lipid,DGDG,DGDG 16:3_16:3
+DGDG 16:3_16:4,Lipid,DGDG,DGDG 16:3_16:4
+DGDG 16:3_18:3,Lipid,DGDG,DGDG 16:3_18:3
+DGDG 16:3_18:4,Lipid,DGDG,DGDG 16:3_18:4
+DGDG 16:3_18:5,Lipid,DGDG,DGDG 16:3_18:5
+DGDG 16:4_18:4,Lipid,DGDG,DGDG 16:4_18:4
+DGDG 16:4_18:5,Lipid,DGDG,DGDG 16:4_18:5
+DGDG 16:4_20:5,Lipid,DGDG,DGDG 16:4_20:5
+DGDG 16:4_22:6,Lipid,DGDG,DGDG 16:4_22:6
+DGDG 18:3_18:3,Lipid,DGDG,DGDG 18:3_18:3
+DGDG 18:3_18:4,Lipid,DGDG,DGDG 18:3_18:4
+DGDG 18:3_22:6,Lipid,DGDG,DGDG 18:3_22:6
+DGDG 18:4_18:4,Lipid,DGDG,DGDG 18:4_18:4
+DGDG 18:4_20:5,Lipid,DGDG,DGDG 18:4_20:5
+DGDG 18:4_22:6,Lipid,DGDG,DGDG 18:4_22:6
+DGDG 2:0_16:3,Lipid,DGDG,DGDG 2:0_16:3
+DGDG 2:0_18:1,Lipid,DGDG,DGDG 2:0_18:1
+DGDG 20:5_22:6,Lipid,DGDG,DGDG 20:5_22:6
+DGDG 22:5_22:5,Lipid,DGDG,DGDG 22:5_22:5
+DGDG 3:0_17:1,Lipid,DGDG,DGDG 3:0_17:1
+DGDG 6:0_25:0,Lipid,DGDG,DGDG 6:0_25:0
+DGDG O-14:0_2:0,Lipid,DGDG,DGDG O-14:0_2:0
+DGDG O-14:1_2:0,Lipid,DGDG,DGDG O-14:1_2:0
+DGDG O-16:4_2:0,Lipid,DGDG,DGDG O-16:4_2:0
+DGDG O-17:2_13:0,Lipid,DGDG,DGDG O-17:2_13:0
+DGDG O-18:5_16:2,Lipid,DGDG,DGDG O-18:5_16:2
+"DGDG(18:3(9Z,12Z,15Z)/18:3(6Z,9Z,12Z))",Lipid,DGDG,"DGDG(18:3(9Z,12Z,15Z)/18:3(6Z,9Z,12Z))"
+"DGDG(18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))",Lipid,DGDG,"DGDG(18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))"
+"DGDG(18:5(3Z,6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))",Lipid,DGDG,"DGDG(18:5(3Z,6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))"
+DGGA 16:0_22:6,Lipid,DGGA,DGGA 16:0_22:6
+DGGA 16:3_22:6,Lipid,DGGA,DGGA 16:3_22:6
+DGGA 20:4_22:6,Lipid,DGGA,DGGA 20:4_22:6
+"DGMG(18:4(6Z,9Z,12Z,15Z)/0:0)",Lipid,DGMG,"DGMG(18:4(6Z,9Z,12Z,15Z)/0:0)"
+"DGMG(18:5(3Z,6Z,9Z,12Z,15Z)/0:0)",Lipid,DGMG,"DGMG(18:5(3Z,6Z,9Z,12Z,15Z)/0:0)"
+DGTS 10:0_16:0,Lipid,DGTS,DGTS 10:0_16:0
+DGTS 10:0_17:1,Lipid,DGTS,DGTS 10:0_17:1
+DGTS 10:0_18:0,Lipid,DGTS,DGTS 10:0_18:0
+DGTS 11:0_18:2,Lipid,DGTS,DGTS 11:0_18:2
+DGTS 12:0_19:2,Lipid,DGTS,DGTS 12:0_19:2
+DGTS 14:0_20:5,Lipid,DGTS,DGTS 14:0_20:5
+DGTS 15:0_15:0,Lipid,DGTS,DGTS 15:0_15:0
+DGTS 8:0_20:1,Lipid,DGTS,DGTS 8:0_20:1
+Docosahexaenoic acid,Lipid,FA,Docosahexaenoic acid
+Docosahexaenoic Acid,Lipid,FA,Docosahexaenoic Acid
+FA 16:1 (2Z),Lipid,FA,FA 16:1 (2Z)
+FA 18:1 (6E),Lipid,FA,FA 18:1 (6E)
+"FA 18:2 (9E, 12E)",Lipid,FA,"FA 18:2 (9E, 12E)"
+"FA 18:2 (9Z, 11Z)",Lipid,FA,"FA 18:2 (9Z, 11Z)"
+"FA 18:3 (5Z, 9Z, 12Z)",Lipid,FA,"FA 18:3 (5Z, 9Z, 12Z)"
+FA 21:4;O3,Lipid,FA,FA 21:4;O3
+FA 21:4;O3,Lipid,FA,FA 21:4;O3
+FA 21:4;O3,Lipid,FA,FA 21:4;O3
+FAHFA 16:2/6:0,Lipid,FA,FAHFA 16:2/6:0
+FAHFA 16:3/5:0,Lipid,FA,FAHFA 16:3/5:0
+FAHFA 16:4/3:0,Lipid,FA,FAHFA 16:4/3:0
+FAHFA 16:4/4:0,Lipid,FA,FAHFA 16:4/4:0
+FAHFA 16:4/4:0,Lipid,FA,FAHFA 16:4/4:0
+FAHFA 16:4/5:0,Lipid,FA,FAHFA 16:4/5:0
+FAHFA 18:5/2:0,Lipid,FA,FAHFA 18:5/2:0
+FAHFA 18:5/4:0,Lipid,FA,FAHFA 18:5/4:0
+FAHFA 18:5/5:0,Lipid,FA,FAHFA 18:5/5:0
+FAHFA 2:0/16:3,Lipid,FA,FAHFA 2:0/16:3
+FAHFA 2:0/16:3,Lipid,FA,FAHFA 2:0/16:3
+FAHFA 2:0/16:3,Lipid,FA,FAHFA 2:0/16:3
+FAHFA 2:0/16:3,Lipid,FA,FAHFA 2:0/16:3
+FAHFA 2:0/18:3,Lipid,FA,FAHFA 2:0/18:3
+FAHFA 2:0/18:3,Lipid,FA,FAHFA 2:0/18:3
+FAHFA 2:0/18:3,Lipid,FA,FAHFA 2:0/18:3
+FAHFA 2:0/18:3,Lipid,FA,FAHFA 2:0/18:3
+FAHFA 2:0/18:3,Lipid,FA,FAHFA 2:0/18:3
+FAHFA 2:0/18:3,Lipid,FA,FAHFA 2:0/18:3
+FAHFA 2:0/18:3,Lipid,FA,FAHFA 2:0/18:3
+FAHFA 2:0/18:3,Lipid,FA,FAHFA 2:0/18:3
+FAHFA 2:0/18:3,Lipid,FA,FAHFA 2:0/18:3
+FAHFA 2:0/18:3,Lipid,FA,FAHFA 2:0/18:3
+FAHFA 2:0/18:3,Lipid,FA,FAHFA 2:0/18:3
+FAHFA 2:0/18:3,Lipid,FA,FAHFA 2:0/18:3
+FAHFA 2:0/18:3,Lipid,FA,FAHFA 2:0/18:3
+FAHFA 2:0/18:3,Lipid,FA,FAHFA 2:0/18:3
+FAHFA 2:0/18:3,Lipid,FA,FAHFA 2:0/18:3
+FAHFA 2:0/18:3,Lipid,FA,FAHFA 2:0/18:3
+FAHFA 2:0/18:3,Lipid,FA,FAHFA 2:0/18:3
+FAHFA 2:0/18:3,Lipid,FA,FAHFA 2:0/18:3
+FAHFA 2:0/20:2,Lipid,FA,FAHFA 2:0/20:2
+FAHFA 2:0/22:2,Lipid,FA,FAHFA 2:0/22:2
+FAHFA 2:0/22:5,Lipid,FA,FAHFA 2:0/22:5
+FAHFA 2:0/26:4,Lipid,FA,FAHFA 2:0/26:4
+FAHFA 20:4/20:3,Lipid,FA,FAHFA 20:4/20:3
+FAHFA 20:4/5:0,Lipid,FA,FAHFA 20:4/5:0
+FAHFA 20:5/20:4,Lipid,FA,FAHFA 20:5/20:4
+FAHFA 20:5/4:0,Lipid,FA,FAHFA 20:5/4:0
+FAHFA 22:5/6:0,Lipid,FA,FAHFA 22:5/6:0
+FAHFA 22:5/6:0,Lipid,FA,FAHFA 22:5/6:0
+FAHFA 24:4/5:0,Lipid,FA,FAHFA 24:4/5:0
+FAHFA 24:4/6:0,Lipid,FA,FAHFA 24:4/6:0
+FAHFA 3:0/18:3,Lipid,FA,FAHFA 3:0/18:3
+FAHFA 3:0/22:4,Lipid,FA,FAHFA 3:0/22:4
+FAHFA(16:0/5-O-18:0),Lipid,FA,FAHFA(16:0/5-O-18:0)
+FAHFA(16:1(9Z)/5-O-16:0),Lipid,FA,FAHFA(16:1(9Z)/5-O-16:0)
+FAHFA(16:1(9Z)/5-O-18:0),Lipid,FA,FAHFA(16:1(9Z)/5-O-18:0)
+FAHFA(16:1/32-O-32:1),Lipid,FA,FAHFA(16:1/32-O-32:1)
+FAHFA(17:0/10-O-18:0),Lipid,FA,FAHFA(17:0/10-O-18:0)
+FAHFA(18:0/5-O-18:0),Lipid,FA,FAHFA(18:0/5-O-18:0)
+FAHFA(18:1(9Z)/5-O-18:0),Lipid,FA,FAHFA(18:1(9Z)/5-O-18:0)
+FAHFA(18:1/32-O-32:1),Lipid,FA,FAHFA(18:1/32-O-32:1)
+FAHFA(18:2/15-O-18:2),Lipid,FA,FAHFA(18:2/15-O-18:2)
+FAHFA(18:2/15-O-18:2),Lipid,FA,FAHFA(18:2/15-O-18:2)
+FAHFA(22:6/13-O-18:2),Lipid,FA,FAHFA(22:6/13-O-18:2)
+FAHFA(22:6/14-O-22:6),Lipid,FA,FAHFA(22:6/14-O-22:6)
+GlcCer(d15:1/18:0),Lipid,GlcCer,GlcCer(d15:1/18:0)
+GlcCer(d18:0/20:0),Lipid,GlcCer,GlcCer(d18:0/20:0)
+GlcCer(d18:0/20:0),Lipid,GlcCer,GlcCer(d18:0/20:0)
+GlcCer(d18:0/22:0),Lipid,GlcCer,GlcCer(d18:0/22:0)
+GlcCer(d18:1(8E)/18:0(2OH[R])),Lipid,GlcCer,GlcCer(d18:1(8E)/18:0(2OH[R]))
+GlcCer(d18:1/16:0),Lipid,GlcCer,GlcCer(d18:1/16:0)
+"GlcCer(d18:2(4E,8Z)/16:0(2OH[R]))",Lipid,GlcCer,"GlcCer(d18:2(4E,8Z)/16:0(2OH[R]))"
+"GlcCer(d18:2(4E,8Z)/20:0(2OH[R]))",Lipid,GlcCer,"GlcCer(d18:2(4E,8Z)/20:0(2OH[R]))"
+"GlcCer(d18:2(4E,8Z)/21:0(2OH[R]))",Lipid,GlcCer,"GlcCer(d18:2(4E,8Z)/21:0(2OH[R]))"
+"GlcCer(d18:2(4E,8Z)/22:0(2OH[R]))",Lipid,GlcCer,"GlcCer(d18:2(4E,8Z)/22:0(2OH[R]))"
+GlcCer(d18:2/20:1),Lipid,GlcCer,GlcCer(d18:2/20:1)
+"GlcCer(t20:1(11Z)/23:1(15E)(2OH[S],17O)",Lipid,GlcCer,"GlcCer(t20:1(11Z)/23:1(15E)(2OH[S],17O)"
+HexCer 11:1;2O/12:0,Lipid,HexCer,HexCer 11:1;2O/12:0
+HexCer 14:0;3O/19:0;(2OH),Lipid,HexCer,HexCer 14:0;3O/19:0;(2OH)
+HexCer 14:1;2O/2:0,Lipid,HexCer,HexCer 14:1;2O/2:0
+HexCer 14:3;2O/42:0,Lipid,HexCer,HexCer 14:3;2O/42:0
+HexCer 15:1;3O/20:0;(2OH),Lipid,HexCer,HexCer 15:1;3O/20:0;(2OH)
+HexCer 16:2;2O/18:0;O,Lipid,HexCer,HexCer 16:2;2O/18:0;O
+HexCer 16:2;2O/19:0;O,Lipid,HexCer,HexCer 16:2;2O/19:0;O
+HexCer 16:3;2O/16:1;O,Lipid,HexCer,HexCer 16:3;2O/16:1;O
+HexCer 16:3;2O/26:2;O,Lipid,HexCer,HexCer 16:3;2O/26:2;O
+HexCer 17:2;2O/18:0;O,Lipid,HexCer,HexCer 17:2;2O/18:0;O
+HexCer 17:2;2O/20:0;O,Lipid,HexCer,HexCer 17:2;2O/20:0;O
+HexCer 17:2;2O/22:0;O,Lipid,HexCer,HexCer 17:2;2O/22:0;O
+HexCer 17:2;2O/24:0;O,Lipid,HexCer,HexCer 17:2;2O/24:0;O
+HexCer 17:3;2O/18:1;O,Lipid,HexCer,HexCer 17:3;2O/18:1;O
+HexCer 17:3;2O/20:2;O,Lipid,HexCer,HexCer 17:3;2O/20:2;O
+HexCer 17:3;2O/24:2;O,Lipid,HexCer,HexCer 17:3;2O/24:2;O
+HexCer 17:3;2O/26:2;O,Lipid,HexCer,HexCer 17:3;2O/26:2;O
+HexCer 18:1;2O/14:1,Lipid,HexCer,HexCer 18:1;2O/14:1
+HexCer 18:3;2O/16:1;O,Lipid,HexCer,HexCer 18:3;2O/16:1;O
+HexCer 18:3;2O/18:1;O,Lipid,HexCer,HexCer 18:3;2O/18:1;O
+HexCer 19:2;2O/16:0;O,Lipid,HexCer,HexCer 19:2;2O/16:0;O
+HexCer 19:2;2O/16:1,Lipid,HexCer,HexCer 19:2;2O/16:1
+HexCer 19:2;2O/18:0;O,Lipid,HexCer,HexCer 19:2;2O/18:0;O
+HexCer 19:2;2O/19:1,Lipid,HexCer,HexCer 19:2;2O/19:1
+HexCer 19:2;2O/20:0;O,Lipid,HexCer,HexCer 19:2;2O/20:0;O
+HexCer 19:2;2O/20:1,Lipid,HexCer,HexCer 19:2;2O/20:1
+HexCer 19:2;2O/21:0;O,Lipid,HexCer,HexCer 19:2;2O/21:0;O
+HexCer 19:2;2O/21:1,Lipid,HexCer,HexCer 19:2;2O/21:1
+HexCer 19:2;2O/22:0;O,Lipid,HexCer,HexCer 19:2;2O/22:0;O
+HexCer 19:2;2O/22:1,Lipid,HexCer,HexCer 19:2;2O/22:1
+HexCer 19:2;2O/23:0;O,Lipid,HexCer,HexCer 19:2;2O/23:0;O
+HexCer 19:3;2O/16:1;O,Lipid,HexCer,HexCer 19:3;2O/16:1;O
+HexCer 19:3;2O/18:1;O,Lipid,HexCer,HexCer 19:3;2O/18:1;O
+HexCer 19:3;2O/18:2,Lipid,HexCer,HexCer 19:3;2O/18:2
+HexCer 20:2;2O/17:0;O,Lipid,HexCer,HexCer 20:2;2O/17:0;O
+HexCer 20:3;2O/15:1;O,Lipid,HexCer,HexCer 20:3;2O/15:1;O
+HexCer 21:1;2O/5:0,Lipid,HexCer,HexCer 21:1;2O/5:0
+HexCer 21:3;2O/5:0,Lipid,HexCer,HexCer 21:3;2O/5:0
+HexCer 22:0;2O/18:2;O,Lipid,HexCer,HexCer 22:0;2O/18:2;O
+HexCer 22:1;2O/13:1;O,Lipid,HexCer,HexCer 22:1;2O/13:1;O
+HexCer 22:1;2O/5:0,Lipid,HexCer,HexCer 22:1;2O/5:0
+HexCer 22:2;2O/19:1;O,Lipid,HexCer,HexCer 22:2;2O/19:1;O
+HexCer 22:3;2O/12:1;O,Lipid,HexCer,HexCer 22:3;2O/12:1;O
+HexCer 24:2;2O/39:0,Lipid,HexCer,HexCer 24:2;2O/39:0
+HexCer 27:0;2O/38:7,Lipid,HexCer,HexCer 27:0;2O/38:7
+HexCer 27:0;2O/40:7,Lipid,HexCer,HexCer 27:0;2O/40:7
+HexCer 29:0;2O/40:7,Lipid,HexCer,HexCer 29:0;2O/40:7
+HexCer 8:0;2O/5:0,Lipid,HexCer,HexCer 8:0;2O/5:0
+HexCer 8:1;2O/11:0,Lipid,HexCer,HexCer 8:1;2O/11:0
+HexCer 8:1;2O/28:7,Lipid,HexCer,HexCer 8:1;2O/28:7
+HexCer 8:1;2O/30:7,Lipid,HexCer,HexCer 8:1;2O/30:7
+HexCer 9:1;2O/38:2,Lipid,HexCer,HexCer 9:1;2O/38:2
+LacCer(d16:0/20:0),Lipid,LacCer,LacCer(d16:0/20:0)
+LacCer(d16:0/22:0),Lipid,LacCer,LacCer(d16:0/22:0)
+LacCer(d18:1/18:1(9Z)),Lipid,LacCer,LacCer(d18:1/18:1(9Z))
+Lacceroic acid,Lipid,fa,Lacceroic acid
+"Lanostane-3,11,18-triol",Lipid,FA,"Lanostane-3,11,18-triol"
+LDGCC 16:0,Lipid,LDGCC,LDGCC 16:0
+LDGCC 16:3,Lipid,LDGCC,LDGCC 16:3
+LDGCC 17:2,Lipid,LDGCC,LDGCC 17:2
+LDGCC 18:0,Lipid,LDGCC,LDGCC 18:0
+LDGCC 18:4,Lipid,LDGCC,LDGCC 18:4
+LDGCC 19:0,Lipid,LDGCC,LDGCC 19:0
+LDGCC 20:5,Lipid,LDGCC,LDGCC 20:5
+LDGCC 22:5,Lipid,LDGCC,LDGCC 22:5
+LDGCC 22:6,Lipid,LDGCC,LDGCC 22:6
+LDGCC 28:7,Lipid,LDGCC,LDGCC 28:7
+LDGCC 36:4,Lipid,LDGCC,LDGCC 36:4
+LDGCC 44:11,Lipid,LDGCC,LDGCC 44:11
+LDGCC 44:12,Lipid,LDGCC,LDGCC 44:12
+LDGTS 26:1,Lipid,LDGTS,LDGTS 26:1
+LDGTS 26:2,Lipid,LDGTS,LDGTS 26:2
+Linolenyl arachidate,Lipid,WE,Linolenyl arachidate
+Linolenyl myristate,Lipid,WE,Linolenyl myristate
+Linolenyl palmitate,Lipid,WE,Linolenyl palmitate
+Linolenyl palmitate,Lipid,WE,Linolenyl palmitate
+Linolenyl palmitate,Lipid,WE,Linolenyl palmitate
+Linolenyl palmitate,Lipid,WE,Linolenyl palmitate
+Linolenyl stearate,Lipid,WE,Linolenyl stearate
+Linoleyl myristate,Lipid,WE,Linoleyl myristate
+Linoleyl palmitate,Lipid,WE,Linoleyl palmitate
+Linoleyl stearate,Lipid,WE,Linoleyl stearate
+LPA 15:0,Lipid,LPA,LPA 15:0
+LPA 19:1,Lipid,LPA,LPA 19:1
+LPC 15:0-SN1,Lipid,LPC,LPC 15:0-SN1
+LPC 16:0,Lipid,LPC,LPC 16:0
+LPC 16:0-SN1,Lipid,LPC,LPC 16:0-SN1
+LPC 16:2-SN2,Lipid,LPC,LPC 16:2-SN2
+LPC 17:1,Lipid,LPC,LPC 17:1
+LPC 17:1,Lipid,LPC,LPC 17:1
+LPC 17:1-SN1,Lipid,LPC,LPC 17:1-SN1
+LPC 18:0-SN1,Lipid,LPC,LPC 18:0-SN1
+LPC 18:1,Lipid,LPC,LPC 18:1
+LPC 18:1-SN1,Lipid,LPC,LPC 18:1-SN1
+LPC 19:0-SN1,Lipid,LPC,LPC 19:0-SN1
+LPC 19:1,Lipid,LPC,LPC 19:1
+LPC 20:0-SN1,Lipid,LPC,LPC 20:0-SN1
+LPC 20:4,Lipid,LPC,LPC 20:4
+LPC 20:4-SN1,Lipid,LPC,LPC 20:4-SN1
+LPC 22:6,Lipid,LPC,LPC 22:6
+LPC 22:6-SN1,Lipid,LPC,LPC 22:6-SN1
+LPC 22:6-SN2,Lipid,LPC,LPC 22:6-SN2
+LPC 28:0-SN2,Lipid,LPC,LPC 28:0-SN2
+LPC 40:3-SN2,Lipid,LPC,LPC 40:3-SN2
+LPC O-14:0,Lipid,LPC,LPC O-14:0
+LPC O-15:1,Lipid,LPC,LPC O-15:1
+LPC O-16:0,Lipid,LPC,LPC O-16:0
+LPC O-17:0,Lipid,LPC,LPC O-17:0
+LPC O-17:1,Lipid,LPC,LPC O-17:1
+LPC O-18:0,Lipid,LPC,LPC O-18:0
+LPC O-18:1,Lipid,LPC,LPC O-18:1
+LPC O-18:3,Lipid,LPC,LPC O-18:3
+LPC O-19:0,Lipid,LPC,LPC O-19:0
+LPC O-19:1,Lipid,LPC,LPC O-19:1
+LPC O-20:0,Lipid,LPC,LPC O-20:0
+LPC O-20:3,Lipid,LPC,LPC O-20:3
+LPC O-22:0,Lipid,LPC,LPC O-22:0
+LPC O-22:3,Lipid,LPC,LPC O-22:3
+LPC O-9:0,Lipid,LPC,LPC O-9:0
+LPE 15:0,Lipid,LPE,LPE 15:0
+LPE 17:1,Lipid,LPE,LPE 17:1
+LPE 19:1,Lipid,LPE,LPE 19:1
+LPE 20:4,Lipid,LPE,LPE 20:4
+LPE 34:1,Lipid,LPE,LPE 34:1
+LPE 34:2,Lipid,LPE,LPE 34:2
+LPE 36:2,Lipid,LPE,LPE 36:2
+LPE 36:4,Lipid,LPE,LPE 36:4
+LPE 36:5,Lipid,LPE,LPE 36:5
+LPE 38:4,Lipid,LPE,LPE 38:4
+LPE 40:5,Lipid,LPE,LPE 40:5
+LPE 40:7,Lipid,LPE,LPE 40:7
+LPE 40:8,Lipid,LPE,LPE 40:8
+LPE 42:5,Lipid,LPE,LPE 42:5
+LPE 42:6,Lipid,LPE,LPE 42:6
+LPE 44:8,Lipid,LPE,LPE 44:8
+LPE O-16:0,Lipid,LPE,LPE O-16:0
+LPE O-16:1,Lipid,LPE,LPE O-16:1
+LPE O-17:0,Lipid,LPE,LPE O-17:0
+LPE O-17:1,Lipid,LPE,LPE O-17:1
+LPE O-18:0,Lipid,LPE,LPE O-18:0
+LPE O-18:1,Lipid,LPE,LPE O-18:1
+LPE O-19:1,Lipid,LPE,LPE O-19:1
+LPE O-20:1,Lipid,LPE,LPE O-20:1
+LPE O-20:4,Lipid,LPE,LPE O-20:4
+LPG 20:2,Lipid,LPG,LPG 20:2
+LPI 18:0,Lipid,LPI,LPI 18:0
+LPI 24:4,Lipid,LPI,LPI 24:4
+MG 17:1,Lipid,MG,MG 17:1
+MG 17:2,Lipid,MG,MG 17:2
+MG 18:5,Lipid,MG,MG 18:5
+MG 20:3,Lipid,MG,MG 20:3
+MG 20:4,Lipid,MG,MG 20:4
+MG 26:4,Lipid,MG,MG 26:4
+"MG(0:0/20:5(5Z,8Z,11Z,14Z,17Z)/0:0)",Lipid,MG,"MG(0:0/20:5(5Z,8Z,11Z,14Z,17Z)/0:0)"
+"MG(0:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)",Lipid,MG,"MG(0:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)"
+"MG(0:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)",Lipid,MG,"MG(0:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)"
+"MG(0:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)",Lipid,MG,"MG(0:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)"
+"MG(0:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)",Lipid,MG,"MG(0:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)"
+MG(16:0/0:0/0:0)[rac],Lipid,MG,MG(16:0/0:0/0:0)[rac]
+MG(16:0/0:0/0:0)[rac],Lipid,MG,MG(16:0/0:0/0:0)[rac]
+MG(16:0/0:0/0:0)[rac],Lipid,MG,MG(16:0/0:0/0:0)[rac]
+MG(16:0/0:0/0:0)[rac],Lipid,MG,MG(16:0/0:0/0:0)[rac]
+MGDG 10:0_18:3,Lipid,MGDG,MGDG 10:0_18:3
+MGDG 12:0_18:3,Lipid,MGDG,MGDG 12:0_18:3
+MGDG 14:0_15:0,Lipid,MGDG,MGDG 14:0_15:0
+MGDG 14:0_16:1,Lipid,MGDG,MGDG 14:0_16:1
+MGDG 14:0_16:2,Lipid,MGDG,MGDG 14:0_16:2
+MGDG 14:0_16:3,Lipid,MGDG,MGDG 14:0_16:3
+MGDG 15:0_15:0,Lipid,MGDG,MGDG 15:0_15:0
+MGDG 16:0_16:1,Lipid,MGDG,MGDG 16:0_16:1
+MGDG 16:0_16:2,Lipid,MGDG,MGDG 16:0_16:2
+MGDG 16:0_16:3,Lipid,MGDG,MGDG 16:0_16:3
+MGDG 16:0_16:4,Lipid,MGDG,MGDG 16:0_16:4
+MGDG 16:0_18:3,Lipid,MGDG,MGDG 16:0_18:3
+MGDG 16:0_18:4,Lipid,MGDG,MGDG 16:0_18:4
+MGDG 16:0_18:5,Lipid,MGDG,MGDG 16:0_18:5
+MGDG 16:0_22:6,Lipid,MGDG,MGDG 16:0_22:6
+MGDG 16:1_16:1,Lipid,MGDG,MGDG 16:1_16:1
+MGDG 16:1_16:2,Lipid,MGDG,MGDG 16:1_16:2
+MGDG 16:1_16:3,Lipid,MGDG,MGDG 16:1_16:3
+MGDG 16:1_18:4,Lipid,MGDG,MGDG 16:1_18:4
+MGDG 16:1_18:5,Lipid,MGDG,MGDG 16:1_18:5
+MGDG 16:1_22:6,Lipid,MGDG,MGDG 16:1_22:6
+MGDG 16:2_16:2,Lipid,MGDG,MGDG 16:2_16:2
+MGDG 16:2_16:3,Lipid,MGDG,MGDG 16:2_16:3
+MGDG 16:2_16:4,Lipid,MGDG,MGDG 16:2_16:4
+MGDG 16:2_18:5,Lipid,MGDG,MGDG 16:2_18:5
+MGDG 16:2_20:5,Lipid,MGDG,MGDG 16:2_20:5
+MGDG 16:2_22:6,Lipid,MGDG,MGDG 16:2_22:6
+MGDG 16:3_16:3,Lipid,MGDG,MGDG 16:3_16:3
+MGDG 16:3_16:4,Lipid,MGDG,MGDG 16:3_16:4
+MGDG 16:3_18:3,Lipid,MGDG,MGDG 16:3_18:3
+MGDG 16:3_18:4,Lipid,MGDG,MGDG 16:3_18:4
+MGDG 16:3_20:5,Lipid,MGDG,MGDG 16:3_20:5
+MGDG 16:4_16:4,Lipid,MGDG,MGDG 16:4_16:4
+MGDG 16:4_18:4,Lipid,MGDG,MGDG 16:4_18:4
+MGDG 16:4_18:5,Lipid,MGDG,MGDG 16:4_18:5
+MGDG 16:4_20:5,Lipid,MGDG,MGDG 16:4_20:5
+MGDG 16:4_22:6,Lipid,MGDG,MGDG 16:4_22:6
+MGDG 18:1_16:2,Lipid,MGDG,MGDG 18:1_16:2
+MGDG 18:1_16:4,Lipid,MGDG,MGDG 18:1_16:4
+MGDG 18:1_18:4,Lipid,MGDG,MGDG 18:1_18:4
+MGDG 18:2_18:4,Lipid,MGDG,MGDG 18:2_18:4
+MGDG 18:3_18:3,Lipid,MGDG,MGDG 18:3_18:3
+MGDG 18:3_18:4,Lipid,MGDG,MGDG 18:3_18:4
+MGDG 18:3_18:5,Lipid,MGDG,MGDG 18:3_18:5
+MGDG 18:3_22:6,Lipid,MGDG,MGDG 18:3_22:6
+MGDG 18:4_18:4,Lipid,MGDG,MGDG 18:4_18:4
+MGDG 18:4_18:5,Lipid,MGDG,MGDG 18:4_18:5
+MGDG 18:4_20:5,Lipid,MGDG,MGDG 18:4_20:5
+MGDG 18:4_22:5,Lipid,MGDG,MGDG 18:4_22:5
+MGDG 18:4_22:6,Lipid,MGDG,MGDG 18:4_22:6
+MGDG 18:5_20:5,Lipid,MGDG,MGDG 18:5_20:5
+MGDG 18:5_22:6,Lipid,MGDG,MGDG 18:5_22:6
+MGDG 2:0_16:3,Lipid,MGDG,MGDG 2:0_16:3
+MGDG 2:0_16:4,Lipid,MGDG,MGDG 2:0_16:4
+MGDG 2:0_18:5,Lipid,MGDG,MGDG 2:0_18:5
+MGDG 20:5_22:6,Lipid,MGDG,MGDG 20:5_22:6
+MGDG 3:0_6:0,Lipid,MGDG,MGDG 3:0_6:0
+MGDG O-11:0_2:0,Lipid,MGDG,MGDG O-11:0_2:0
+MGDG O-12:0_2:0,Lipid,MGDG,MGDG O-12:0_2:0
+MGDG O-12:0_3:0,Lipid,MGDG,MGDG O-12:0_3:0
+MGDG O-13:0_2:0,Lipid,MGDG,MGDG O-13:0_2:0
+MGDG O-13:0_3:0,Lipid,MGDG,MGDG O-13:0_3:0
+MGDG O-14:0_2:0,Lipid,MGDG,MGDG O-14:0_2:0
+MGDG O-14:1_2:0,Lipid,MGDG,MGDG O-14:1_2:0
+MGDG O-16:1_2:0,Lipid,MGDG,MGDG O-16:1_2:0
+MGDG O-16:1_3:0,Lipid,MGDG,MGDG O-16:1_3:0
+MGDG O-16:3_2:0,Lipid,MGDG,MGDG O-16:3_2:0
+MGDG O-16:4_2:0,Lipid,MGDG,MGDG O-16:4_2:0
+MGDG O-17:0_3:0,Lipid,MGDG,MGDG O-17:0_3:0
+MGDG O-17:1_24:3,Lipid,MGDG,MGDG O-17:1_24:3
+MGDG O-17:2_2:0,Lipid,MGDG,MGDG O-17:2_2:0
+MGDG O-18:4_16:2,Lipid,MGDG,MGDG O-18:4_16:2
+MGDG O-18:4_2:0,Lipid,MGDG,MGDG O-18:4_2:0
+MGDG O-18:5_2:0,Lipid,MGDG,MGDG O-18:5_2:0
+MGDG O-19:2_18:5,Lipid,MGDG,MGDG O-19:2_18:5
+MGDG O-20:5_16:3,Lipid,MGDG,MGDG O-20:5_16:3
+MGDG O-21:2_3:0,Lipid,MGDG,MGDG O-21:2_3:0
+MGDG O-22:5_3:0,Lipid,MGDG,MGDG O-22:5_3:0
+MGDG O-24:4_2:0,Lipid,MGDG,MGDG O-24:4_2:0
+MGDG O-26:4_2:0,Lipid,MGDG,MGDG O-26:4_2:0
+MGDG O-28:4_2:0,Lipid,MGDG,MGDG O-28:4_2:0
+MGDG O-9:0_3:0,Lipid,MGDG,MGDG O-9:0_3:0
+"MGDG(18:2(9Z,12Z)/18:3(9Z,12Z,15Z))",Lipid,MGDG,"MGDG(18:2(9Z,12Z)/18:3(9Z,12Z,15Z))"
+"MGDG(18:3(9Z,12Z,15Z)/16:3(7Z,10Z,13Z))",Lipid,MGDG,"MGDG(18:3(9Z,12Z,15Z)/16:3(7Z,10Z,13Z))"
+"MGDG(18:3(9Z,12Z,15Z)/16:4(4Z,7Z,10Z,13Z))",Lipid,MGDG,"MGDG(18:3(9Z,12Z,15Z)/16:4(4Z,7Z,10Z,13Z))"
+"MGDG(18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z))",Lipid,MGDG,"MGDG(18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z))"
+"MGDG(18:3(9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))",Lipid,MGDG,"MGDG(18:3(9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))"
+"MGDG(18:3(9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))",Lipid,MGDG,"MGDG(18:3(9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))"
+"MGDG(18:4(6Z,9Z,12Z,15Z)/16:4(4Z,7Z,10Z,13Z))",Lipid,MGDG,"MGDG(18:4(6Z,9Z,12Z,15Z)/16:4(4Z,7Z,10Z,13Z))"
+"MGMG(16:2(7Z,10Z)/0:0)",Lipid,MGDG,"MGMG(16:2(7Z,10Z)/0:0)"
+"MGMG(16:2(7Z,10Z)/0:0)",Lipid,MGMG,"MGMG(16:2(7Z,10Z)/0:0)"
+"MGMG(18:4(6Z,9Z,12Z,15Z)/0:0)",Lipid,MGDG,"MGMG(18:4(6Z,9Z,12Z,15Z)/0:0)"
+"MGMG(18:4(6Z,9Z,12Z,15Z)/0:0)",Lipid,MGMG,"MGMG(18:4(6Z,9Z,12Z,15Z)/0:0)"
+NAGly 11:0/16:3,Lipid,NAGly,NAGly 11:0/16:3
+NAGly 13:1/15:1,Lipid,NAGly,NAGly 13:1/15:1
+NAGly 14:1/14:1,Lipid,NAGly,NAGly 14:1/14:1
+NAGly 15:0/24:4,Lipid,NAGly,NAGly 15:0/24:4
+NAGly 16:0/20:3,Lipid,NAGly,NAGly 16:0/20:3
+NAGly 16:0/20:4,Lipid,NAGly,NAGly 16:0/20:4
+NAGly 16:1/20:3,Lipid,NAGly,NAGly 16:1/20:3
+NAGly 16:1/24:4,Lipid,NAGly,NAGly 16:1/24:4
+NAGly 16:2/20:3,Lipid,NAGly,NAGly 16:2/20:3
+NAGly 16:3/11:0,Lipid,NAGly,NAGly 16:3/11:0
+NAGly 16:3/24:4,Lipid,NAGly,NAGly 16:3/24:4
+NAGly 16:4/10:0,Lipid,NAGly,NAGly 16:4/10:0
+NAGly 16:4/11:0,Lipid,NAGly,NAGly 16:4/11:0
+NAGly 16:4/11:0,Lipid,NAGly,NAGly 16:4/11:0
+NAGly 16:4/11:0,Lipid,NAGly,NAGly 16:4/11:0
+NAGly 16:4/12:0,Lipid,NAGly,NAGly 16:4/12:0
+NAGly 18:2/24:4,Lipid,NAGly,NAGly 18:2/24:4
+NAGly 18:3/10:0,Lipid,NAGly,NAGly 18:3/10:0
+NAGly 18:3/20:3,Lipid,NAGly,NAGly 18:3/20:3
+NAGly 18:3/24:4,Lipid,NAGly,NAGly 18:3/24:4
+NAGly 18:4/10:0,Lipid,NAGly,NAGly 18:4/10:0
+NAGly 18:4/24:4,Lipid,NAGly,NAGly 18:4/24:4
+NAGly 18:5/12:0,Lipid,NAGly,NAGly 18:5/12:0
+NAGly 19:1/10:0,Lipid,NAGly,NAGly 19:1/10:0
+NAGly 19:1/22:5,Lipid,NAGly,NAGly 19:1/22:5
+NAGly 19:2/10:0,Lipid,NAGly,NAGly 19:2/10:0
+NAGly 19:2/22:3,Lipid,NAGly,NAGly 19:2/22:3
+NAGly 20:0/24:4,Lipid,NAGly,NAGly 20:0/24:4
+NAGly 20:1/14:1,Lipid,NAGly,NAGly 20:1/14:1
+NAGly 20:3/10:0,Lipid,NAGly,NAGly 20:3/10:0
+NAGly 20:3/11:0,Lipid,NAGly,NAGly 20:3/11:0
+NAGly 20:3/20:4,Lipid,NAGly,NAGly 20:3/20:4
+NAGly 20:3/22:3,Lipid,NAGly,NAGly 20:3/22:3
+NAGly 20:4/10:0,Lipid,NAGly,NAGly 20:4/10:0
+NAGly 20:4/20:4,Lipid,NAGly,NAGly 20:4/20:4
+NAGly 20:4/24:4,Lipid,NAGly,NAGly 20:4/24:4
+NAGly 21:1/13:1,Lipid,NAGly,NAGly 21:1/13:1
+NAGly 22:3/11:0,Lipid,NAGly,NAGly 22:3/11:0
+NAGly 22:3/22:3,Lipid,NAGly,NAGly 22:3/22:3
+NAGly 22:3/22:3,Lipid,NAGly,NAGly 22:3/22:3
+NAGly 22:3/22:3,Lipid,NAGly,NAGly 22:3/22:3
+NAGly 22:3/22:3,Lipid,NAGly,NAGly 22:3/22:3
+NAGly 24:2/10:0,Lipid,NAGly,NAGly 24:2/10:0
+NAGly 24:2/18:2,Lipid,NAGly,NAGly 24:2/18:2
+NAGly 24:2/19:2,Lipid,NAGly,NAGly 24:2/19:2
+NAGly 24:3/20:1,Lipid,NAGly,NAGly 24:3/20:1
+NAGly 24:3/22:3,Lipid,NAGly,NAGly 24:3/22:3
+NAGly 24:4/18:2,Lipid,NAGly,NAGly 24:4/18:2
+NAGly 24:4/22:1,Lipid,NAGly,NAGly 24:4/22:1
+NAGly 24:5/13:1,Lipid,NAGly,NAGly 24:5/13:1
+NAGly 24:5/18:0,Lipid,NAGly,NAGly 24:5/18:0
+NAGly 24:5/18:3,Lipid,NAGly,NAGly 24:5/18:3
+NAGly 26:2/18:2,Lipid,NAGly,NAGly 26:2/18:2
+NAGly 26:2/19:2,Lipid,NAGly,NAGly 26:2/19:2
+NAGly 26:3/18:2,Lipid,NAGly,NAGly 26:3/18:2
+NAGly 26:3/22:3,Lipid,NAGly,NAGly 26:3/22:3
+NAGly 26:5/15:1,Lipid,NAGly,NAGly 26:5/15:1
+NAGly 26:5/16:1,Lipid,NAGly,NAGly 26:5/16:1
+NAGly 26:5/17:0,Lipid,NAGly,NAGly 26:5/17:0
+NAGly 26:5/20:0,Lipid,NAGly,NAGly 26:5/20:0
+NAGlySer 19:0/19:2,Lipid,NAGlySer,NAGlySer 19:0/19:2
+NAGlySer 26:1/22:0,Lipid,NAGlySer,NAGlySer 26:1/22:0
+NAGlySer 26:4/20:3,Lipid,NAGlySer,NAGlySer 26:4/20:3
+NAOrn 20:4/20:0,Lipid,NAOrn ,NAOrn 20:4/20:0
+NAOrn 22:3/11:0,Lipid,NAOrn ,NAOrn 22:3/11:0
+NAOrn 22:4/18:0,Lipid,NAOrn ,NAOrn 22:4/18:0
+NAOrn 22:4/20:0,Lipid,NAOrn ,NAOrn 22:4/20:0
+NAOrn 22:5/16:3,Lipid,NAOrn ,NAOrn 22:5/16:3
+NAOrn 24:1/18:1,Lipid,NAOrn ,NAOrn 24:1/18:1
+NAOrn 24:2/16:1,Lipid,NAOrn ,NAOrn 24:2/16:1
+NAOrn 24:4/20:0,Lipid,NAOrn ,NAOrn 24:4/20:0
+NAOrn 26:2/16:1,Lipid,NAOrn ,NAOrn 26:2/16:1
+PA 14:0_20:0,Lipid,PA,PA 14:0_20:0
+PA(12:0/12:0),Lipid,PA,PA(12:0/12:0)
+PA(12:0/13:0),Lipid,PA,PA(12:0/13:0)
+PA(12:0/15:0),Lipid,PA,PA(12:0/15:0)
+PA(12:0/17:0),Lipid,PA,PA(12:0/17:0)
+PA(12:0/17:1(9Z)),Lipid,PA,PA(12:0/17:1(9Z))
+PA(12:0/17:1(9Z)),Lipid,PA,PA(12:0/17:1(9Z))
+PA(12:0/17:1(9Z)),Lipid,PA,PA(12:0/17:1(9Z))
+PA(12:0/17:1(9Z)),Lipid,PA,PA(12:0/17:1(9Z))
+"PA(12:0/17:2(9Z,12Z))",Lipid,PA,"PA(12:0/17:2(9Z,12Z))"
+PA(12:0/19:0),Lipid,PA,PA(12:0/19:0)
+PA(12:0/19:0),Lipid,PA,PA(12:0/19:0)
+"PA(12:0/20:3(8Z,11Z,14Z))",Lipid,PA,"PA(12:0/20:3(8Z,11Z,14Z))"
+"PA(12:0/20:3(8Z,11Z,14Z))",Lipid,PA,"PA(12:0/20:3(8Z,11Z,14Z))"
+"PA(12:0/20:3(8Z,11Z,14Z))",Lipid,PA,"PA(12:0/20:3(8Z,11Z,14Z))"
+"PA(12:0/20:3(8Z,11Z,14Z))",Lipid,PA,"PA(12:0/20:3(8Z,11Z,14Z))"
+"PA(12:0/20:3(8Z,11Z,14Z))",Lipid,PA,"PA(12:0/20:3(8Z,11Z,14Z))"
+"PA(12:0/20:3(8Z,11Z,14Z))",Lipid,PA,"PA(12:0/20:3(8Z,11Z,14Z))"
+"PA(12:0/20:3(8Z,11Z,14Z))",Lipid,PA,"PA(12:0/20:3(8Z,11Z,14Z))"
+"PA(12:0/20:3(8Z,11Z,14Z))",Lipid,PA,"PA(12:0/20:3(8Z,11Z,14Z))"
+"PA(12:0/20:3(8Z,11Z,14Z))",Lipid,PA,"PA(12:0/20:3(8Z,11Z,14Z))"
+"PA(13:0/18:3(6Z,9Z,12Z))",Lipid,PA,"PA(13:0/18:3(6Z,9Z,12Z))"
+PA(13:0/20:1(11Z)),Lipid,PA,PA(13:0/20:1(11Z))
+"PA(13:0/20:2(11Z,14Z))",Lipid,PA,"PA(13:0/20:2(11Z,14Z))"
+"PA(13:0/20:3(8Z,11Z,14Z))",Lipid,PA,"PA(13:0/20:3(8Z,11Z,14Z))"
+"PA(13:0/20:4(5Z,8Z,11Z,14Z))",Lipid,PA,"PA(13:0/20:4(5Z,8Z,11Z,14Z))"
+"PA(13:0/20:4(5Z,8Z,11Z,14Z))",Lipid,PA,"PA(13:0/20:4(5Z,8Z,11Z,14Z))"
+PA(13:0/22:0),Lipid,PA,PA(13:0/22:0)
+"PA(13:0/22:2(13Z,16Z))",Lipid,PA,"PA(13:0/22:2(13Z,16Z))"
+"PA(13:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PA,"PA(13:0/22:4(7Z,10Z,13Z,16Z))"
+"PA(14:1(9Z)/20:4(5Z,8Z,11Z,14Z))",Lipid,PA,"PA(14:1(9Z)/20:4(5Z,8Z,11Z,14Z))"
+"PA(14:1(9Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PA,"PA(14:1(9Z)/22:4(7Z,10Z,13Z,16Z))"
+"PA(15:0/20:3(8Z,11Z,14Z))",Lipid,PA,"PA(15:0/20:3(8Z,11Z,14Z))"
+PA(15:0/22:0),Lipid,PA,PA(15:0/22:0)
+PA(15:0/22:1(11Z)),Lipid,PA,PA(15:0/22:1(11Z))
+"PA(15:1(9Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PA,"PA(15:1(9Z)/22:4(7Z,10Z,13Z,16Z))"
+"PA(15:1(9Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PA,"PA(15:1(9Z)/22:4(7Z,10Z,13Z,16Z))"
+"PA(16:0/18:2(9Z,12Z))",Lipid,PA,"PA(16:0/18:2(9Z,12Z))"
+"PA(16:0/20:4(5Z,8Z,11Z,14Z))",Lipid,PA,"PA(16:0/20:4(5Z,8Z,11Z,14Z))"
+PA(16:0/22:1(11Z)),Lipid,PA,PA(16:0/22:1(11Z))
+PA(17:0/0:0),Lipid,PA,PA(17:0/0:0)
+PA(17:0/14:1(9Z)),Lipid,PA,PA(17:0/14:1(9Z))
+PA(17:0/21:0),Lipid,PA,PA(17:0/21:0)
+PA(17:0/22:1(11Z)),Lipid,PA,PA(17:0/22:1(11Z))
+"PA(17:0/22:2(13Z,16Z))",Lipid,PA,"PA(17:0/22:2(13Z,16Z))"
+"PA(17:2(9Z,12Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PA,"PA(17:2(9Z,12Z)/22:4(7Z,10Z,13Z,16Z))"
+"PA(18:0/18:2(9Z,12Z))",Lipid,PA,"PA(18:0/18:2(9Z,12Z))"
+PA(18:0/22:0),Lipid,PA,PA(18:0/22:0)
+PA(18:0/22:1(11Z)),Lipid,PA,PA(18:0/22:1(11Z))
+"PA(18:0/22:2(13Z,16Z))",Lipid,PA,"PA(18:0/22:2(13Z,16Z))"
+"PA(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PA,"PA(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+"PA(18:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PA,"PA(18:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+"PA(19:0/22:2(13Z,16Z))",Lipid,PA,"PA(19:0/22:2(13Z,16Z))"
+PA(19:1(9Z)/0:0),Lipid,PA,PA(19:1(9Z)/0:0)
+"PA(19:1(9Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PA,"PA(19:1(9Z)/22:4(7Z,10Z,13Z,16Z))"
+PA(20:0/22:1(11Z)),Lipid,PA,PA(20:0/22:1(11Z))
+"PA(20:0/22:2(13Z,16Z))",Lipid,PA,"PA(20:0/22:2(13Z,16Z))"
+"PA(20:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PA,"PA(20:0/22:4(7Z,10Z,13Z,16Z))"
+PA(20:1(11Z)/0:0),Lipid,PA,PA(20:1(11Z)/0:0)
+"PA(20:2(11Z,14Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PA,"PA(20:2(11Z,14Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+"PA(20:2(11Z,14Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PA,"PA(20:2(11Z,14Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+"PA(20:4(5Z,8Z,11Z,14Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PA,"PA(20:4(5Z,8Z,11Z,14Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+PA(21:0/0:0),Lipid,PA,PA(21:0/0:0)
+PA(21:0/22:0),Lipid,PA,PA(21:0/22:0)
+PA(21:0/22:0),Lipid,PA,PA(21:0/22:0)
+"PA(21:0/22:2(13Z,16Z))",Lipid,PA,"PA(21:0/22:2(13Z,16Z))"
+"PA(21:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PA,"PA(21:0/22:4(7Z,10Z,13Z,16Z))"
+"PA(21:4(6Z,9Z,12Z,15Z)/0:0)",Lipid,PA,"PA(21:4(6Z,9Z,12Z,15Z)/0:0)"
+PA(22:0/12:0),Lipid,PA,PA(22:0/12:0)
+PA(22:0/12:0),Lipid,PA,PA(22:0/12:0)
+PA(22:0/20:0),Lipid,PA,PA(22:0/20:0)
+PA(22:0/22:0),Lipid,PA,PA(22:0/22:0)
+PA(22:0/22:1(11Z)),Lipid,PA,PA(22:0/22:1(11Z))
+"PA(22:0/22:2(13Z,16Z))",Lipid,PA,"PA(22:0/22:2(13Z,16Z))"
+"PA(22:0/22:2(13Z,16Z))",Lipid,PA,"PA(22:0/22:2(13Z,16Z))"
+PA(22:1(11Z)/0:0),Lipid,PA,PA(22:1(11Z)/0:0)
+"PA(22:1(11Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PA,"PA(22:1(11Z)/22:4(7Z,10Z,13Z,16Z))"
+"PA(22:2(13Z,16Z)/0:0)",Lipid,PA,"PA(22:2(13Z,16Z)/0:0)"
+PA(O-16:0/13:0),Lipid,PA,PA(O-16:0/13:0)
+PA(O-16:0/14:1(9Z)),Lipid,PA,PA(O-16:0/14:1(9Z))
+PA(O-16:0/17:1(9Z)),Lipid,PA,PA(O-16:0/17:1(9Z))
+"PA(O-16:0/18:2(9Z,12Z))",Lipid,PA,"PA(O-16:0/18:2(9Z,12Z))"
+"PA(O-16:0/18:3(9Z,12Z,15Z))",Lipid,PA,"PA(O-16:0/18:3(9Z,12Z,15Z))"
+PA(O-16:0/19:1(9Z)),Lipid,PA,PA(O-16:0/19:1(9Z))
+"PA(O-16:0/20:2(11Z,14Z))",Lipid,PA,"PA(O-16:0/20:2(11Z,14Z))"
+PA(O-16:0/22:1(11Z)),Lipid,PA,PA(O-16:0/22:1(11Z))
+PA(O-16:0/22:1(11Z)),Lipid,PA,PA(O-16:0/22:1(11Z))
+"PA(O-16:0/22:2(13Z,16Z))",Lipid,PA,"PA(O-16:0/22:2(13Z,16Z))"
+PA(O-18:0/0:0),Lipid,PA,PA(O-18:0/0:0)
+PA(O-18:0/15:0),Lipid,PA,PA(O-18:0/15:0)
+PA(O-18:0/15:0),Lipid,PA,PA(O-18:0/15:0)
+PA(O-18:0/17:0),Lipid,PA,PA(O-18:0/17:0)
+"PA(O-18:0/22:2(13Z,16Z))",Lipid,PA,"PA(O-18:0/22:2(13Z,16Z))"
+"PA(O-18:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PA,"PA(O-18:0/22:4(7Z,10Z,13Z,16Z))"
+PA(O-18:1/0:0),Lipid,PA,PA(O-18:1/0:0)
+PA(O-20:0/0:0),Lipid,PA,PA(O-20:0/0:0)
+PA(O-20:0/14:1(9Z)),Lipid,PA,PA(O-20:0/14:1(9Z))
+PA(O-20:0/16:0),Lipid,PA,PA(O-20:0/16:0)
+PA(O-20:0/18:0),Lipid,PA,PA(O-20:0/18:0)
+PA(O-20:0/21:0),Lipid,PA,PA(O-20:0/21:0)
+PA(O-20:0/21:0),Lipid,PA,PA(O-20:0/21:0)
+PA(O-20:0/22:0),Lipid,PA,PA(O-20:0/22:0)
+PA(O-20:0/22:0),Lipid,PA,PA(O-20:0/22:0)
+PA(O-20:0/22:0),Lipid,PA,PA(O-20:0/22:0)
+PA(O-20:0/22:0),Lipid,PA,PA(O-20:0/22:0)
+PA(O-20:0/22:1(11Z)),Lipid,PA,PA(O-20:0/22:1(11Z))
+"PA(O-20:0/22:2(13Z,16Z))",Lipid,PA,"PA(O-20:0/22:2(13Z,16Z))"
+PA(P-20:0/0:0),Lipid,PA,PA(P-20:0/0:0)
+PA(P-20:0/21:0),Lipid,PA,PA(P-20:0/21:0)
+"PA(P-20:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PA,"PA(P-20:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+PC 10:0_22:3,Lipid,PC,PC 10:0_22:3
+PC 11:0_30:4,Lipid,PC,PC 11:0_30:4
+PC 11:0_32:4,Lipid,PC,PC 11:0_32:4
+PC 11:0_36:8,Lipid,PC,PC 11:0_36:8
+PC 12:0_24:3,Lipid,PC,PC 12:0_24:3
+PC 12:0_26:6,Lipid,PC,PC 12:0_26:6
+PC 13:0_19:1,Lipid,PC,PC 13:0_19:1
+PC 13:0_24:3,Lipid,PC,PC 13:0_24:3
+PC 13:1_22:4,Lipid,PC,PC 13:1_22:4
+PC 13:1_28:7,Lipid,PC,PC 13:1_28:7
+PC 14:0_15:0,Lipid,PC,PC 14:0_15:0
+PC 14:0_22:1,Lipid,PC,PC 14:0_22:1
+PC 14:0_24:3,Lipid,PC,PC 14:0_24:3
+PC 14:0_24:5,Lipid,PC,PC 14:0_24:5
+PC 14:0_28:5,Lipid,PC,PC 14:0_28:5
+PC 14:0_28:6,Lipid,PC,PC 14:0_28:6
+PC 14:1_15:1,Lipid,PC,PC 14:1_15:1
+PC 14:1_20:2,Lipid,PC,PC 14:1_20:2
+PC 14:1_24:5,Lipid,PC,PC 14:1_24:5
+PC 15:0_15:0,Lipid,PC,PC 15:0_15:0
+PC 15:0_24:5,Lipid,PC,PC 15:0_24:5
+PC 15:1_17:2,Lipid,PC,PC 15:1_17:2
+PC 15:1_24:3,Lipid,PC,PC 15:1_24:3
+PC 15:1_28:7,Lipid,PC,PC 15:1_28:7
+PC 15:1_28:7,Lipid,PC,PC 15:1_28:7
+PC 16:0_16:0,Lipid,PC,PC 16:0_16:0
+PC 16:0_16:2,Lipid,PC,PC 16:0_16:2
+PC 16:0_18:1,Lipid,PC,PC 16:0_18:1
+PC 16:0_20:1,Lipid,PC,PC 16:0_20:1
+PC 16:0_20:3,Lipid,PC,PC 16:0_20:3
+PC 16:0_20:3,Lipid,PC,PC 16:0_20:3
+PC 16:0_22:3,Lipid,PC,PC 16:0_22:3
+PC 16:0_22:6,Lipid,PC,PC 16:0_22:6
+PC 16:0_24:3,Lipid,PC,PC 16:0_24:3
+PC 16:0/18:1 (9Z),Lipid,PC,PC 16:0/18:1 (9Z)
+PC 16:1_16:1,Lipid,PC,PC 16:1_16:1
+PC 16:1_16:2,Lipid,PC,PC 16:1_16:2
+PC 16:1_24:2,Lipid,PC,PC 16:1_24:2
+PC 16:1_32:6,Lipid,PC,PC 16:1_32:6
+PC 16:2_16:2,Lipid,PC,PC 16:2_16:2
+PC 16:2_28:7,Lipid,PC,PC 16:2_28:7
+PC 16:3_26:5,Lipid,PC,PC 16:3_26:5
+PC 16:3_28:4,Lipid,PC,PC 16:3_28:4
+PC 16:4_16:4,Lipid,PC,PC 16:4_16:4
+PC 16:4_22:4,Lipid,PC,PC 16:4_22:4
+PC 17:0_17:0,Lipid,PC,PC 17:0_17:0
+PC 17:0_18:4,Lipid,PC,PC 17:0_18:4
+PC 17:1_17:1,Lipid,PC,PC 17:1_17:1
+PC 17:1_19:2,Lipid,PC,PC 17:1_19:2
+PC 17:1_19:2,Lipid,PC,PC 17:1_19:2
+PC 17:1_22:3,Lipid,PC,PC 17:1_22:3
+PC 17:1_26:7,Lipid,PC,PC 17:1_26:7
+PC 17:2_17:2,Lipid,PC,PC 17:2_17:2
+PC 17:2_22:3,Lipid,PC,PC 17:2_22:3
+PC 17:2_22:5,Lipid,PC,PC 17:2_22:5
+PC 17:2_26:2,Lipid,PC,PC 17:2_26:2
+PC 18:0_18:0,Lipid,PC,PC 18:0_18:0
+PC 18:0_20:4,Lipid,PC,PC 18:0_20:4
+PC 18:0_24:3,Lipid,PC,PC 18:0_24:3
+PC 18:0_24:3,Lipid,PC,PC 18:0_24:3
+PC 18:0_24:3,Lipid,PC,PC 18:0_24:3
+PC 18:0_24:3,Lipid,PC,PC 18:0_24:3
+PC 18:1_18:4,Lipid,PC,PC 18:1_18:4
+PC 18:1_22:2,Lipid,PC,PC 18:1_22:2
+PC 18:1_24:5,Lipid,PC,PC 18:1_24:5
+PC 18:1/18:1 (9Z),Lipid,PC,PC 18:1/18:1 (9Z)
+PC 18:2_18:2,Lipid,PC,PC 18:2_18:2
+PC 18:2_20:3,Lipid,PC,PC 18:2_20:3
+PC 18:2_21:2,Lipid,PC,PC 18:2_21:2
+PC 18:2_22:3,Lipid,PC,PC 18:2_22:3
+PC 18:2_22:3,Lipid,PC,PC 18:2_22:3
+PC 18:2_22:5,Lipid,PC,PC 18:2_22:5
+PC 18:3_18:3,Lipid,PC,PC 18:3_18:3
+PC 18:3_28:4,Lipid,PC,PC 18:3_28:4
+PC 18:4_24:4,Lipid,PC,PC 18:4_24:4
+PC 18:4_34:8,Lipid,PC,PC 18:4_34:8
+PC 18:5_24:6,Lipid,PC,PC 18:5_24:6
+PC 19:0_14:1,Lipid,PC,PC 19:0_14:1
+PC 19:0_20:4,Lipid,PC,PC 19:0_20:4
+PC 19:1_20:4,Lipid,PC,PC 19:1_20:4
+PC 19:2_18:3,Lipid,PC,PC 19:2_18:3
+PC 19:2_19:2,Lipid,PC,PC 19:2_19:2
+PC 19:2_22:6,Lipid,PC,PC 19:2_22:6
+PC 20:0_20:4,Lipid,PC,PC 20:0_20:4
+PC 20:1_18:2,Lipid,PC,PC 20:1_18:2
+PC 20:1_18:2,Lipid,PC,PC 20:1_18:2
+PC 20:1_18:2,Lipid,PC,PC 20:1_18:2
+PC 20:1_18:2,Lipid,PC,PC 20:1_18:2
+PC 20:1_18:2,Lipid,PC,PC 20:1_18:2
+PC 20:1_18:2,Lipid,PC,PC 20:1_18:2
+PC 20:1_26:6,Lipid,PC,PC 20:1_26:6
+PC 20:2_20:2,Lipid,PC,PC 20:2_20:2
+PC 20:2_22:5,Lipid,PC,PC 20:2_22:5
+PC 20:3_18:4,Lipid,PC,PC 20:3_18:4
+PC 20:3_20:3,Lipid,PC,PC 20:3_20:3
+PC 20:3_20:4,Lipid,PC,PC 20:3_20:4
+PC 20:3_24:3,Lipid,PC,PC 20:3_24:3
+PC 20:4_20:4,Lipid,PC,PC 20:4_20:4
+PC 20:5_34:7,Lipid,PC,PC 20:5_34:7
+PC 21:0_16:3,Lipid,PC,PC 21:0_16:3
+PC 21:0_16:3,Lipid,PC,PC 21:0_16:3
+PC 21:0_22:4,Lipid,PC,PC 21:0_22:4
+PC 21:2_20:5,Lipid,PC,PC 21:2_20:5
+PC 21:2_21:2,Lipid,PC,PC 21:2_21:2
+PC 21:2_22:6,Lipid,PC,PC 21:2_22:6
+PC 22:0_20:5,Lipid,PC,PC 22:0_20:5
+PC 22:1_16:2,Lipid,PC,PC 22:1_16:2
+PC 22:1_16:4,Lipid,PC,PC 22:1_16:4
+PC 22:1_18:4,Lipid,PC,PC 22:1_18:4
+PC 22:2_16:3,Lipid,PC,PC 22:2_16:3
+PC 22:2_16:4,Lipid,PC,PC 22:2_16:4
+PC 22:3_22:4,Lipid,PC,PC 22:3_22:4
+PC 22:4_22:4,Lipid,PC,PC 22:4_22:4
+PC 22:5_34:6,Lipid,PC,PC 22:5_34:6
+PC 22:6_22:6,Lipid,PC,PC 22:6_22:6
+PC 24:3_18:4,Lipid,PC,PC 24:3_18:4
+PC 24:3_22:4,Lipid,PC,PC 24:3_22:4
+PC 26:3_18:5,Lipid,PC,PC 26:3_18:5
+PC 28:2_20:5,Lipid,PC,PC 28:2_20:5
+PC 28:6_28:6,Lipid,PC,PC 28:6_28:6
+PC 30:8_30:8,Lipid,PC,PC 30:8_30:8
+PC 42:12_42:12,Lipid,PC,PC 42:12_42:12
+PC 8:0_28:3,Lipid,PC,PC 8:0_28:3
+PC 8:0_30:1,Lipid,PC,PC 8:0_30:1
+PC 8:0_32:3,Lipid,PC,PC 8:0_32:3
+PC 8:0_9:0,Lipid,PC,PC 8:0_9:0
+PC 9:0_18:2,Lipid,PC,PC 9:0_18:2
+PC 9:0_19:1,Lipid,PC,PC 9:0_19:1
+PC 9:0_30:8,Lipid,PC,PC 9:0_30:8
+PC 9:0_34:7,Lipid,PC,PC 9:0_34:7
+PC O-16:0,Lipid,PC,PC O-16:0
+PC O-16:0_16:1,Lipid,PC,PC O-16:0_16:1
+PC O-16:0_16:2,Lipid,PC,PC O-16:0_16:2
+PC O-16:0_16:3,Lipid,PC,PC O-16:0_16:3
+PC O-16:0_16:4,Lipid,PC,PC O-16:0_16:4
+PC O-16:0_17:1,Lipid,PC,PC O-16:0_17:1
+PC O-16:0_18:1,Lipid,PC,PC O-16:0_18:1
+PC O-16:0_18:2,Lipid,PC,PC O-16:0_18:2
+PC O-16:0_18:3,Lipid,PC,PC O-16:0_18:3
+PC O-16:0_18:4,Lipid,PC,PC O-16:0_18:4
+PC O-16:0_20:4,Lipid,PC,PC O-16:0_20:4
+PC O-16:0_20:4;2O,Lipid,PC,PC O-16:0_20:4;2O
+PC O-16:0_20:4;O,Lipid,PC,PC O-16:0_20:4;O
+PC O-16:0_20:5,Lipid,PC,PC O-16:0_20:5
+PC O-16:0_22:6,Lipid,PC,PC O-16:0_22:6
+PC O-16:1_18:4,Lipid,PC,PC O-16:1_18:4
+PC O-16:1_26:4,Lipid,PC,PC O-16:1_26:4
+PC O-16:4_20:4,Lipid,PC,PC O-16:4_20:4
+PC O-17:1,Lipid,PC,PC O-17:1
+PC O-17:1_18:1,Lipid,PC,PC O-17:1_18:1
+PC O-17:1_18:2,Lipid,PC,PC O-17:1_18:2
+PC O-17:1_20:4,Lipid,PC,PC O-17:1_20:4
+PC O-18:0_16:2,Lipid,PC,PC O-18:0_16:2
+PC O-18:0_16:3,Lipid,PC,PC O-18:0_16:3
+PC O-18:0_16:4,Lipid,PC,PC O-18:0_16:4
+PC O-18:0_17:1,Lipid,PC,PC O-18:0_17:1
+PC O-18:0_18:2,Lipid,PC,PC O-18:0_18:2
+PC O-18:0_18:3,Lipid,PC,PC O-18:0_18:3
+PC O-18:0_20:2,Lipid,PC,PC O-18:0_20:2
+PC O-18:0_20:3,Lipid,PC,PC O-18:0_20:3
+PC O-18:0_20:4,Lipid,PC,PC O-18:0_20:4
+PC O-18:0_20:4;2O,Lipid,PC,PC O-18:0_20:4;2O
+PC O-18:0_20:4;O,Lipid,PC,PC O-18:0_20:4;O
+PC O-18:0_20:5,Lipid,PC,PC O-18:0_20:5
+PC O-18:0_22:5,Lipid,PC,PC O-18:0_22:5
+PC O-18:0_22:6,Lipid,PC,PC O-18:0_22:6
+PC O-18:0_24:5,Lipid,PC,PC O-18:0_24:5
+PC O-18:1,Lipid,PC,PC O-18:1
+PC O-18:1_20:4,Lipid,PC,PC O-18:1_20:4
+PC O-18:2,Lipid,PC,PC O-18:2
+PC O-18:4_17:1,Lipid,PC,PC O-18:4_17:1
+PC O-18:4_20:4,Lipid,PC,PC O-18:4_20:4
+PC O-19:1_16:2,Lipid,PC,PC O-19:1_16:2
+PC O-19:1_17:1,Lipid,PC,PC O-19:1_17:1
+PC O-19:1_18:1,Lipid,PC,PC O-19:1_18:1
+PC O-19:1_20:4,Lipid,PC,PC O-19:1_20:4
+PC O-20:0_20:4,Lipid,PC,PC O-20:0_20:4
+PC O-20:2,Lipid,PC,PC O-20:2
+PC O-20:4,Lipid,PC,PC O-20:4
+PC O-24:5,Lipid,PC,PC O-24:5
+PC O-25:6,Lipid,PC,PC O-25:6
+PC O-26:0,Lipid,PC,PC O-26:0
+PC O-30:0,Lipid,PC,PC O-30:0
+PC O-30:1,Lipid,PC,PC O-30:1
+PC O-30:2,Lipid,PC,PC O-30:2
+PC O-31:2,Lipid,PC,PC O-31:2
+PC O-32:0,Lipid,PC,PC O-32:0
+PC O-32:1,Lipid,PC,PC O-32:1
+PC O-32:2,Lipid,PC,PC O-32:2
+PC O-32:3,Lipid,PC,PC O-32:3
+PC O-32:4,Lipid,PC,PC O-32:4
+PC O-32:5,Lipid,PC,PC O-32:5
+PC O-33:0,Lipid,PC,PC O-33:0
+PC O-33:1,Lipid,PC,PC O-33:1
+PC O-33:1,Lipid,PC,PC O-33:1
+PC O-33:1,Lipid,PC,PC O-33:1
+PC O-33:1,Lipid,PC,PC O-33:1
+PC O-33:2,Lipid,PC,PC O-33:2
+PC O-33:3,Lipid,PC,PC O-33:3
+PC O-33:4,Lipid,PC,PC O-33:4
+PC O-34:0,Lipid,PC,PC O-34:0
+PC O-34:1,Lipid,PC,PC O-34:1
+PC O-34:1,Lipid,PC,PC O-34:1
+PC O-34:2,Lipid,PC,PC O-34:2
+PC O-34:3,Lipid,PC,PC O-34:3
+PC O-34:4,Lipid,PC,PC O-34:4
+PC O-34:5,Lipid,PC,PC O-34:5
+PC O-35:1,Lipid,PC,PC O-35:1
+PC O-35:2,Lipid,PC,PC O-35:2
+PC O-35:3,Lipid,PC,PC O-35:3
+PC O-35:4,Lipid,PC,PC O-35:4
+PC O-35:5,Lipid,PC,PC O-35:5
+PC O-36:0,Lipid,PC,PC O-36:0
+PC O-36:1,Lipid,PC,PC O-36:1
+PC O-36:2,Lipid,PC,PC O-36:2
+PC O-36:2,Lipid,PC,PC O-36:2
+PC O-36:2,Lipid,PC,PC O-36:2
+PC O-36:2,Lipid,PC,PC O-36:2
+PC O-36:3,Lipid,PC,PC O-36:3
+PC O-36:4,Lipid,PC,PC O-36:4
+PC O-36:5,Lipid,PC,PC O-36:5
+PC O-36:5,Lipid,PC,PC O-36:5
+PC O-36:5,Lipid,PC,PC O-36:5
+PC O-36:5,Lipid,PC,PC O-36:5
+PC O-36:6,Lipid,PC,PC O-36:6
+PC O-36:7,Lipid,PC,PC O-36:7
+PC O-36:8,Lipid,PC,PC O-36:8
+PC O-36:8,Lipid,PC,PC O-36:8
+PC O-37:1,Lipid,PC,PC O-37:1
+PC O-37:2,Lipid,PC,PC O-37:2
+PC O-37:3,Lipid,PC,PC O-37:3
+PC O-37:4,Lipid,PC,PC O-37:4
+PC O-37:5,Lipid,PC,PC O-37:5
+PC O-37:6,Lipid,PC,PC O-37:6
+PC O-38:1,Lipid,PC,PC O-38:1
+PC O-38:2,Lipid,PC,PC O-38:2
+PC O-38:3,Lipid,PC,PC O-38:3
+PC O-38:3,Lipid,PC,PC O-38:3
+PC O-38:3,Lipid,PC,PC O-38:3
+PC O-38:3,Lipid,PC,PC O-38:3
+PC O-38:4,Lipid,PC,PC O-38:4
+PC O-38:5,Lipid,PC,PC O-38:5
+PC O-38:6,Lipid,PC,PC O-38:6
+PC O-38:8,Lipid,PC,PC O-38:8
+PC O-38:9,Lipid,PC,PC O-38:9
+PC O-39:1,Lipid,PC,PC O-39:1
+PC O-39:5,Lipid,PC,PC O-39:5
+PC O-39:6,Lipid,PC,PC O-39:6
+PC O-39:7,Lipid,PC,PC O-39:7
+PC O-39:8,Lipid,PC,PC O-39:8
+PC O-40:2,Lipid,PC,PC O-40:2
+PC O-40:3,Lipid,PC,PC O-40:3
+PC O-40:4,Lipid,PC,PC O-40:4
+PC O-40:5,Lipid,PC,PC O-40:5
+PC O-40:5,Lipid,PC,PC O-40:5
+PC O-40:5,Lipid,PC,PC O-40:5
+PC O-40:5,Lipid,PC,PC O-40:5
+PC O-40:6,Lipid,PC,PC O-40:6
+PC O-40:6,Lipid,PC,PC O-40:6
+PC O-40:6,Lipid,PC,PC O-40:6
+PC O-40:6,Lipid,PC,PC O-40:6
+PC O-40:7,Lipid,PC,PC O-40:7
+PC O-40:9,Lipid,PC,PC O-40:9
+PC O-41:4,Lipid,PC,PC O-41:4
+PC O-41:5,Lipid,PC,PC O-41:5
+PC O-41:6,Lipid,PC,PC O-41:6
+PC O-41:7,Lipid,PC,PC O-41:7
+PC O-41:7,Lipid,PC,PC O-41:7
+PC O-41:8,Lipid,PC,PC O-41:8
+PC O-42:4,Lipid,PC,PC O-42:4
+PC O-42:5,Lipid,PC,PC O-42:5
+PC O-42:6,Lipid,PC,PC O-42:6
+PC O-42:7,Lipid,PC,PC O-42:7
+PC O-43:6,Lipid,PC,PC O-43:6
+PC O-43:7,Lipid,PC,PC O-43:7
+PC O-44:4,Lipid,PC,PC O-44:4
+PC O-44:5,Lipid,PC,PC O-44:5
+PC O-44:6,Lipid,PC,PC O-44:6
+PC O-44:7,Lipid,PC,PC O-44:7
+PC O-44:8,Lipid,PC,PC O-44:8
+PC O-45:9,Lipid,PC,PC O-45:9
+PC O-46:8,Lipid,PC,PC O-46:8
+PC O-48:8,Lipid,PC,PC O-48:8
+"PC(18:4(6Z,9Z,12Z,15Z)/P-18:1(11Z))",Lipid,PC,"PC(18:4(6Z,9Z,12Z,15Z)/P-18:1(11Z))"
+"PC(20:5(5Z,8Z,11Z,14Z,17Z)/P-18:1(11Z))",Lipid,PC,"PC(20:5(5Z,8Z,11Z,14Z,17Z)/P-18:1(11Z))"
+"PC(P-18:1(9Z)/22:2(13Z,16Z))",Lipid,PC,"PC(P-18:1(9Z)/22:2(13Z,16Z))"
+PE 16:0_18:1;3O,Lipid,PE,PE 16:0_18:1;3O
+PE 16:1_22:4,Lipid,PE,PE 16:1_22:4
+PE 17:1_17:1,Lipid,PE,PE 17:1_17:1
+PE 17:1_19:1,Lipid,PE,PE 17:1_19:1
+PE 17:1_26:3,Lipid,PE,PE 17:1_26:3
+PE 18:1_20:3;O,Lipid,PE,PE 18:1_20:3;O
+PE 18:1_20:4,Lipid,PE,PE 18:1_20:4
+PE 18:1_22:5;O,Lipid,PE,PE 18:1_22:5;O
+PE 18:1/18:1 9Z,Lipid,PE,PE 18:1/18:1 9Z
+PE 19:1_20:4,Lipid,PE,PE 19:1_20:4
+PE 19:1_28:6,Lipid,PE,PE 19:1_28:6
+PE 19:1_32:8,Lipid,PE,PE 19:1_32:8
+PE 20:1_32:9,Lipid,PE,PE 20:1_32:9
+PE 21:1_36:10,Lipid,PE,PE 21:1_36:10
+PE 8:0_16:4,Lipid,PE,PE 8:0_16:4
+PE 8:0_38:8,Lipid,PE,PE 8:0_38:8
+PE 8:0_9:0,Lipid,PE,PE 8:0_9:0
+PE 9:0_44:10,Lipid,PE,PE 9:0_44:10
+PE dO-38:8,Lipid,PE,PE dO-38:8
+PE dO-38:9,Lipid,PE,PE dO-38:9
+PE dO-40:8,Lipid,PE,PE dO-40:8
+PE dO-40:9,Lipid,PE,PE dO-40:9
+PE O-10:0_7:0,Lipid,PE,PE O-10:0_7:0
+PE O-16:0_20:4,Lipid,PE,PE O-16:0_20:4
+PE O-16:1_18:1,Lipid,PE,PE O-16:1_18:1
+PE O-16:1_20:4,Lipid,PE,PE O-16:1_20:4
+PE O-16:1_20:5,Lipid,PE,PE O-16:1_20:5
+PE O-16:1_22:6,Lipid,PE,PE O-16:1_22:6
+PE O-16:1_24:5,Lipid,PE,PE O-16:1_24:5
+PE O-16:3_22:4,Lipid,PE,PE O-16:3_22:4
+PE O-16:4_21:1,Lipid,PE,PE O-16:4_21:1
+PE O-17:0_12:0,Lipid,PE,PE O-17:0_12:0
+PE O-17:0_20:4,Lipid,PE,PE O-17:0_20:4
+PE O-17:1_17:1,Lipid,PE,PE O-17:1_17:1
+PE O-17:1_20:4,Lipid,PE,PE O-17:1_20:4
+PE O-17:1_20:4,Lipid,PE,PE O-17:1_20:4
+PE O-17:1_20:4,Lipid,PE,PE O-17:1_20:4
+PE O-17:1_20:4,Lipid,PE,PE O-17:1_20:4
+PE O-17:2_3:0,Lipid,PE,PE O-17:2_3:0
+PE O-18:0_17:1,Lipid,PE,PE O-18:0_17:1
+PE O-18:0_20:4,Lipid,PE,PE O-18:0_20:4
+PE O-18:0_20:5,Lipid,PE,PE O-18:0_20:5
+PE O-18:0_24:5,Lipid,PE,PE O-18:0_24:5
+PE O-18:0_24:6,Lipid,PE,PE O-18:0_24:6
+PE O-18:1_16:2,Lipid,PE,PE O-18:1_16:2
+PE O-18:1_17:1,Lipid,PE,PE O-18:1_17:1
+PE O-18:1_18:0,Lipid,PE,PE O-18:1_18:0
+PE O-18:1_18:2,Lipid,PE,PE O-18:1_18:2
+PE O-18:1_20:4,Lipid,PE,PE O-18:1_20:4
+PE O-18:1_20:4,Lipid,PE,PE O-18:1_20:4
+PE O-18:1_20:4,Lipid,PE,PE O-18:1_20:4
+PE O-18:1_20:4,Lipid,PE,PE O-18:1_20:4
+PE O-18:1_20:4;2O,Lipid,PE,PE O-18:1_20:4;2O
+PE O-18:1_20:4;3O,Lipid,PE,PE O-18:1_20:4;3O
+PE O-18:1_20:4;O,Lipid,PE,PE O-18:1_20:4;O
+PE O-18:1_20:5,Lipid,PE,PE O-18:1_20:5
+PE O-18:1_24:5,Lipid,PE,PE O-18:1_24:5
+PE O-18:1_24:6,Lipid,PE,PE O-18:1_24:6
+PE O-18:2_20:4,Lipid,PE,PE O-18:2_20:4
+PE O-18:5_15:0,Lipid,PE,PE O-18:5_15:0
+PE O-18:5_22:1,Lipid,PE,PE O-18:5_22:1
+PE O-19:0_22:1,Lipid,PE,PE O-19:0_22:1
+PE O-19:1_16:0,Lipid,PE,PE O-19:1_16:0
+PE O-19:1_16:2,Lipid,PE,PE O-19:1_16:2
+PE O-19:1_17:1,Lipid,PE,PE O-19:1_17:1
+PE O-19:1_18:0,Lipid,PE,PE O-19:1_18:0
+PE O-19:1_18:2,Lipid,PE,PE O-19:1_18:2
+PE O-19:1_18:3,Lipid,PE,PE O-19:1_18:3
+PE O-19:1_20:4,Lipid,PE,PE O-19:1_20:4
+PE O-19:1_20:4,Lipid,PE,PE O-19:1_20:4
+PE O-19:1_20:4,Lipid,PE,PE O-19:1_20:4
+PE O-19:1_20:4,Lipid,PE,PE O-19:1_20:4
+PE O-19:1_24:5,Lipid,PE,PE O-19:1_24:5
+PE O-19:2_17:1,Lipid,PE,PE O-19:2_17:1
+PE O-19:2_20:4,Lipid,PE,PE O-19:2_20:4
+PE O-20:1_20:4,Lipid,PE,PE O-20:1_20:4
+PE O-20:2_12:0,Lipid,PE,PE O-20:2_12:0
+PE O-20:2_14:0,Lipid,PE,PE O-20:2_14:0
+PE O-20:3_17:1,Lipid,PE,PE O-20:3_17:1
+PE O-21:1_16:4,Lipid,PE,PE O-21:1_16:4
+PE O-23:0_5:0,Lipid,PE,PE O-23:0_5:0
+PE O-26:1_6:0,Lipid,PE,PE O-26:1_6:0
+PE O-26:7_13:1,Lipid,PE,PE O-26:7_13:1
+PE O-28:1_4:0,Lipid,PE,PE O-28:1_4:0
+PE O-28:1_5:0,Lipid,PE,PE O-28:1_5:0
+PE O-28:1_7:0,Lipid,PE,PE O-28:1_7:0
+PE O-28:4_16:4,Lipid,PE,PE O-28:4_16:4
+PE O-28:7_13:1,Lipid,PE,PE O-28:7_13:1
+PE O-37:4,Lipid,PE,PE O-37:4
+PE O-38:8,Lipid,PE,PE O-38:8
+PE-Cer 12:1;2O/22:0,Lipid,PE,PE-Cer 12:1;2O/22:0
+PE-Cer 12:2;2O/21:0,Lipid,PE,PE-Cer 12:2;2O/21:0
+PE-Cer 12:2;2O/22:0,Lipid,PE,PE-Cer 12:2;2O/22:0
+PE-Cer 12:2;2O/23:0,Lipid,PE,PE-Cer 12:2;2O/23:0
+PE-Cer 13:2;2O/24:2;O,Lipid,PE,PE-Cer 13:2;2O/24:2;O
+PE-Cer 15:3;2O/22:2;O,Lipid,PE,PE-Cer 15:3;2O/22:2;O
+PE-Cer(d14:1(4E)/20:0),Lipid,PE,PE-Cer(d14:1(4E)/20:0)
+PE-Cer(d14:1(4E)/22:1(13Z)),Lipid,PE,PE-Cer(d14:1(4E)/22:1(13Z))
+PE-Cer(d14:1(4E)/26:0),Lipid,PE,PE-Cer(d14:1(4E)/26:0)
+PE(0:0/20:4;O),Lipid,PE,PE(0:0/20:4;O)
+"PE(0:0/24:6(6Z,9Z,12Z,15Z,18Z,21Z))",Lipid,PE,"PE(0:0/24:6(6Z,9Z,12Z,15Z,18Z,21Z))"
+PE(12:0/19:0),Lipid,PE,PE(12:0/19:0)
+PE(13:0/0:0),Lipid,PE,PE(13:0/0:0)
+"PE(13:0/20:2(11Z,14Z))",Lipid,PE,"PE(13:0/20:2(11Z,14Z))"
+"PE(13:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PE,"PE(13:0/22:4(7Z,10Z,13Z,16Z))"
+PE(14:1(9Z)/0:0),Lipid,PE,PE(14:1(9Z)/0:0)
+PE(15:0-18:1)-D7,Lipid,PE,PE(15:0-18:1)-D7
+"PE(15:1(9Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PE,"PE(15:1(9Z)/22:4(7Z,10Z,13Z,16Z))"
+PE(16:0/18:1(9Z))-15-isoLG hydroxylactam,Lipid,PE,PE(16:0/18:1(9Z))-15-isoLG hydroxylactam
+PE(16:0/18:1(9Z))-15-isoLG lactam,Lipid,PE,PE(16:0/18:1(9Z))-15-isoLG lactam
+"PE(16:0/18:2(9Z,12Z))",Lipid,PE,"PE(16:0/18:2(9Z,12Z))"
+"PE(16:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PE,"PE(16:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+"PE(16:1(9Z)/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PE,"PE(16:1(9Z)/20:5(5Z,8Z,11Z,14Z,17Z))"
+"PE(16:1(9Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PE,"PE(16:1(9Z)/22:4(7Z,10Z,13Z,16Z))"
+PE(17:0/0:0),Lipid,PE,PE(17:0/0:0)
+PE(17:0/14:1(9Z)),Lipid,PE,PE(17:0/14:1(9Z))
+"PE(17:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PE,"PE(17:0/22:4(7Z,10Z,13Z,16Z))"
+PE(17:1(9Z)/0:0),Lipid,PE,PE(17:1(9Z)/0:0)
+"PE(17:1(9Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PE,"PE(17:1(9Z)/22:4(7Z,10Z,13Z,16Z))"
+"PE(17:2(9Z,12Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PE,"PE(17:2(9Z,12Z)/22:4(7Z,10Z,13Z,16Z))"
+PE(18:0/0:0),Lipid,PE,PE(18:0/0:0)
+PE(18:0/20:0),Lipid,PE,PE(18:0/20:0)
+"PE(18:0/20:4(5Z,8Z,10E,14Z)(12OH[S]))",Lipid,PE,"PE(18:0/20:4(5Z,8Z,10E,14Z)(12OH[S]))"
+"PE(18:0/20:4(5Z,8Z,10E,14Z)(12OH[S]))",Lipid,PE,"PE(18:0/20:4(5Z,8Z,10E,14Z)(12OH[S]))"
+"PE(18:0/20:4(5Z,8Z,10E,14Z)(12OH[S]))",Lipid,PE,"PE(18:0/20:4(5Z,8Z,10E,14Z)(12OH[S]))"
+"PE(18:0/20:4(5Z,8Z,10E,14Z)(12OH[S]))",Lipid,PE,"PE(18:0/20:4(5Z,8Z,10E,14Z)(12OH[S]))"
+"PE(18:0/20:4(5Z,8Z,11Z,13E)(15Ke))",Lipid,PE,"PE(18:0/20:4(5Z,8Z,11Z,13E)(15Ke))"
+"PE(18:1(9Z)/22:2(13Z,16Z))",Lipid,PE,"PE(18:1(9Z)/22:2(13Z,16Z))"
+"PE(18:1(9Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PE,"PE(18:1(9Z)/22:4(7Z,10Z,13Z,16Z))"
+"PE(18:3(6Z,9Z,12Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PE,"PE(18:3(6Z,9Z,12Z)/22:4(7Z,10Z,13Z,16Z))"
+"PE(18:3(6Z,9Z,12Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PE,"PE(18:3(6Z,9Z,12Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+PE(19:0/0:0),Lipid,PE,PE(19:0/0:0)
+PE(19:0/16:0),Lipid,PE,PE(19:0/16:0)
+"PE(19:0/22:2(13Z,16Z))",Lipid,PE,"PE(19:0/22:2(13Z,16Z))"
+"PE(19:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PE,"PE(19:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+"PE(19:1(9Z)/22:2(13Z,16Z))",Lipid,PE,"PE(19:1(9Z)/22:2(13Z,16Z))"
+"PE(20:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PE,"PE(20:0/22:4(7Z,10Z,13Z,16Z))"
+PE(20:1(11Z)/0:0),Lipid,PE,PE(20:1(11Z)/0:0)
+"PE(20:3(8Z,11Z,14Z)/0:0)",Lipid,PE,"PE(20:3(8Z,11Z,14Z)/0:0)"
+"PE(21:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PE,"PE(21:0/22:4(7Z,10Z,13Z,16Z))"
+PE(22:1(11Z)/0:0),Lipid,PE,PE(22:1(11Z)/0:0)
+"PE(22:2(13Z,16Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PE,"PE(22:2(13Z,16Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+PE(6:0/6:0),Lipid,PE,PE(6:0/6:0)
+PE(O-16:0/0:0),Lipid,PE,PE(O-16:0/0:0)
+PE(O-16:0/15:0),Lipid,PE,PE(O-16:0/15:0)
+PE(O-16:0/16:1(9Z)),Lipid,PE,PE(O-16:0/16:1(9Z))
+PE(O-16:0/18:1(9Z)),Lipid,PE,PE(O-16:0/18:1(9Z))
+PE(O-16:0/19:1(9Z)),Lipid,PE,PE(O-16:0/19:1(9Z))
+"PE(O-16:0/22:2(13Z,16Z))",Lipid,PE,"PE(O-16:0/22:2(13Z,16Z))"
+PE(O-18:0/0:0),Lipid,PE,PE(O-18:0/0:0)
+PE(O-18:0/14:0),Lipid,PE,PE(O-18:0/14:0)
+PE(O-18:0/15:0),Lipid,PE,PE(O-18:0/15:0)
+PE(O-18:0/19:1(9Z)),Lipid,PE,PE(O-18:0/19:1(9Z))
+"PE(O-18:0/20:3(8Z,11Z,14Z))",Lipid,PE,"PE(O-18:0/20:3(8Z,11Z,14Z))"
+PE(O-18:0/21:0),Lipid,PE,PE(O-18:0/21:0)
+PE(O-18:0/22:1(11Z)),Lipid,PE,PE(O-18:0/22:1(11Z))
+"PE(O-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PE,"PE(O-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+PE(O-18:1(9Z)/0:0),Lipid,PE,PE(O-18:1(9Z)/0:0)
+"PE(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PE,"PE(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+PE(O-20:0/21:0),Lipid,PE,PE(O-20:0/21:0)
+PE(O-20:0/22:1(11Z)),Lipid,PE,PE(O-20:0/22:1(11Z))
+"PE(O-20:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PE,"PE(O-20:0/22:4(7Z,10Z,13Z,16Z))"
+"PE(O-20:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PE,"PE(O-20:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+PE(P-16:0/0:0),Lipid,PE,PE(P-16:0/0:0)
+PE(P-16:0/13:0),Lipid,PE,PE(P-16:0/13:0)
+PE(P-16:0/14:1(9Z)),Lipid,PE,PE(P-16:0/14:1(9Z))
+"PE(P-16:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PE,"PE(P-16:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+"PE(P-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PE,"PE(P-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+"PE(P-18:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PE,"PE(P-18:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+PE(P-19:1(12Z)/0:0),Lipid,PE,PE(P-19:1(12Z)/0:0)
+"PE(P-20:0/17:2(9Z,12Z))",Lipid,PE,"PE(P-20:0/17:2(9Z,12Z))"
+PE(P-20:0/19:1(9Z)),Lipid,PE,PE(P-20:0/19:1(9Z))
+PG 16:2_20:2,Lipid,PG,PG 16:2_20:2
+PG 2:0_16:0,Lipid,PG,PG 2:0_16:0
+PG 2:0_18:0,Lipid,PG,PG 2:0_18:0
+PG 2:0_20:0,Lipid,PG,PG 2:0_20:0
+PG 2:0_20:0,Lipid,PG,PG 2:0_20:0
+PG 2:0_20:1,Lipid,PG,PG 2:0_20:1
+PG 2:0_24:4,Lipid,PG,PG 2:0_24:4
+PG 4:0_16:3,Lipid,PG,PG 4:0_16:3
+PG 6:0_15:1,Lipid,PG,PG 6:0_15:1
+PG dO-38:9,Lipid,PG,PG dO-38:9
+PG dO-40:10;1,Lipid,PG,PG dO-40:10;1
+PG O-16:0_15:0,Lipid,PG,PG O-16:0_15:0
+PG(12:0/17:1(9Z)),Lipid,PG,PG(12:0/17:1(9Z))
+"PG(12:0/17:2(9Z,12Z))",Lipid,PG,"PG(12:0/17:2(9Z,12Z))"
+PG(12:0/19:0),Lipid,PG,PG(12:0/19:0)
+"PG(12:0/20:2(11Z,14Z))",Lipid,PG,"PG(12:0/20:2(11Z,14Z))"
+"PG(12:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PG,"PG(12:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+PG(12:0/21:0),Lipid,PG,PG(12:0/21:0)
+"PG(13:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PG,"PG(13:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+PG(13:0/22:0),Lipid,PG,PG(13:0/22:0)
+PG(14:0/12:0),Lipid,PG,PG(14:0/12:0)
+"PG(14:1(9Z)/22:2(13Z,16Z))",Lipid,PG,"PG(14:1(9Z)/22:2(13Z,16Z))"
+PG(15:0-18:1)-D7,Lipid,PG,PG(15:0-18:1)-D7
+"PG(15:0/20:3(8Z,11Z,14Z))",Lipid,PG,"PG(15:0/20:3(8Z,11Z,14Z))"
+PG(16:0/22:1(11Z)),Lipid,PG,PG(16:0/22:1(11Z))
+PG(17:0/21:0),Lipid,PG,PG(17:0/21:0)
+"PG(17:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PG,"PG(17:0/22:4(7Z,10Z,13Z,16Z))"
+PG(18:0/14:0),Lipid,PG,PG(18:0/14:0)
+"PG(18:0/20:4(5Z,8Z,11Z,14Z))",Lipid,PG,"PG(18:0/20:4(5Z,8Z,11Z,14Z))"
+PG(18:0/22:1(11Z)),Lipid,PG,PG(18:0/22:1(11Z))
+"PG(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PG,"PG(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+PG(18:1(9E)/18:1(9E)),Lipid,PG,PG(18:1(9E)/18:1(9E))
+"PG(18:1(9Z)/22:2(13Z,16Z))",Lipid,PG,"PG(18:1(9Z)/22:2(13Z,16Z))"
+"PG(18:1(9Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PG,"PG(18:1(9Z)/22:4(7Z,10Z,13Z,16Z))"
+"PG(18:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PG,"PG(18:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+"PG(18:2(9Z,12Z)/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PG,"PG(18:2(9Z,12Z)/20:5(5Z,8Z,11Z,14Z,17Z))"
+"PG(18:2(9Z,12Z)/22:2(13Z,16Z))",Lipid,PG,"PG(18:2(9Z,12Z)/22:2(13Z,16Z))"
+PG(19:0/22:0),Lipid,PG,PG(19:0/22:0)
+PG(19:0/22:1(11Z)),Lipid,PG,PG(19:0/22:1(11Z))
+"PG(19:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PG,"PG(19:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+"PG(19:1(9Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PG,"PG(19:1(9Z)/22:4(7Z,10Z,13Z,16Z))"
+PG(20:0/0:0),Lipid,PG,PG(20:0/0:0)
+"PG(20:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PG,"PG(20:0/22:4(7Z,10Z,13Z,16Z))"
+PG(20:1(11Z)/0:0),Lipid,PG,PG(20:1(11Z)/0:0)
+"PG(20:1(11Z)/22:2(13Z,16Z))",Lipid,PG,"PG(20:1(11Z)/22:2(13Z,16Z))"
+"PG(20:1(11Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PG,"PG(20:1(11Z)/22:4(7Z,10Z,13Z,16Z))"
+"PG(20:2(11Z,14Z)/0:0)",Lipid,PG,"PG(20:2(11Z,14Z)/0:0)"
+PG(22:1(11Z)/0:0),Lipid,PG,PG(22:1(11Z)/0:0)
+PG(22:1(11Z)/0:0),Lipid,PG,PG(22:1(11Z)/0:0)
+PG(22:1(11Z)/0:0),Lipid,PG,PG(22:1(11Z)/0:0)
+PG(22:1(11Z)/0:0),Lipid,PG,PG(22:1(11Z)/0:0)
+PG(22:1(11Z)/0:0),Lipid,PG,PG(22:1(11Z)/0:0)
+"PG(22:1(11Z)/22:2(13Z,16Z))",Lipid,PG,"PG(22:1(11Z)/22:2(13Z,16Z))"
+"PG(22:1(11Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PG,"PG(22:1(11Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+"PG(22:2(13Z,16Z)/0:0)",Lipid,PG,"PG(22:2(13Z,16Z)/0:0)"
+PG(O-16:0/14:0),Lipid,PG,PG(O-16:0/14:0)
+PG(O-16:0/14:1(9Z)),Lipid,PG,PG(O-16:0/14:1(9Z))
+PG(O-16:0/15:0),Lipid,PG,PG(O-16:0/15:0)
+PG(O-16:0/15:1(9Z)),Lipid,PG,PG(O-16:0/15:1(9Z))
+PG(O-16:0/17:1(9Z)),Lipid,PG,PG(O-16:0/17:1(9Z))
+"PG(O-16:0/18:3(9Z,12Z,15Z))",Lipid,PG,"PG(O-16:0/18:3(9Z,12Z,15Z))"
+PG(O-16:0/19:1(9Z)),Lipid,PG,PG(O-16:0/19:1(9Z))
+PG(O-16:0/20:1(11Z)),Lipid,PG,PG(O-16:0/20:1(11Z))
+"PG(O-16:0/20:2(11Z,14Z))",Lipid,PG,"PG(O-16:0/20:2(11Z,14Z))"
+"PG(O-16:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PG,"PG(O-16:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+PG(O-16:0/22:1(11Z)),Lipid,PG,PG(O-16:0/22:1(11Z))
+"PG(O-16:0/22:2(13Z,16Z))",Lipid,PG,"PG(O-16:0/22:2(13Z,16Z))"
+"PG(O-16:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PG,"PG(O-16:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+PG(O-18:0/0:0),Lipid,PG,PG(O-18:0/0:0)
+PG(O-18:0/14:0),Lipid,PG,PG(O-18:0/14:0)
+PG(O-18:0/17:0),Lipid,PG,PG(O-18:0/17:0)
+"PG(O-18:0/17:2(9Z,12Z))",Lipid,PG,"PG(O-18:0/17:2(9Z,12Z))"
+"PG(O-18:0/18:3(6Z,9Z,12Z))",Lipid,PG,"PG(O-18:0/18:3(6Z,9Z,12Z))"
+PG(O-18:0/19:1(9Z)),Lipid,PG,PG(O-18:0/19:1(9Z))
+"PG(O-18:0/20:3(8Z,11Z,14Z))",Lipid,PG,"PG(O-18:0/20:3(8Z,11Z,14Z))"
+"PG(O-18:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PG,"PG(O-18:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+"PG(O-18:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PG,"PG(O-18:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+"PG(O-18:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PG,"PG(O-18:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+"PG(O-18:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PG,"PG(O-18:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+"PG(O-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PG,"PG(O-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+PG(O-20:0/0:0),Lipid,PG,PG(O-20:0/0:0)
+PG(O-20:0/14:0),Lipid,PG,PG(O-20:0/14:0)
+PG(O-20:0/14:1(9Z)),Lipid,PG,PG(O-20:0/14:1(9Z))
+"PG(O-20:0/17:2(9Z,12Z))",Lipid,PG,"PG(O-20:0/17:2(9Z,12Z))"
+PG(O-20:0/18:0),Lipid,PG,PG(O-20:0/18:0)
+PG(O-20:0/19:1(9Z)),Lipid,PG,PG(O-20:0/19:1(9Z))
+"PG(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PG,"PG(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+"PG(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PG,"PG(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+"PG(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PG,"PG(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+"PG(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PG,"PG(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+"PG(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PG,"PG(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+"PG(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PG,"PG(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+"PG(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PG,"PG(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+"PG(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PG,"PG(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+"PG(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PG,"PG(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+"PG(O-20:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PG,"PG(O-20:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+PG(P-16:0/15:1(9Z)),Lipid,PG,PG(P-16:0/15:1(9Z))
+"PG(P-16:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PG,"PG(P-16:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+"PG(P-18:0/17:2(9Z,12Z))",Lipid,PG,"PG(P-18:0/17:2(9Z,12Z))"
+"PG(P-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PG,"PG(P-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+PG(P-20:0/19:1(9Z)),Lipid,PG,PG(P-20:0/19:1(9Z))
+PG(P-20:0/19:1(9Z)),Lipid,PG,PG(P-20:0/19:1(9Z))
+"PG(P-20:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PG,"PG(P-20:0/22:4(7Z,10Z,13Z,16Z))"
+"PG(P-20:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PG,"PG(P-20:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+PI 14:1_26:4,Lipid,PI,PI 14:1_26:4
+PI 16:0_22:6,Lipid,PI,PI 16:0_22:6
+PI 18:0_22:4,Lipid,PI,PI 18:0_22:4
+PI 20:2_20:3,Lipid,PI,PI 20:2_20:3
+PI 20:2_22:3,Lipid,PI,PI 20:2_22:3
+PI 20:2_22:4,Lipid,PI,PI 20:2_22:4
+PI 24:0_18:5,Lipid,PI,PI 24:0_18:5
+PI 24:1_18:5,Lipid,PI,PI 24:1_18:5
+PI 38:6,Lipid,PI,PI 38:6
+PI 40:4,Lipid,PI,PI 40:4
+PI 40:5,Lipid,PI,PI 40:5
+PI 40:6,Lipid,PI,PI 40:6
+PI 42:5,Lipid,PI,PI 42:5
+PI 42:6,Lipid,PI,PI 42:6
+PI 43:5,Lipid,PI,PI 43:5
+PI O-16:0_24:5,Lipid,PI,PI O-16:0_24:5
+PI O-18:0_20:4,Lipid,PI,PI O-18:0_20:4
+PI O-18:0_24:5,Lipid,PI,PI O-18:0_24:5
+PI O-28:1,Lipid,PI,PI O-28:1
+PI O-33:1,Lipid,PI,PI O-33:1
+PI O-34:5,Lipid,PI,PI O-34:5
+PI O-36:1,Lipid,PI,PI O-36:1
+PI O-37:0,Lipid,PI,PI O-37:0
+PI O-38:4,Lipid,PI,PI O-38:4
+PI O-38:5,Lipid,PI,PI O-38:5
+PI O-38:5,Lipid,PI,PI O-38:5
+PI O-40:0,Lipid,PI,PI O-40:0
+PI O-40:4,Lipid,PI,PI O-40:4
+PI O-40:5,Lipid,PI,PI O-40:5
+PI O-40:6,Lipid,PI,PI O-40:6
+PI O-40:7,Lipid,PI,PI O-40:7
+PI O-42:5,Lipid,PI,PI O-42:5
+PI O-42:7,Lipid,PI,PI O-42:7
+PI-Cer 12:0;2O/24:0;O,Lipid,PI,PI-Cer 12:0;2O/24:0;O
+PI-Cer 12:1;2O/24:0;O,Lipid,PI,PI-Cer 12:1;2O/24:0;O
+PI-Cer 12:1;2O/26:0;O,Lipid,PI,PI-Cer 12:1;2O/26:0;O
+PI-Cer 12:2;2O/22:0;O,Lipid,PI,PI-Cer 12:2;2O/22:0;O
+PI-Cer 12:2;2O/24:0;O,Lipid,PI,PI-Cer 12:2;2O/24:0;O
+PI-Cer 12:2;2O/26:0;O,Lipid,PI,PI-Cer 12:2;2O/26:0;O
+PI-Cer 12:2;2O/26:1;O,Lipid,PI,PI-Cer 12:2;2O/26:1;O
+PI-Cer 13:2;2O/24:2;O,Lipid,PI,PI-Cer 13:2;2O/24:2;O
+PI-Cer 13:2;2O/26:2;O,Lipid,PI,PI-Cer 13:2;2O/26:2;O
+PI-Cer 16:3;2O/26:2;O,Lipid,PI,PI-Cer 16:3;2O/26:2;O
+PI-Cer 34:2;3O,Lipid,PI,PI-Cer 34:2;3O
+PI-Cer 36:0;3O,Lipid,PI,PI-Cer 36:0;3O
+PI-Cer 36:1;3O,Lipid,PI,PI-Cer 36:1;3O
+PI-Cer 38:2;3O,Lipid,PI,PI-Cer 38:2;3O
+PI-Cer 39:2;3O,Lipid,PI,PI-Cer 39:2;3O
+PI-Cer(d18:1/14:0),Lipid,PI,PI-Cer(d18:1/14:0)
+PI-Cer(d20:1/14:0),Lipid,PI,PI-Cer(d20:1/14:0)
+PI-Cer(d20:1/16:0),Lipid,PI,PI-Cer(d20:1/16:0)
+PI-Cer(t18:0/16:0(2OH)),Lipid,PI,PI-Cer(t18:0/16:0(2OH))
+PI-Cer(t18:0/18:0(2OH)),Lipid,PI,PI-Cer(t18:0/18:0(2OH))
+PI-Cer(t18:0/18:0),Lipid,PI,PI-Cer(t18:0/18:0)
+PI(12:0/13:0),Lipid,PI,PI(12:0/13:0)
+PI(12:0/15:0),Lipid,PI,PI(12:0/15:0)
+PI(12:0/15:1(9Z)),Lipid,PI,PI(12:0/15:1(9Z))
+PI(12:0/17:0),Lipid,PI,PI(12:0/17:0)
+PI(12:0/17:1(9Z)),Lipid,PI,PI(12:0/17:1(9Z))
+"PI(12:0/17:2(9Z,12Z))",Lipid,PI,"PI(12:0/17:2(9Z,12Z))"
+"PI(12:0/17:2(9Z,12Z))",Lipid,PI,"PI(12:0/17:2(9Z,12Z))"
+"PI(12:0/17:2(9Z,12Z))",Lipid,PI,"PI(12:0/17:2(9Z,12Z))"
+"PI(12:0/17:2(9Z,12Z))",Lipid,PI,"PI(12:0/17:2(9Z,12Z))"
+PI(12:0/19:0),Lipid,PI,PI(12:0/19:0)
+PI(12:0/20:1(11Z)),Lipid,PI,PI(12:0/20:1(11Z))
+PI(12:0/21:0),Lipid,PI,PI(12:0/21:0)
+"PI(13:0/18:2(9Z,12Z))",Lipid,PI,"PI(13:0/18:2(9Z,12Z))"
+"PI(13:0/18:3(6Z,9Z,12Z))",Lipid,PI,"PI(13:0/18:3(6Z,9Z,12Z))"
+"PI(13:0/18:4(6Z,9Z,12Z,15Z))",Lipid,PI,"PI(13:0/18:4(6Z,9Z,12Z,15Z))"
+"PI(13:0/20:3(8Z,11Z,14Z))",Lipid,PI,"PI(13:0/20:3(8Z,11Z,14Z))"
+"PI(13:0/20:4(5Z,8Z,11Z,14Z))",Lipid,PI,"PI(13:0/20:4(5Z,8Z,11Z,14Z))"
+"PI(13:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PI,"PI(13:0/22:4(7Z,10Z,13Z,16Z))"
+"PI(14:1(9Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PI,"PI(14:1(9Z)/22:4(7Z,10Z,13Z,16Z))"
+"PI(15:0/20:3(8Z,11Z,14Z))",Lipid,PI,"PI(15:0/20:3(8Z,11Z,14Z))"
+"PI(15:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PI,"PI(15:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+PI(15:0/22:1(11Z)),Lipid,PI,PI(15:0/22:1(11Z))
+"PI(15:1(9Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PI,"PI(15:1(9Z)/22:4(7Z,10Z,13Z,16Z))"
+PI(16:0/18:1(9Z)),Lipid,PI,PI(16:0/18:1(9Z))
+PI(16:0/22:1(11Z)),Lipid,PI,PI(16:0/22:1(11Z))
+PI(17:0/0:0),Lipid,PI,PI(17:0/0:0)
+PI(17:0/14:1(9Z)),Lipid,PI,PI(17:0/14:1(9Z))
+"PI(17:0/20:4(5Z,8Z,11Z,14Z))",Lipid,PI,"PI(17:0/20:4(5Z,8Z,11Z,14Z))"
+"PI(17:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PI,"PI(17:0/22:4(7Z,10Z,13Z,16Z))"
+"PI(17:2(9Z,12Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PI,"PI(17:2(9Z,12Z)/22:4(7Z,10Z,13Z,16Z))"
+PI(18:0/0:0),Lipid,PI,PI(18:0/0:0)
+"PI(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PI,"PI(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+PI(19:0/22:1(11Z)),Lipid,PI,PI(19:0/22:1(11Z))
+"PI(19:1(9Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PI,"PI(19:1(9Z)/22:4(7Z,10Z,13Z,16Z))"
+"PI(20:2(11Z,14Z)/0:0)",Lipid,PI,"PI(20:2(11Z,14Z)/0:0)"
+"PI(20:2(11Z,14Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PI,"PI(20:2(11Z,14Z)/22:4(7Z,10Z,13Z,16Z))"
+"PI(22:2(13Z,16Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PI,"PI(22:2(13Z,16Z)/22:4(7Z,10Z,13Z,16Z))"
+"PI(22:2(13Z,16Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PI,"PI(22:2(13Z,16Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+PI(O-18:0/0:0),Lipid,PI,PI(O-18:0/0:0)
+"PI(O-20:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PI,"PI(O-20:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+PIM1(16:0/14:0),Lipid,PIM1,PIM1(16:0/14:0)
+PIM1(16:0/16:1(9Z)),Lipid,PIM1,PIM1(16:0/16:1(9Z))
+PIM1(17:0/14:0),Lipid,PIM1,PIM1(17:0/14:0)
+"PIM1(17:0/16:2(9Z,12Z))",Lipid,PIM1,"PIM1(17:0/16:2(9Z,12Z))"
+"PIM1(17:0/16:2(9Z,12Z))",Lipid,PIM1,"PIM1(17:0/16:2(9Z,12Z))"
+"PIM1(19:2(9Z,12Z)/16:2(9Z,12Z))",Lipid,PIM1,"PIM1(19:2(9Z,12Z)/16:2(9Z,12Z))"
+PS 11:0_18:0,Lipid,PS,PS 11:0_18:0
+PS 11:0_21:1,Lipid,PS,PS 11:0_21:1
+PS 15:0_26:4,Lipid,PS,PS 15:0_26:4
+PS 15:0_26:4,Lipid,PS,PS 15:0_26:4
+PS 16:0_16:0,Lipid,PS,PS 16:0_16:0
+PS 16:1_24:2,Lipid,PS,PS 16:1_24:2
+PS 16:1_24:2,Lipid,PS,PS 16:1_24:2
+PS 16:1_26:4,Lipid,PS,PS 16:1_26:4
+PS 17:2_26:2,Lipid,PS,PS 17:2_26:2
+PS 17:2_26:2,Lipid,PS,PS 17:2_26:2
+PS 18:0_14:1,Lipid,PS,PS 18:0_14:1
+PS 18:0_18:2;2O,Lipid,PS,PS 18:0_18:2;2O
+PS 18:0_20:3;2O,Lipid,PS,PS 18:0_20:3;2O
+PS 18:1_18:1,Lipid,PS,PS 18:1_18:1
+PS 19:1_22:6,Lipid,PS,PS 19:1_22:6
+PS 2:0_19:1,Lipid,PS,PS 2:0_19:1
+PS 2:0_20:0,Lipid,PS,PS 2:0_20:0
+PS 20:1_22:2,Lipid,PS,PS 20:1_22:2
+PS 20:1_22:2,Lipid,PS,PS 20:1_22:2
+PS 20:1_22:2,Lipid,PS,PS 20:1_22:2
+PS 20:1_22:2,Lipid,PS,PS 20:1_22:2
+PS 20:1_22:2,Lipid,PS,PS 20:1_22:2
+PS 20:1_22:2,Lipid,PS,PS 20:1_22:2
+PS 20:1_22:2,Lipid,PS,PS 20:1_22:2
+PS 20:1_22:2,Lipid,PS,PS 20:1_22:2
+PS 20:1_22:2,Lipid,PS,PS 20:1_22:2
+PS 21:2_21:2,Lipid,PS,PS 21:2_21:2
+PS 23:0_20:4,Lipid,PS,PS 23:0_20:4
+PS 23:0_20:4,Lipid,PS,PS 23:0_20:4
+PS 23:0_20:4,Lipid,PS,PS 23:0_20:4
+PS 9:0_22:0,Lipid,PS,PS 9:0_22:0
+PS O-16:0_24:5,Lipid,PS,PS O-16:0_24:5
+PS O-18:0_24:5,Lipid,PS,PS O-18:0_24:5
+PS O-18:0_24:6,Lipid,PS,PS O-18:0_24:6
+PS O-18:1_24:5,Lipid,PS,PS O-18:1_24:5
+PS O-18:2_20:4,Lipid,PS,PS O-18:2_20:4
+PS O-18:3_20:4,Lipid,PS,PS O-18:3_20:4
+PS O-19:1_24:5,Lipid,PS,PS O-19:1_24:5
+PS(12:0/12:0),Lipid,PS,PS(12:0/12:0)
+PS(12:0/14:1(9Z)),Lipid,PS,PS(12:0/14:1(9Z))
+PS(12:0/15:0),Lipid,PS,PS(12:0/15:0)
+PS(12:0/16:1(9Z)),Lipid,PS,PS(12:0/16:1(9Z))
+PS(12:0/17:0),Lipid,PS,PS(12:0/17:0)
+"PS(13:0/20:3(8Z,11Z,14Z))",Lipid,PS,"PS(13:0/20:3(8Z,11Z,14Z))"
+"PS(13:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PS,"PS(13:0/22:4(7Z,10Z,13Z,16Z))"
+PS(16:0/16:0),Lipid,PS,PS(16:0/16:0)
+PS(16:0/22:1(11Z)),Lipid,PS,PS(16:0/22:1(11Z))
+"PS(16:0/22:2(13Z,16Z))",Lipid,PS,"PS(16:0/22:2(13Z,16Z))"
+"PS(17:0/22:2(13Z,16Z))",Lipid,PS,"PS(17:0/22:2(13Z,16Z))"
+PS(18:0/18:1(9Z)),Lipid,PS,PS(18:0/18:1(9Z))
+PS(18:0/22:1(11Z)),Lipid,PS,PS(18:0/22:1(11Z))
+"PS(18:0/22:2(13Z,16Z))",Lipid,PS,"PS(18:0/22:2(13Z,16Z))"
+"PS(18:0/22:2(13Z,16Z))",Lipid,PS,"PS(18:0/22:2(13Z,16Z))"
+"PS(18:1(9Z)/22:2(13Z,16Z))",Lipid,PS,"PS(18:1(9Z)/22:2(13Z,16Z))"
+"PS(18:1(9Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PS,"PS(18:1(9Z)/22:4(7Z,10Z,13Z,16Z))"
+"PS(19:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PS,"PS(19:0/22:4(7Z,10Z,13Z,16Z))"
+"PS(19:1(9Z)/22:2(13Z,16Z))",Lipid,PS,"PS(19:1(9Z)/22:2(13Z,16Z))"
+PS(20:0/22:1(11Z)),Lipid,PS,PS(20:0/22:1(11Z))
+"PS(20:0/22:2(13Z,16Z))",Lipid,PS,"PS(20:0/22:2(13Z,16Z))"
+"PS(20:1(11Z)/22:2(13Z,16Z))",Lipid,PS,"PS(20:1(11Z)/22:2(13Z,16Z))"
+PS(22:0/12:0),Lipid,PS,PS(22:0/12:0)
+PS(22:0/22:1(11Z)),Lipid,PS,PS(22:0/22:1(11Z))
+"PS(22:1(11Z)/22:4(7Z,10Z,13Z,16Z))",Lipid,PS,"PS(22:1(11Z)/22:4(7Z,10Z,13Z,16Z))"
+PS(O-16:0/14:0),Lipid,PS,PS(O-16:0/14:0)
+PS(O-16:0/14:1(9Z)),Lipid,PS,PS(O-16:0/14:1(9Z))
+PS(O-16:0/15:0),Lipid,PS,PS(O-16:0/15:0)
+PS(O-16:0/15:1(9Z)),Lipid,PS,PS(O-16:0/15:1(9Z))
+PS(O-16:0/15:1(9Z)),Lipid,PS,PS(O-16:0/15:1(9Z))
+PS(O-16:0/15:1(9Z)),Lipid,PS,PS(O-16:0/15:1(9Z))
+PS(O-16:0/15:1(9Z)),Lipid,PS,PS(O-16:0/15:1(9Z))
+PS(O-16:0/17:1(9Z)),Lipid,PS,PS(O-16:0/17:1(9Z))
+"PS(O-16:0/17:2(9Z,12Z))",Lipid,PS,"PS(O-16:0/17:2(9Z,12Z))"
+PS(O-16:0/19:1(9Z)),Lipid,PS,PS(O-16:0/19:1(9Z))
+PS(O-16:0/20:1(11Z)),Lipid,PS,PS(O-16:0/20:1(11Z))
+PS(O-16:0/22:1(11Z)),Lipid,PS,PS(O-16:0/22:1(11Z))
+"PS(O-16:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PS,"PS(O-16:0/22:4(7Z,10Z,13Z,16Z))"
+PS(O-18:0/0:0),Lipid,PS,PS(O-18:0/0:0)
+"PS(O-18:0/17:2(9Z,12Z))",Lipid,PS,"PS(O-18:0/17:2(9Z,12Z))"
+"PS(O-18:0/18:3(6Z,9Z,12Z))",Lipid,PS,"PS(O-18:0/18:3(6Z,9Z,12Z))"
+"PS(O-18:0/18:4(6Z,9Z,12Z,15Z))",Lipid,PS,"PS(O-18:0/18:4(6Z,9Z,12Z,15Z))"
+"PS(O-18:0/20:3(8Z,11Z,14Z))",Lipid,PS,"PS(O-18:0/20:3(8Z,11Z,14Z))"
+"PS(O-18:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PS,"PS(O-18:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+"PS(O-18:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PS,"PS(O-18:0/22:4(7Z,10Z,13Z,16Z))"
+"PS(O-18:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PS,"PS(O-18:0/22:4(7Z,10Z,13Z,16Z))"
+"PS(O-18:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PS,"PS(O-18:0/22:4(7Z,10Z,13Z,16Z))"
+"PS(O-18:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PS,"PS(O-18:0/22:4(7Z,10Z,13Z,16Z))"
+"PS(O-18:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PS,"PS(O-18:0/22:4(7Z,10Z,13Z,16Z))"
+"PS(O-18:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PS,"PS(O-18:0/22:4(7Z,10Z,13Z,16Z))"
+"PS(O-18:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PS,"PS(O-18:0/22:4(7Z,10Z,13Z,16Z))"
+"PS(O-18:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PS,"PS(O-18:0/22:4(7Z,10Z,13Z,16Z))"
+"PS(O-18:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PS,"PS(O-18:0/22:4(7Z,10Z,13Z,16Z))"
+"PS(O-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PS,"PS(O-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+PS(O-20:0/14:1(9Z)),Lipid,PS,PS(O-20:0/14:1(9Z))
+"PS(O-20:0/17:2(9Z,12Z))",Lipid,PS,"PS(O-20:0/17:2(9Z,12Z))"
+"PS(O-20:0/20:3(8Z,11Z,14Z))",Lipid,PS,"PS(O-20:0/20:3(8Z,11Z,14Z))"
+"PS(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,PS,"PS(O-20:0/20:5(5Z,8Z,11Z,14Z,17Z))"
+"PS(O-20:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PS,"PS(O-20:0/22:4(7Z,10Z,13Z,16Z))"
+"PS(O-20:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PS,"PS(O-20:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+"PS(P-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PS,"PS(P-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+"PS(P-20:0/17:2(9Z,12Z))",Lipid,PS,"PS(P-20:0/17:2(9Z,12Z))"
+"PS(P-20:0/22:2(13Z,16Z))",Lipid,PS,"PS(P-20:0/22:2(13Z,16Z))"
+"PS(P-20:0/22:2(13Z,16Z))",Lipid,PS,"PS(P-20:0/22:2(13Z,16Z))"
+"PS(P-20:0/22:2(13Z,16Z))",Lipid,PS,"PS(P-20:0/22:2(13Z,16Z))"
+"PS(P-20:0/22:4(7Z,10Z,13Z,16Z))",Lipid,PS,"PS(P-20:0/22:4(7Z,10Z,13Z,16Z))"
+"PS(P-20:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Lipid,PS,"PS(P-20:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))"
+SE 28:1/16:2,Lipid,SE,SE 28:1/16:2
+SE 28:1/16:3,Lipid,SE,SE 28:1/16:3
+SE 28:1/18:2,Lipid,SE,SE 28:1/18:2
+SE 28:1/18:5,Lipid,SE,SE 28:1/18:5
+SE 28:1/20:2,Lipid,SE,SE 28:1/20:2
+SE 28:1/20:3,Lipid,SE,SE 28:1/20:3
+SE 28:1/20:4,Lipid,SE,SE 28:1/20:4
+SE 28:1/22:2,Lipid,SE,SE 28:1/22:2
+SE 28:1/22:5,Lipid,SE,SE 28:1/22:5
+SE 28:1/22:6,Lipid,SE,SE 28:1/22:6
+SE 28:1/22:6,Lipid,SE,SE 28:1/22:6
+SE 28:1/24:5,Lipid,SE,SE 28:1/24:5
+SE 28:2/16:2,Lipid,SE,SE 28:2/16:2
+SE 28:2/16:3,Lipid,SE,SE 28:2/16:3
+SE 28:2/16:4,Lipid,SE,SE 28:2/16:4
+SE 28:2/18:2,Lipid,SE,SE 28:2/18:2
+SE 28:2/18:3,Lipid,SE,SE 28:2/18:3
+SE 28:2/18:4,Lipid,SE,SE 28:2/18:4
+SE 28:2/19:4,Lipid,SE,SE 28:2/19:4
+SE 28:2/19:5,Lipid,SE,SE 28:2/19:5
+SE 28:2/20:2,Lipid,SE,SE 28:2/20:2
+SE 28:2/20:4,Lipid,SE,SE 28:2/20:4
+SE 28:2/20:5,Lipid,SE,SE 28:2/20:5
+SE 28:2/22:2,Lipid,SE,SE 28:2/22:2
+SE 28:2/22:5,Lipid,SE,SE 28:2/22:5
+SE 28:2/22:6,Lipid,SE,SE 28:2/22:6
+SE 28:2/24:2,Lipid,SE,SE 28:2/24:2
+SE 28:2/24:5,Lipid,SE,SE 28:2/24:5
+SE 28:2/24:5,Lipid,SE,SE 28:2/24:5
+SE 28:2/24:6,Lipid,SE,SE 28:2/24:6
+SE 29:1/22:6,Lipid,SE,SE 29:1/22:6
+SE 29:2/18:3,Lipid,SE,SE 29:2/18:3
+SE 29:2/18:4,Lipid,SE,SE 29:2/18:4
+SE 29:2/20:4,Lipid,SE,SE 29:2/20:4
+SE 29:2/20:4,Lipid,SE,SE 29:2/20:4
+SE 29:2/20:4,Lipid,SE,SE 29:2/20:4
+SE 29:2/20:4,Lipid,SE,SE 29:2/20:4
+SE 29:2/20:5,Lipid,SE,SE 29:2/20:5
+SE 29:2/22:6,Lipid,SE,SE 29:2/22:6
+SE 29:2/24:5,Lipid,SE,SE 29:2/24:5
+SE 29:2/24:5,Lipid,SE,SE 29:2/24:5
+SE 29:2/24:5,Lipid,SE,SE 29:2/24:5
+SE 29:2/24:5,Lipid,SE,SE 29:2/24:5
+SE 29:2/24:6,Lipid,SE,SE 29:2/24:6
+SHexCer 11:0;2O/18:2;O,Lipid,SHexCer ,SHexCer 11:0;2O/18:2;O
+SHexCer 19:3;2O/14:1;O,Lipid,SHexCer ,SHexCer 19:3;2O/14:1;O
+SL 10:0;O/12:1;O,Lipid,SL,SL 10:0;O/12:1;O
+SL 10:0;O/12:1;O,Lipid,SL,SL 10:0;O/12:1;O
+SL 10:0;O/13:0,Lipid,SL,SL 10:0;O/13:0
+SL 10:0;O/13:0,Lipid,SL,SL 10:0;O/13:0
+SL 10:0;O/14:0,Lipid,SL,SL 10:0;O/14:0
+SL 10:0;O/15:0,Lipid,SL,SL 10:0;O/15:0
+SL 10:0;O/16:0;O,Lipid,SL,SL 10:0;O/16:0;O
+SL 10:0;O/17:0;O,Lipid,SL,SL 10:0;O/17:0;O
+SL 10:0;O/20:0;O,Lipid,SL,SL 10:0;O/20:0;O
+SL 10:1;O/12:0,Lipid,SL,SL 10:1;O/12:0
+SL 10:1;O/14:0,Lipid,SL,SL 10:1;O/14:0
+SL 10:1;O/15:0,Lipid,SL,SL 10:1;O/15:0
+SL 10:1;O/15:0,Lipid,SL,SL 10:1;O/15:0
+SL 10:1;O/15:0,Lipid,SL,SL 10:1;O/15:0
+SL 10:1;O/15:0;O,Lipid,SL,SL 10:1;O/15:0;O
+SL 10:1;O/16:2;O,Lipid,SL,SL 10:1;O/16:2;O
+SL 10:1;O/17:0,Lipid,SL,SL 10:1;O/17:0
+SL 10:1;O/17:2,Lipid,SL,SL 10:1;O/17:2
+SL 11:0;O/10:0,Lipid,SL,SL 11:0;O/10:0
+SL 11:1;O/16:1;O,Lipid,SL,SL 11:1;O/16:1;O
+SL 11:1;O/16:2;O,Lipid,SL,SL 11:1;O/16:2;O
+SL 12:0;O/11:0,Lipid,SL,SL 12:0;O/11:0
+SL 12:0;O/13:1,Lipid,SL,SL 12:0;O/13:1
+SL 12:0;O/26:0;O,Lipid,SL,SL 12:0;O/26:0;O
+SL 12:1;O/26:0;O,Lipid,SL,SL 12:1;O/26:0;O
+SL 13:1;O/26:0;O,Lipid,SL,SL 13:1;O/26:0;O
+SL 13:2;O/14:1;O,Lipid,SL,SL 13:2;O/14:1;O
+SL 14:0;O/10:0,Lipid,SL,SL 14:0;O/10:0
+SL 14:0;O/14:0;O,Lipid,SL,SL 14:0;O/14:0;O
+SL 14:1;O/11:0,Lipid,SL,SL 14:1;O/11:0
+SL 16:2;O/12:1;O,Lipid,SL,SL 16:2;O/12:1;O
+SL 16:2;O/24:2;O,Lipid,SL,SL 16:2;O/24:2;O
+SL 16:2;O/26:2;O,Lipid,SL,SL 16:2;O/26:2;O
+SL 16:3;O/26:1;O,Lipid,SL,SL 16:3;O/26:1;O
+SL 17:2;O/20:1;O,Lipid,SL,SL 17:2;O/20:1;O
+SL 17:3;O/12:1;O,Lipid,SL,SL 17:3;O/12:1;O
+SL 17:3;O/20:1;O,Lipid,SL,SL 17:3;O/20:1;O
+SL 17:3;O/26:0;O,Lipid,SL,SL 17:3;O/26:0;O
+SL 18:0;O/22:4,Lipid,SL,SL 18:0;O/22:4
+SL 18:2;O/23:1;O,Lipid,SL,SL 18:2;O/23:1;O
+SL 19:0;O/16:1,Lipid,SL,SL 19:0;O/16:1
+SL 19:0;O/20:1;O,Lipid,SL,SL 19:0;O/20:1;O
+SL 20:0;O/20:0;O,Lipid,SL,SL 20:0;O/20:0;O
+SL 20:0;O/20:1;O,Lipid,SL,SL 20:0;O/20:1;O
+SL 20:2;O/26:2;O,Lipid,SL,SL 20:2;O/26:2;O
+SL 20:3;O/26:1;O,Lipid,SL,SL 20:3;O/26:1;O
+SL 21:0;O/20:1;O,Lipid,SL,SL 21:0;O/20:1;O
+SL 21:1;O/20:0;O,Lipid,SL,SL 21:1;O/20:0;O
+SL 22:0;O/20:1;O,Lipid,SL,SL 22:0;O/20:1;O
+SL 22:1;O/14:0,Lipid,SL,SL 22:1;O/14:0
+SL 22:1;O/16:0,Lipid,SL,SL 22:1;O/16:0
+SL 22:1;O/16:2,Lipid,SL,SL 22:1;O/16:2
+SL 22:1;O/18:0,Lipid,SL,SL 22:1;O/18:0
+SL 22:1;O/20:4,Lipid,SL,SL 22:1;O/20:4
+SL 22:2;O/24:2;O,Lipid,SL,SL 22:2;O/24:2;O
+SL 23:0;O/20:1,Lipid,SL,SL 23:0;O/20:1
+SL 23:0;O/20:1;O,Lipid,SL,SL 23:0;O/20:1;O
+SL 23:0;O/23:1;O,Lipid,SL,SL 23:0;O/23:1;O
+SL 23:1;O/14:0,Lipid,SL,SL 23:1;O/14:0
+SL 23:1;O/16:0,Lipid,SL,SL 23:1;O/16:0
+SL 23:1;O/16:0;O,Lipid,SL,SL 23:1;O/16:0;O
+SL 23:1;O/16:1,Lipid,SL,SL 23:1;O/16:1
+SL 23:1;O/16:1;O,Lipid,SL,SL 23:1;O/16:1;O
+SL 23:1;O/16:2,Lipid,SL,SL 23:1;O/16:2
+SL 23:1;O/16:2;O,Lipid,SL,SL 23:1;O/16:2;O
+SL 23:1;O/16:3,Lipid,SL,SL 23:1;O/16:3
+SL 23:1;O/16:4,Lipid,SL,SL 23:1;O/16:4
+SL 23:1;O/17:0,Lipid,SL,SL 23:1;O/17:0
+SL 23:1;O/17:1,Lipid,SL,SL 23:1;O/17:1
+SL 23:1;O/18:0,Lipid,SL,SL 23:1;O/18:0
+SL 23:1;O/18:1,Lipid,SL,SL 23:1;O/18:1
+SL 23:1;O/18:1;O,Lipid,SL,SL 23:1;O/18:1;O
+SL 23:1;O/18:3,Lipid,SL,SL 23:1;O/18:3
+SL 23:1;O/20:4,Lipid,SL,SL 23:1;O/20:4
+SL 23:1;O/20:5,Lipid,SL,SL 23:1;O/20:5
+SL 23:2;O/16:1;O,Lipid,SL,SL 23:2;O/16:1;O
+SL 23:2;O/20:1;O,Lipid,SL,SL 23:2;O/20:1;O
+SL 23:3;O/20:1;O,Lipid,SL,SL 23:3;O/20:1;O
+SL 24:1;O/13:0;O,Lipid,SL,SL 24:1;O/13:0;O
+SL 24:1;O/14:1;O,Lipid,SL,SL 24:1;O/14:1;O
+SL 24:2;O/16:2,Lipid,SL,SL 24:2;O/16:2
+SL 24:2;O/20:1;O,Lipid,SL,SL 24:2;O/20:1;O
+SL 24:3;O/20:1;O,Lipid,SL,SL 24:3;O/20:1;O
+SL 25:2;O/16:1;O,Lipid,SL,SL 25:2;O/16:1;O
+SL 25:3;O/16:1;O,Lipid,SL,SL 25:3;O/16:1;O
+SL 25:3;O/26:6,Lipid,SL,SL 25:3;O/26:6
+SL 26:0;O/20:1;O,Lipid,SL,SL 26:0;O/20:1;O
+SL 26:2;O/20:1;O,Lipid,SL,SL 26:2;O/20:1;O
+SL 26:3;O/20:1;O,Lipid,SL,SL 26:3;O/20:1;O
+SL 26:3;O/26:6,Lipid,SL,SL 26:3;O/26:6
+SM 13:2;2O/44:8,Lipid,SM,SM 13:2;2O/44:8
+SM 18:1;2O/13:0,Lipid,SM,SM 18:1;2O/13:0
+SM 18:2;2O/12:0,Lipid,SM,SM 18:2;2O/12:0
+SM 18:2;2O/13:0,Lipid,SM,SM 18:2;2O/13:0
+SM 18:2;2O/16:3,Lipid,SM,SM 18:2;2O/16:3
+SM 18:2;2O/28:6,Lipid,SM,SM 18:2;2O/28:6
+SM 19:2;2O/13:0,Lipid,SM,SM 19:2;2O/13:0
+SM 30:1;3O,Lipid,SM,SM 30:1;3O
+SM 33:1;3O,Lipid,SM,SM 33:1;3O
+SM 34:5;3O,Lipid,SM,SM 34:5;3O
+SM 35:2;2O/18:3,Lipid,SM,SM 35:2;2O/18:3
+SM 36:1;2O/36:8,Lipid,SM,SM 36:1;2O/36:8
+SM 36:4;3O,Lipid,SM,SM 36:4;3O
+SM 36:6;3O,Lipid,SM,SM 36:6;3O
+SM 36:8;3O,Lipid,SM,SM 36:8;3O
+SM 38:4;3O,Lipid,SM,SM 38:4;3O
+SM 38:7;3O,Lipid,SM,SM 38:7;3O
+SM 39:7;2O(FA 16:1),Lipid,SM,SM 39:7;2O(FA 16:1)
+SM 46:7;3O,Lipid,SM,SM 46:7;3O
+SM 46:8;3O,Lipid,SM,SM 46:8;3O
+SM 50:8;3O,Lipid,SM,SM 50:8;3O
+SM 8:0;2O/4:0,Lipid,SM,SM 8:0;2O/4:0
+SM 8:1;2O/11:0,Lipid,SM,SM 8:1;2O/11:0
+SM 8:1;2O/23:0,Lipid,SM,SM 8:1;2O/23:0
+SM 8:1;2O/40:10,Lipid,SM,SM 8:1;2O/40:10
+SM 9:1;2O/20:5,Lipid,SM,SM 9:1;2O/20:5
+SM 9:1;2O/24:4,Lipid,SM,SM 9:1;2O/24:4
+SM 9:1;2O/38:7,Lipid,SM,SM 9:1;2O/38:7
+SM(d18:0/20:0),Lipid,SM,SM(d18:0/20:0)
+SPB 18:0;2O,Lipid,SPB,SPB 18:0;2O
+SPB 18:0;3O,Lipid,SPB,SPB 18:0;3O
+SPB 19:0;2O,Lipid,SPB,SPB 19:0;2O
+SPB 19:1;2O,Lipid,SPB,SPB 19:1;2O
+SPB 20:0;2O,Lipid,SPB,SPB 20:0;2O
+SPB 20:1;2O,Lipid,SPB,SPB 20:1;2O
+SPB 21:0;2O,Lipid,SPB,SPB 21:0;2O
+SPB 21:1;2O,Lipid,SPB,SPB 21:1;2O
+SPB 22:0;2O,Lipid,SPB,SPB 22:0;2O
+SPB 23:0;2O,Lipid,SPB,SPB 23:0;2O
+SPB 24:0;2O,Lipid,SPB,SPB 24:0;2O
+SPB 30:0;2O,Lipid,SPB,SPB 30:0;2O
+SQDG 14:0_14:0,Lipid,SQDG,SQDG 14:0_14:0
+SQDG 14:0_16:0,Lipid,SQDG,SQDG 14:0_16:0
+SQDG 14:0_16:2,Lipid,SQDG,SQDG 14:0_16:2
+SQDG 15:0_17:0,Lipid,SQDG,SQDG 15:0_17:0
+SQDG 16:0_14:1,Lipid,SQDG,SQDG 16:0_14:1
+SQDG 16:0_16:0,Lipid,SQDG,SQDG 16:0_16:0
+SQDG 16:0_16:2,Lipid,SQDG,SQDG 16:0_16:2
+SQDG 16:0_16:3,Lipid,SQDG,SQDG 16:0_16:3
+SQDG 16:0_16:4,Lipid,SQDG,SQDG 16:0_16:4
+SQDG 18:3_22:6,Lipid,SQDG,SQDG 18:3_22:6
+SQDG 20:0_21:1,Lipid,SQDG,SQDG 20:0_21:1
+SQMG(16:0/0:0),Lipid,SQMG,SQMG(16:0/0:0)
+SQMG(16:0/0:0),Lipid,SQMG,SQMG(16:0/0:0)
+SQMG(16:0/0:0),Lipid,SQMG,SQMG(16:0/0:0)
+SQMG(16:0/0:0),Lipid,SQMG,SQMG(16:0/0:0)
+ST 18:4;O4,Lipid,ST,ST 18:4;O4
+ST 19:0;O,Lipid,ST,ST 19:0;O
+ST 19:0;O3;GlcA,Lipid,ST,ST 19:0;O3;GlcA
+ST 19:4;O4,Lipid,ST,ST 19:4;O4
+ST 19:4;O4,Lipid,ST,ST 19:4;O4
+ST 19:4;O4,Lipid,ST,ST 19:4;O4
+ST 19:4;O4,Lipid,ST,ST 19:4;O4
+ST 19:4;O4,Lipid,ST,ST 19:4;O4
+ST 19:4;O4,Lipid,ST,ST 19:4;O4
+ST 19:4;O4,Lipid,ST,ST 19:4;O4
+ST 19:4;O4,Lipid,ST,ST 19:4;O4
+ST 19:4;O4,Lipid,ST,ST 19:4;O4
+ST 19:4;O6,Lipid,ST,ST 19:4;O6
+ST 19:4;O6,Lipid,ST,ST 19:4;O6
+ST 20:2;O,Lipid,ST,ST 20:2;O
+ST 20:2;O,Lipid,ST,ST 20:2;O
+ST 20:2;O,Lipid,ST,ST 20:2;O
+ST 20:2;O,Lipid,ST,ST 20:2;O
+ST 24:2;O4,Lipid,ST,ST 24:2;O4
+ST 24:2;O4,Lipid,ST,ST 24:2;O4
+ST 24:2;O4,Lipid,ST,ST 24:2;O4
+ST 24:2;O4,Lipid,ST,ST 24:2;O4
+ST 24:2;O4,Lipid,ST,ST 24:2;O4
+ST 24:2;O4,Lipid,ST,ST 24:2;O4
+ST 24:2;O4,Lipid,ST,ST 24:2;O4
+ST 24:2;O4,Lipid,ST,ST 24:2;O4
+ST 24:2;O4,Lipid,ST,ST 24:2;O4
+ST 24:2;O5,Lipid,ST,ST 24:2;O5
+ST 24:2;O5,Lipid,ST,ST 24:2;O5
+ST 24:2;O5,Lipid,ST,ST 24:2;O5
+ST 24:2;O6,Lipid,ST,ST 24:2;O6
+ST 24:2;O6,Lipid,ST,ST 24:2;O6
+ST 24:2;O6,Lipid,ST,ST 24:2;O6
+ST 24:2;O6,Lipid,ST,ST 24:2;O6
+ST 24:3;O5,Lipid,ST,ST 24:3;O5
+ST 24:3;O5,Lipid,ST,ST 24:3;O5
+ST 24:3;O5,Lipid,ST,ST 24:3;O5
+ST 24:3;O5,Lipid,ST,ST 24:3;O5
+ST 24:5;O3,Lipid,ST,ST 24:5;O3
+ST 24:5;O6;Hex,Lipid,ST,ST 24:5;O6;Hex
+ST 24:6;O5,Lipid,ST,ST 24:6;O5
+ST 26:4;O2,Lipid,ST,ST 26:4;O2
+ST 27:0;O4;GlcA,Lipid,ST,ST 27:0;O4;GlcA
+ST 27:0;O5,Lipid,ST,ST 27:0;O5
+ST 27:1;O;Hex,Lipid,ST,ST 27:1;O;Hex
+ST 27:1;O4,Lipid,ST,ST 27:1;O4
+ST 27:1;O4,Lipid,ST,ST 27:1;O4
+ST 27:1;O4;T,Lipid,ST,ST 27:1;O4;T
+ST 27:1;O4;T,Lipid,ST,ST 27:1;O4;T
+ST 27:1;O5;T,Lipid,ST,ST 27:1;O5;T
+ST 27:2;O;Hex,Lipid,ST,ST 27:2;O;Hex
+ST 27:2;O4,Lipid,ST,ST 27:2;O4
+ST 27:3;O3,Lipid,ST,ST 27:3;O3
+ST 27:5;O,Lipid,ST,ST 27:5;O
+ST 28:1;O,Lipid,ST,ST 28:1;O
+ST 28:1;O;Hex;FA 16:0,Lipid,ST,ST 28:1;O;Hex;FA 16:0
+ST 28:2;O;Hex;FA 16:0,Lipid,ST,ST 28:2;O;Hex;FA 16:0
+ST 28:2;O3,Lipid,ST,ST 28:2;O3
+ST 28:2;O3,Lipid,ST,ST 28:2;O3
+ST 28:2;O3,Lipid,ST,ST 28:2;O3
+ST 28:2;O3,Lipid,ST,ST 28:2;O3
+ST 28:2;O3,Lipid,ST,ST 28:2;O3
+ST 28:2;O3,Lipid,ST,ST 28:2;O3
+ST 28:2;O3,Lipid,ST,ST 28:2;O3
+ST 28:2;O3,Lipid,ST,ST 28:2;O3
+ST 28:2;O3,Lipid,ST,ST 28:2;O3
+ST 28:4;O4,Lipid,ST,ST 28:4;O4
+ST 28:6;O2,Lipid,ST,ST 28:6;O2
+ST 29:2;O5,Lipid,ST,ST 29:2;O5
+ST 29:2;O5,Lipid,ST,ST 29:2;O5
+ST 29:2;O5,Lipid,ST,ST 29:2;O5
+ST 29:2;O5,Lipid,ST,ST 29:2;O5
+ST 29:2;O5,Lipid,ST,ST 29:2;O5
+ST 29:2;O5,Lipid,ST,ST 29:2;O5
+ST 29:2;O5,Lipid,ST,ST 29:2;O5
+ST 29:2;O5,Lipid,ST,ST 29:2;O5
+ST 29:2;O5,Lipid,ST,ST 29:2;O5
+ST 29:2;O5,Lipid,ST,ST 29:2;O5
+ST 29:2;O5,Lipid,ST,ST 29:2;O5
+ST 29:2;O5,Lipid,ST,ST 29:2;O5
+ST 29:2;O5,Lipid,ST,ST 29:2;O5
+ST 29:2;O5,Lipid,ST,ST 29:2;O5
+ST 29:2;O5,Lipid,ST,ST 29:2;O5
+ST 29:2;O5,Lipid,ST,ST 29:2;O5
+ST 29:2;O7,Lipid,ST,ST 29:2;O7
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O3,Lipid,ST,ST 29:3;O3
+ST 29:3;O6,Lipid,ST,ST 29:3;O6
+ST 29:3;O6,Lipid,ST,ST 29:3;O6
+ST 29:4;O3,Lipid,ST,ST 29:4;O3
+ST 29:4;O3,Lipid,ST,ST 29:4;O3
+ST 29:4;O3,Lipid,ST,ST 29:4;O3
+ST 29:4;O3,Lipid,ST,ST 29:4;O3
+ST 29:4;O4,Lipid,ST,ST 29:4;O4
+ST 29:4;O4,Lipid,ST,ST 29:4;O4
+ST 29:4;O4,Lipid,ST,ST 29:4;O4
+ST 29:4;O4,Lipid,ST,ST 29:4;O4
+ST 29:4;O4,Lipid,ST,ST 29:4;O4
+ST 30:1;O5,Lipid,ST,ST 30:1;O5
+ST 30:1;O6,Lipid,ST,ST 30:1;O6
+ST 30:1;O6,Lipid,ST,ST 30:1;O6
+ST 30:1;O6,Lipid,ST,ST 30:1;O6
+ST 30:1;O6,Lipid,ST,ST 30:1;O6
+ST 30:1;O6,Lipid,ST,ST 30:1;O6
+ST 30:1;O6,Lipid,ST,ST 30:1;O6
+ST 30:1;O6,Lipid,ST,ST 30:1;O6
+ST 30:1;O6,Lipid,ST,ST 30:1;O6
+ST 30:1;O6,Lipid,ST,ST 30:1;O6
+ST 30:1;O6,Lipid,ST,ST 30:1;O6
+ST 30:1;O6,Lipid,ST,ST 30:1;O6
+ST 30:1;O6,Lipid,ST,ST 30:1;O6
+ST 30:3;O,Lipid,ST,ST 30:3;O
+ST 30:3;O5,Lipid,ST,ST 30:3;O5
+ST 32:2;O6,Lipid,ST,ST 32:2;O6
+ST 32:2;O6,Lipid,ST,ST 32:2;O6
+ST 32:3;O6,Lipid,ST,ST 32:3;O6
+ST 34:4;O7,Lipid,ST,ST 34:4;O7
+Stearic Acid,Lipid,FA,Stearic Acid
+TG 10:0_16:0_16:1,Lipid,TG,TG 10:0_16:0_16:1
+TG 10:0_16:0_16:2,Lipid,TG,TG 10:0_16:0_16:2
+TG 10:0_16:0_16:3,Lipid,TG,TG 10:0_16:0_16:3
+TG 10:0_16:0_16:4,Lipid,TG,TG 10:0_16:0_16:4
+TG 12:0_12:0_14:0,Lipid,TG,TG 12:0_12:0_14:0
+TG 12:0_14:0_14:0,Lipid,TG,TG 12:0_14:0_14:0
+TG 12:0_14:0_16:0,Lipid,TG,TG 12:0_14:0_16:0
+TG 12:0_14:0_16:1,Lipid,TG,TG 12:0_14:0_16:1
+TG 12:0_14:0_16:2,Lipid,TG,TG 12:0_14:0_16:2
+TG 12:0_14:0_16:3,Lipid,TG,TG 12:0_14:0_16:3
+TG 12:0_14:0_18:3,Lipid,TG,TG 12:0_14:0_18:3
+TG 12:0_16:0_16:2,Lipid,TG,TG 12:0_16:0_16:2
+TG 12:0_16:1_16:3,Lipid,TG,TG 12:0_16:1_16:3
+TG 12:0_16:2_16:2,Lipid,TG,TG 12:0_16:2_16:2
+TG 12:0_16:2_16:3,Lipid,TG,TG 12:0_16:2_16:3
+TG 12:0_16:3_22:6,Lipid,TG,TG 12:0_16:3_22:6
+TG 13:0_20:5_20:5,Lipid,TG,TG 13:0_20:5_20:5
+TG 13:0_20:5_22:6,Lipid,TG,TG 13:0_20:5_22:6
+TG 13:1_16:4_16:4,Lipid,TG,TG 13:1_16:4_16:4
+TG 14:0_14:0_16:0,Lipid,TG,TG 14:0_14:0_16:0
+TG 14:0_14:0_16:1,Lipid,TG,TG 14:0_14:0_16:1
+TG 14:0_14:0_16:2,Lipid,TG,TG 14:0_14:0_16:2
+TG 14:0_14:0_22:6,Lipid,TG,TG 14:0_14:0_22:6
+TG 14:0_14:1_19:1,Lipid,TG,TG 14:0_14:1_19:1
+TG 14:0_15:0_16:0,Lipid,TG,TG 14:0_15:0_16:0
+TG 14:0_16:0_16:0,Lipid,TG,TG 14:0_16:0_16:0
+TG 14:0_16:0_16:1,Lipid,TG,TG 14:0_16:0_16:1
+TG 14:0_16:0_16:2,Lipid,TG,TG 14:0_16:0_16:2
+TG 14:0_16:0_16:4,Lipid,TG,TG 14:0_16:0_16:4
+TG 14:0_16:0_17:1,Lipid,TG,TG 14:0_16:0_17:1
+TG 14:0_16:0_18:1,Lipid,TG,TG 14:0_16:0_18:1
+TG 14:0_16:0_18:3,Lipid,TG,TG 14:0_16:0_18:3
+TG 14:0_16:0_22:6,Lipid,TG,TG 14:0_16:0_22:6
+TG 14:0_16:1_16:1,Lipid,TG,TG 14:0_16:1_16:1
+TG 14:0_16:1_16:2,Lipid,TG,TG 14:0_16:1_16:2
+TG 14:0_16:1_22:6,Lipid,TG,TG 14:0_16:1_22:6
+TG 14:0_16:2_16:3,Lipid,TG,TG 14:0_16:2_16:3
+TG 14:0_16:2_16:4,Lipid,TG,TG 14:0_16:2_16:4
+TG 14:0_16:2_17:2,Lipid,TG,TG 14:0_16:2_17:2
+TG 14:0_16:3_16:3,Lipid,TG,TG 14:0_16:3_16:3
+TG 14:0_16:3_22:5,Lipid,TG,TG 14:0_16:3_22:5
+TG 14:0_16:3_22:6,Lipid,TG,TG 14:0_16:3_22:6
+TG 14:0_16:4_20:4,Lipid,TG,TG 14:0_16:4_20:4
+TG 14:0_18:3_18:4,Lipid,TG,TG 14:0_18:3_18:4
+TG 14:0_18:3_22:6,Lipid,TG,TG 14:0_18:3_22:6
+TG 14:0_18:4_20:5,Lipid,TG,TG 14:0_18:4_20:5
+TG 14:0_22:6_22:6,Lipid,TG,TG 14:0_22:6_22:6
+TG 15:0_16:0_16:0,Lipid,TG,TG 15:0_16:0_16:0
+TG 15:0_16:0_16:1,Lipid,TG,TG 15:0_16:0_16:1
+TG 15:0_16:0_16:2,Lipid,TG,TG 15:0_16:0_16:2
+TG 15:0_16:0_22:6,Lipid,TG,TG 15:0_16:0_22:6
+TG 15:0_16:4_20:1,Lipid,TG,TG 15:0_16:4_20:1
+TG 15:0_20:5_20:5,Lipid,TG,TG 15:0_20:5_20:5
+TG 15:0_20:5_22:6,Lipid,TG,TG 15:0_20:5_22:6
+TG 15:1_16:0_18:4,Lipid,TG,TG 15:1_16:0_18:4
+TG 16:0_16:0_16:1,Lipid,TG,TG 16:0_16:0_16:1
+TG 16:0_16:0_16:2,Lipid,TG,TG 16:0_16:0_16:2
+TG 16:0_16:0_16:4,Lipid,TG,TG 16:0_16:0_16:4
+TG 16:0_16:0_17:1,Lipid,TG,TG 16:0_16:0_17:1
+TG 16:0_16:0_18:1,Lipid,TG,TG 16:0_16:0_18:1
+TG 16:0_16:0_18:2,Lipid,TG,TG 16:0_16:0_18:2
+TG 16:0_16:0_20:4,Lipid,TG,TG 16:0_16:0_20:4
+TG 16:0_16:0_20:5,Lipid,TG,TG 16:0_16:0_20:5
+TG 16:0_16:0_22:1,Lipid,TG,TG 16:0_16:0_22:1
+TG 16:0_16:0_22:6,Lipid,TG,TG 16:0_16:0_22:6
+TG 16:0_16:0_24:5,Lipid,TG,TG 16:0_16:0_24:5
+TG 16:0_16:0_24:6,Lipid,TG,TG 16:0_16:0_24:6
+TG 16:0_16:0_28:7,Lipid,TG,TG 16:0_16:0_28:7
+TG 16:0_16:0_30:8,Lipid,TG,TG 16:0_16:0_30:8
+TG 16:0_16:1_16:2,Lipid,TG,TG 16:0_16:1_16:2
+TG 16:0_16:1_17:1,Lipid,TG,TG 16:0_16:1_17:1
+TG 16:0_16:1_18:1,Lipid,TG,TG 16:0_16:1_18:1
+TG 16:0_16:1_18:3,Lipid,TG,TG 16:0_16:1_18:3
+TG 16:0_16:1_20:5,Lipid,TG,TG 16:0_16:1_20:5
+TG 16:0_16:1_22:6,Lipid,TG,TG 16:0_16:1_22:6
+TG 16:0_16:1_24:6,Lipid,TG,TG 16:0_16:1_24:6
+TG 16:0_16:1_28:7,Lipid,TG,TG 16:0_16:1_28:7
+TG 16:0_16:2_16:3,Lipid,TG,TG 16:0_16:2_16:3
+TG 16:0_16:2_16:4,Lipid,TG,TG 16:0_16:2_16:4
+TG 16:0_16:2_17:1,Lipid,TG,TG 16:0_16:2_17:1
+TG 16:0_16:2_18:1,Lipid,TG,TG 16:0_16:2_18:1
+TG 16:0_16:2_18:2,Lipid,TG,TG 16:0_16:2_18:2
+TG 16:0_16:2_18:4,Lipid,TG,TG 16:0_16:2_18:4
+TG 16:0_16:2_22:0,Lipid,TG,TG 16:0_16:2_22:0
+TG 16:0_16:2_22:6,Lipid,TG,TG 16:0_16:2_22:6
+TG 16:0_16:3_18:3,Lipid,TG,TG 16:0_16:3_18:3
+TG 16:0_16:4_22:6,Lipid,TG,TG 16:0_16:4_22:6
+TG 16:0_17:1_18:1,Lipid,TG,TG 16:0_17:1_18:1
+TG 16:0_17:1_18:2,Lipid,TG,TG 16:0_17:1_18:2
+TG 16:0_17:1_18:3,Lipid,TG,TG 16:0_17:1_18:3
+TG 16:0_17:1_18:4,Lipid,TG,TG 16:0_17:1_18:4
+TG 16:0_17:1_20:0,Lipid,TG,TG 16:0_17:1_20:0
+TG 16:0_17:1_20:4,Lipid,TG,TG 16:0_17:1_20:4
+TG 16:0_17:1_22:5,Lipid,TG,TG 16:0_17:1_22:5
+TG 16:0_17:1_22:6,Lipid,TG,TG 16:0_17:1_22:6
+TG 16:0_17:1_24:5,Lipid,TG,TG 16:0_17:1_24:5
+TG 16:0_17:1_24:6,Lipid,TG,TG 16:0_17:1_24:6
+TG 16:0_18:0_18:1,Lipid,TG,TG 16:0_18:0_18:1
+TG 16:0_18:0_18:4,Lipid,TG,TG 16:0_18:0_18:4
+TG 16:0_18:0_20:4,Lipid,TG,TG 16:0_18:0_20:4
+TG 16:0_18:0_22:2,Lipid,TG,TG 16:0_18:0_22:2
+TG 16:0_18:0_22:4,Lipid,TG,TG 16:0_18:0_22:4
+TG 16:0_18:0_22:5,Lipid,TG,TG 16:0_18:0_22:5
+TG 16:0_18:0_22:6,Lipid,TG,TG 16:0_18:0_22:6
+TG 16:0_18:0_24:5,Lipid,TG,TG 16:0_18:0_24:5
+TG 16:0_18:0_24:6,Lipid,TG,TG 16:0_18:0_24:6
+TG 16:0_18:0_28:7,Lipid,TG,TG 16:0_18:0_28:7
+TG 16:0_18:1_18:1,Lipid,TG,TG 16:0_18:1_18:1
+TG 16:0_18:1_18:2,Lipid,TG,TG 16:0_18:1_18:2
+TG 16:0_18:1_18:3,Lipid,TG,TG 16:0_18:1_18:3
+TG 16:0_18:1_20:0,Lipid,TG,TG 16:0_18:1_20:0
+TG 16:0_18:1_20:4,Lipid,TG,TG 16:0_18:1_20:4
+TG 16:0_18:1_20:5,Lipid,TG,TG 16:0_18:1_20:5
+TG 16:0_18:1_22:6,Lipid,TG,TG 16:0_18:1_22:6
+TG 16:0_18:1_24:1,Lipid,TG,TG 16:0_18:1_24:1
+TG 16:0_18:2_18:3,Lipid,TG,TG 16:0_18:2_18:3
+TG 16:0_18:2_18:4,Lipid,TG,TG 16:0_18:2_18:4
+TG 16:0_18:2_20:2,Lipid,TG,TG 16:0_18:2_20:2
+TG 16:0_18:2_20:4,Lipid,TG,TG 16:0_18:2_20:4
+TG 16:0_18:2_22:0,Lipid,TG,TG 16:0_18:2_22:0
+TG 16:0_18:2_22:6,Lipid,TG,TG 16:0_18:2_22:6
+TG 16:0_18:2_24:1,Lipid,TG,TG 16:0_18:2_24:1
+TG 16:0_18:3_20:0,Lipid,TG,TG 16:0_18:3_20:0
+TG 16:0_18:3_22:0,Lipid,TG,TG 16:0_18:3_22:0
+TG 16:0_18:3_30:7,Lipid,TG,TG 16:0_18:3_30:7
+TG 16:0_18:4_22:6,Lipid,TG,TG 16:0_18:4_22:6
+TG 16:0_19:0_20:4,Lipid,TG,TG 16:0_19:0_20:4
+TG 16:0_19:0_24:5,Lipid,TG,TG 16:0_19:0_24:5
+TG 16:0_20:0_22:2,Lipid,TG,TG 16:0_20:0_22:2
+TG 16:0_20:4_24:5,Lipid,TG,TG 16:0_20:4_24:5
+TG 16:0_20:5_22:6,Lipid,TG,TG 16:0_20:5_22:6
+TG 16:0_22:0_22:6,Lipid,TG,TG 16:0_22:0_22:6
+TG 16:0_22:4_22:4,Lipid,TG,TG 16:0_22:4_22:4
+TG 16:0_22:6_22:6,Lipid,TG,TG 16:0_22:6_22:6
+TG 16:0_22:6_24:5,Lipid,TG,TG 16:0_22:6_24:5
+TG 16:0_22:6_24:6,Lipid,TG,TG 16:0_22:6_24:6
+TG 16:0_22:6_28:7,Lipid,TG,TG 16:0_22:6_28:7
+TG 16:0_24:6_24:6,Lipid,TG,TG 16:0_24:6_24:6
+TG 16:1_16:1_16:2,Lipid,TG,TG 16:1_16:1_16:2
+TG 16:1_16:1_18:3,Lipid,TG,TG 16:1_16:1_18:3
+TG 16:1_16:2_16:3,Lipid,TG,TG 16:1_16:2_16:3
+TG 16:1_16:2_16:4,Lipid,TG,TG 16:1_16:2_16:4
+TG 16:1_16:2_17:2,Lipid,TG,TG 16:1_16:2_17:2
+TG 16:1_16:2_20:4,Lipid,TG,TG 16:1_16:2_20:4
+TG 16:1_16:2_22:6,Lipid,TG,TG 16:1_16:2_22:6
+TG 16:1_16:3_20:5,Lipid,TG,TG 16:1_16:3_20:5
+TG 16:1_18:4_20:5,Lipid,TG,TG 16:1_18:4_20:5
+TG 16:1_18:4_22:6,Lipid,TG,TG 16:1_18:4_22:6
+TG 16:1_22:6_22:6,Lipid,TG,TG 16:1_22:6_22:6
+TG 16:1_22:6_24:6,Lipid,TG,TG 16:1_22:6_24:6
+TG 16:2_16:2_16:3,Lipid,TG,TG 16:2_16:2_16:3
+TG 16:2_16:2_18:5,Lipid,TG,TG 16:2_16:2_18:5
+TG 16:2_16:3_16:3,Lipid,TG,TG 16:2_16:3_16:3
+TG 16:2_16:3_16:4,Lipid,TG,TG 16:2_16:3_16:4
+TG 16:2_16:3_18:0,Lipid,TG,TG 16:2_16:3_18:0
+TG 16:2_16:3_18:3,Lipid,TG,TG 16:2_16:3_18:3
+TG 16:2_16:3_18:4,Lipid,TG,TG 16:2_16:3_18:4
+TG 16:2_16:3_18:5,Lipid,TG,TG 16:2_16:3_18:5
+TG 16:2_16:3_19:0,Lipid,TG,TG 16:2_16:3_19:0
+TG 16:2_16:3_22:6,Lipid,TG,TG 16:2_16:3_22:6
+TG 16:2_16:3_28:7,Lipid,TG,TG 16:2_16:3_28:7
+TG 16:2_16:4_16:4,Lipid,TG,TG 16:2_16:4_16:4
+TG 16:2_16:4_18:4,Lipid,TG,TG 16:2_16:4_18:4
+TG 16:2_16:4_18:5,Lipid,TG,TG 16:2_16:4_18:5
+TG 16:2_16:4_20:5,Lipid,TG,TG 16:2_16:4_20:5
+TG 16:2_16:4_22:6,Lipid,TG,TG 16:2_16:4_22:6
+TG 16:2_17:1_18:0,Lipid,TG,TG 16:2_17:1_18:0
+TG 16:2_17:1_18:1,Lipid,TG,TG 16:2_17:1_18:1
+TG 16:2_18:1_22:6,Lipid,TG,TG 16:2_18:1_22:6
+TG 16:2_18:2_18:4,Lipid,TG,TG 16:2_18:2_18:4
+TG 16:2_18:4_22:6,Lipid,TG,TG 16:2_18:4_22:6
+TG 16:2_18:5_20:5,Lipid,TG,TG 16:2_18:5_20:5
+TG 16:2_18:5_22:6,Lipid,TG,TG 16:2_18:5_22:6
+TG 16:2_22:6_24:6,Lipid,TG,TG 16:2_22:6_24:6
+TG 16:2_22:6_28:7,Lipid,TG,TG 16:2_22:6_28:7
+TG 16:3_16:3_18:5,Lipid,TG,TG 16:3_16:3_18:5
+TG 16:3_16:3_20:5,Lipid,TG,TG 16:3_16:3_20:5
+TG 16:3_16:4_16:4,Lipid,TG,TG 16:3_16:4_16:4
+TG 16:3_16:4_18:0,Lipid,TG,TG 16:3_16:4_18:0
+TG 16:3_16:4_22:6,Lipid,TG,TG 16:3_16:4_22:6
+TG 16:3_18:3_22:6,Lipid,TG,TG 16:3_18:3_22:6
+TG 16:3_18:4_18:5,Lipid,TG,TG 16:3_18:4_18:5
+TG 16:3_18:4_22:6,Lipid,TG,TG 16:3_18:4_22:6
+TG 16:4_16:4_22:6,Lipid,TG,TG 16:4_16:4_22:6
+TG 16:4_18:1_18:2,Lipid,TG,TG 16:4_18:1_18:2
+TG 16:4_18:4_18:4,Lipid,TG,TG 16:4_18:4_18:4
+TG 16:4_18:4_22:6,Lipid,TG,TG 16:4_18:4_22:6
+TG 16:4_18:5_22:6,Lipid,TG,TG 16:4_18:5_22:6
+TG 16:4_20:5_22:6,Lipid,TG,TG 16:4_20:5_22:6
+TG 16:4_22:6_22:6,Lipid,TG,TG 16:4_22:6_22:6
+TG 16:4_22:6_28:7,Lipid,TG,TG 16:4_22:6_28:7
+TG 17:0_18:0_24:5,Lipid,TG,TG 17:0_18:0_24:5
+TG 17:0_18:2_20:4,Lipid,TG,TG 17:0_18:2_20:4
+TG 17:1_18:0_18:0,Lipid,TG,TG 17:1_18:0_18:0
+TG 17:1_18:0_18:1,Lipid,TG,TG 17:1_18:0_18:1
+TG 17:1_18:0_20:4,Lipid,TG,TG 17:1_18:0_20:4
+TG 17:1_18:0_22:6,Lipid,TG,TG 17:1_18:0_22:6
+TG 17:1_18:0_24:5,Lipid,TG,TG 17:1_18:0_24:5
+TG 17:1_18:3_20:4,Lipid,TG,TG 17:1_18:3_20:4
+TG 17:1_20:4_20:4,Lipid,TG,TG 17:1_20:4_20:4
+TG 17:2_18:3_18:3,Lipid,TG,TG 17:2_18:3_18:3
+TG 18:0_18:0_22:6,Lipid,TG,TG 18:0_18:0_22:6
+TG 18:0_18:0_24:5,Lipid,TG,TG 18:0_18:0_24:5
+TG 18:0_18:1_18:2,Lipid,TG,TG 18:0_18:1_18:2
+TG 18:0_18:1_18:3,Lipid,TG,TG 18:0_18:1_18:3
+TG 18:0_18:1_22:6,Lipid,TG,TG 18:0_18:1_22:6
+TG 18:0_18:1_24:5,Lipid,TG,TG 18:0_18:1_24:5
+TG 18:0_18:1_24:6,Lipid,TG,TG 18:0_18:1_24:6
+TG 18:0_18:2_20:4,Lipid,TG,TG 18:0_18:2_20:4
+TG 18:0_18:2_20:4,Lipid,TG,TG 18:0_18:2_20:4
+TG 18:0_18:2_24:5,Lipid,TG,TG 18:0_18:2_24:5
+TG 18:0_19:0_24:5,Lipid,TG,TG 18:0_19:0_24:5
+TG 18:0_20:0_22:6,Lipid,TG,TG 18:0_20:0_22:6
+TG 18:0_20:0_24:5,Lipid,TG,TG 18:0_20:0_24:5
+TG 18:0_20:4_20:4,Lipid,TG,TG 18:0_20:4_20:4
+TG 18:0_20:4_22:6,Lipid,TG,TG 18:0_20:4_22:6
+TG 18:0_20:4_24:4,Lipid,TG,TG 18:0_20:4_24:4
+TG 18:0_20:4_24:5,Lipid,TG,TG 18:0_20:4_24:5
+TG 18:0_20:5_22:6,Lipid,TG,TG 18:0_20:5_22:6
+TG 18:0_20:5_24:5,Lipid,TG,TG 18:0_20:5_24:5
+TG 18:0_22:0_22:5,Lipid,TG,TG 18:0_22:0_22:5
+TG 18:0_22:0_24:5,Lipid,TG,TG 18:0_22:0_24:5
+TG 18:0_22:0_24:6,Lipid,TG,TG 18:0_22:0_24:6
+TG 18:0_22:1_24:5,Lipid,TG,TG 18:0_22:1_24:5
+TG 18:0_22:5_24:5,Lipid,TG,TG 18:0_22:5_24:5
+TG 18:0_22:6_22:6,Lipid,TG,TG 18:0_22:6_22:6
+TG 18:0_22:6_24:5,Lipid,TG,TG 18:0_22:6_24:5
+TG 18:0_24:5_24:5,Lipid,TG,TG 18:0_24:5_24:5
+TG 18:1_18:1_22:6,Lipid,TG,TG 18:1_18:1_22:6
+TG 18:1_18:2_20:0,Lipid,TG,TG 18:1_18:2_20:0
+TG 18:1_18:2_22:0,Lipid,TG,TG 18:1_18:2_22:0
+TG 18:1_18:2_22:6,Lipid,TG,TG 18:1_18:2_22:6
+TG 18:1_18:2_24:5,Lipid,TG,TG 18:1_18:2_24:5
+TG 18:1_18:2_28:4,Lipid,TG,TG 18:1_18:2_28:4
+TG 18:1_18:3_18:4,Lipid,TG,TG 18:1_18:3_18:4
+TG 18:1_18:3_20:5,Lipid,TG,TG 18:1_18:3_20:5
+TG 18:1_18:3_22:6,Lipid,TG,TG 18:1_18:3_22:6
+TG 18:1_18:4_22:6,Lipid,TG,TG 18:1_18:4_22:6
+TG 18:1_20:5_24:5,Lipid,TG,TG 18:1_20:5_24:5
+TG 18:1_22:6_22:6,Lipid,TG,TG 18:1_22:6_22:6
+TG 18:2_18:3_22:6,Lipid,TG,TG 18:2_18:3_22:6
+TG 18:2_22:6_22:6,Lipid,TG,TG 18:2_22:6_22:6
+TG 18:2_22:6_24:6,Lipid,TG,TG 18:2_22:6_24:6
+TG 18:3_18:3_22:6,Lipid,TG,TG 18:3_18:3_22:6
+TG 18:3_18:4_22:6,Lipid,TG,TG 18:3_18:4_22:6
+TG 18:3_18:5_20:4,Lipid,TG,TG 18:3_18:5_20:4
+TG 18:3_20:4_20:5,Lipid,TG,TG 18:3_20:4_20:5
+TG 18:3_22:6_22:6,Lipid,TG,TG 18:3_22:6_22:6
+TG 18:4_18:4_20:5,Lipid,TG,TG 18:4_18:4_20:5
+TG 18:4_18:4_22:6,Lipid,TG,TG 18:4_18:4_22:6
+TG 18:4_18:5_22:6,Lipid,TG,TG 18:4_18:5_22:6
+TG 18:4_20:5_20:5,Lipid,TG,TG 18:4_20:5_20:5
+TG 18:4_20:5_22:6,Lipid,TG,TG 18:4_20:5_22:6
+TG 18:4_20:5_24:5,Lipid,TG,TG 18:4_20:5_24:5
+TG 18:4_22:6_22:6,Lipid,TG,TG 18:4_22:6_22:6
+TG 18:5_20:5_22:6,Lipid,TG,TG 18:5_20:5_22:6
+TG 18:5_22:6_22:6,Lipid,TG,TG 18:5_22:6_22:6
+TG 20:0_20:4_20:5,Lipid,TG,TG 20:0_20:4_20:5
+TG 20:3_20:4_20:5,Lipid,TG,TG 20:3_20:4_20:5
+TG 20:4_20:5_22:1,Lipid,TG,TG 20:4_20:5_22:1
+TG 20:4_22:3_22:6,Lipid,TG,TG 20:4_22:3_22:6
+TG 20:4_22:4_22:4,Lipid,TG,TG 20:4_22:4_22:4
+TG 20:4_22:6_24:5,Lipid,TG,TG 20:4_22:6_24:5
+TG 20:5_20:5_22:6,Lipid,TG,TG 20:5_20:5_22:6
+TG 20:5_22:6_22:6,Lipid,TG,TG 20:5_22:6_22:6
+TG 22:2_22:6_22:6,Lipid,TG,TG 22:2_22:6_22:6
+TG 22:4_22:4_22:4,Lipid,TG,TG 22:4_22:4_22:4
+TG 22:4_22:6_22:6,Lipid,TG,TG 22:4_22:6_22:6
+TG 22:6_22:6_22:6,Lipid,TG,TG 22:6_22:6_22:6
+TG 8:0_13:1_19:0,Lipid,TG,TG 8:0_13:1_19:0
+TG 8:0_13:1_19:2,Lipid,TG,TG 8:0_13:1_19:2
+TG 8:0_13:1_20:1,Lipid,TG,TG 8:0_13:1_20:1
+TG 8:0_13:1_32:9,Lipid,TG,TG 8:0_13:1_32:9
+TG 8:0_16:0_16:2,Lipid,TG,TG 8:0_16:0_16:2
+TG 8:0_16:0_16:3,Lipid,TG,TG 8:0_16:0_16:3
+TG 8:0_8:0_17:2,Lipid,TG,TG 8:0_8:0_17:2
+TG 8:0_9:0_16:3,Lipid,TG,TG 8:0_9:0_16:3
+TG 8:0_9:0_17:2,Lipid,TG,TG 8:0_9:0_17:2
+TG 9:0_10:0_16:4,Lipid,TG,TG 9:0_10:0_16:4
+TG 9:0_18:5_22:6,Lipid,TG,TG 9:0_18:5_22:6
+TG 9:0_9:0_20:2,Lipid,TG,TG 9:0_9:0_20:2
+TG 9:0_9:0_20:3,Lipid,TG,TG 9:0_9:0_20:3
+TG O-12:0_16:0_16:1,Lipid,TG,TG O-12:0_16:0_16:1
+TG O-12:0_22:0_22:1,Lipid,TG,TG O-12:0_22:0_22:1
+TG O-14:0_16:0_16:1,Lipid,TG,TG O-14:0_16:0_16:1
+TG O-14:0_16:2_16:2,Lipid,TG,TG O-14:0_16:2_16:2
+TG O-14:0_18:4_20:4,Lipid,TG,TG O-14:0_18:4_20:4
+TG O-16:0_12:0_16:0,Lipid,TG,TG O-16:0_12:0_16:0
+TG O-16:0_12:0_16:2,Lipid,TG,TG O-16:0_12:0_16:2
+TG O-16:0_14:0_14:0,Lipid,TG,TG O-16:0_14:0_14:0
+TG O-16:0_14:0_16:0,Lipid,TG,TG O-16:0_14:0_16:0
+TG O-16:0_14:0_16:1,Lipid,TG,TG O-16:0_14:0_16:1
+TG O-16:0_14:0_16:2,Lipid,TG,TG O-16:0_14:0_16:2
+TG O-16:0_14:0_16:3,Lipid,TG,TG O-16:0_14:0_16:3
+TG O-16:0_14:0_16:4,Lipid,TG,TG O-16:0_14:0_16:4
+TG O-16:0_14:1_16:2,Lipid,TG,TG O-16:0_14:1_16:2
+TG O-16:0_16:0_16:0,Lipid,TG,TG O-16:0_16:0_16:0
+TG O-16:0_16:0_16:1,Lipid,TG,TG O-16:0_16:0_16:1
+TG O-16:0_16:0_16:2,Lipid,TG,TG O-16:0_16:0_16:2
+TG O-16:0_16:0_16:3,Lipid,TG,TG O-16:0_16:0_16:3
+TG O-16:0_16:0_16:4,Lipid,TG,TG O-16:0_16:0_16:4
+TG O-16:0_16:0_18:3,Lipid,TG,TG O-16:0_16:0_18:3
+TG O-16:0_16:0_20:4,Lipid,TG,TG O-16:0_16:0_20:4
+TG O-16:0_16:0_20:5,Lipid,TG,TG O-16:0_16:0_20:5
+TG O-16:0_16:1_16:2,Lipid,TG,TG O-16:0_16:1_16:2
+TG O-16:0_16:1_16:3,Lipid,TG,TG O-16:0_16:1_16:3
+TG O-16:0_16:2_16:3,Lipid,TG,TG O-16:0_16:2_16:3
+TG O-16:0_16:2_16:4,Lipid,TG,TG O-16:0_16:2_16:4
+TG O-16:0_16:2_18:3,Lipid,TG,TG O-16:0_16:2_18:3
+TG O-16:0_16:2_18:4,Lipid,TG,TG O-16:0_16:2_18:4
+TG O-16:0_16:2_20:4,Lipid,TG,TG O-16:0_16:2_20:4
+TG O-16:0_16:2_20:5,Lipid,TG,TG O-16:0_16:2_20:5
+TG O-16:0_16:2_22:6,Lipid,TG,TG O-16:0_16:2_22:6
+TG O-16:0_16:3_16:3,Lipid,TG,TG O-16:0_16:3_16:3
+TG O-16:0_16:3_16:4,Lipid,TG,TG O-16:0_16:3_16:4
+TG O-16:0_16:3_18:4,Lipid,TG,TG O-16:0_16:3_18:4
+TG O-16:0_16:3_22:6,Lipid,TG,TG O-16:0_16:3_22:6
+TG O-16:0_16:4_18:4,Lipid,TG,TG O-16:0_16:4_18:4
+TG O-16:0_16:4_20:4,Lipid,TG,TG O-16:0_16:4_20:4
+TG O-16:0_16:4_22:6,Lipid,TG,TG O-16:0_16:4_22:6
+TG O-16:0_18:4_20:4,Lipid,TG,TG O-16:0_18:4_20:4
+TG O-16:0_18:4_20:5,Lipid,TG,TG O-16:0_18:4_20:5
+TG O-16:0_20:4_20:4,Lipid,TG,TG O-16:0_20:4_20:4
+TG O-16:0_20:4_20:5,Lipid,TG,TG O-16:0_20:4_20:5
+TG O-16:0_20:4_22:6,Lipid,TG,TG O-16:0_20:4_22:6
+TG O-16:0_20:5_22:6,Lipid,TG,TG O-16:0_20:5_22:6
+TG O-16:0_22:6_22:6,Lipid,TG,TG O-16:0_22:6_22:6
+TG O-16:1_16:0_20:4,Lipid,TG,TG O-16:1_16:0_20:4
+TG O-16:2_16:0_16:2,Lipid,TG,TG O-16:2_16:0_16:2
+TG O-18:0_16:0_16:1,Lipid,TG,TG O-18:0_16:0_16:1
+TG O-18:0_16:0_16:3,Lipid,TG,TG O-18:0_16:0_16:3
+TG O-18:0_16:0_16:4,Lipid,TG,TG O-18:0_16:0_16:4
+TG O-18:0_16:0_18:1,Lipid,TG,TG O-18:0_16:0_18:1
+TG O-18:0_16:0_18:2,Lipid,TG,TG O-18:0_16:0_18:2
+TG O-18:0_16:0_18:3,Lipid,TG,TG O-18:0_16:0_18:3
+TG O-18:0_16:0_20:4,Lipid,TG,TG O-18:0_16:0_20:4
+TG O-18:0_16:0_20:5,Lipid,TG,TG O-18:0_16:0_20:5
+TG O-18:0_16:0_22:2,Lipid,TG,TG O-18:0_16:0_22:2
+TG O-18:0_16:1_20:4,Lipid,TG,TG O-18:0_16:1_20:4
+TG O-18:0_16:1_22:6,Lipid,TG,TG O-18:0_16:1_22:6
+TG O-18:0_16:2_16:2,Lipid,TG,TG O-18:0_16:2_16:2
+TG O-18:0_16:2_16:3,Lipid,TG,TG O-18:0_16:2_16:3
+TG O-18:0_16:2_16:4,Lipid,TG,TG O-18:0_16:2_16:4
+TG O-18:0_16:2_20:4,Lipid,TG,TG O-18:0_16:2_20:4
+TG O-18:0_16:3_16:4,Lipid,TG,TG O-18:0_16:3_16:4
+TG O-18:0_16:4_22:6,Lipid,TG,TG O-18:0_16:4_22:6
+TG O-18:0_18:0_18:1,Lipid,TG,TG O-18:0_18:0_18:1
+TG O-18:0_18:0_18:2,Lipid,TG,TG O-18:0_18:0_18:2
+TG O-18:0_18:0_18:3,Lipid,TG,TG O-18:0_18:0_18:3
+TG O-18:0_18:0_20:2,Lipid,TG,TG O-18:0_18:0_20:2
+TG O-18:0_18:0_20:4,Lipid,TG,TG O-18:0_18:0_20:4
+TG O-18:0_18:0_22:6,Lipid,TG,TG O-18:0_18:0_22:6
+TG O-18:0_18:1_18:1,Lipid,TG,TG O-18:0_18:1_18:1
+TG O-18:0_18:1_20:0,Lipid,TG,TG O-18:0_18:1_20:0
+TG O-18:0_18:1_20:4,Lipid,TG,TG O-18:0_18:1_20:4
+TG O-18:0_18:1_22:1,Lipid,TG,TG O-18:0_18:1_22:1
+TG O-18:0_18:1_22:6,Lipid,TG,TG O-18:0_18:1_22:6
+TG O-18:0_18:2_20:4,Lipid,TG,TG O-18:0_18:2_20:4
+TG O-18:0_18:2_22:0,Lipid,TG,TG O-18:0_18:2_22:0
+TG O-18:0_18:3_20:4,Lipid,TG,TG O-18:0_18:3_20:4
+TG O-18:0_18:3_22:0,Lipid,TG,TG O-18:0_18:3_22:0
+TG O-18:0_18:4_22:0,Lipid,TG,TG O-18:0_18:4_22:0
+TG O-18:0_18:4_22:6,Lipid,TG,TG O-18:0_18:4_22:6
+TG O-18:0_20:0_20:4,Lipid,TG,TG O-18:0_20:0_20:4
+TG O-18:0_20:2_20:4,Lipid,TG,TG O-18:0_20:2_20:4
+TG O-18:0_20:2_22:0,Lipid,TG,TG O-18:0_20:2_22:0
+TG O-18:0_20:2_22:1,Lipid,TG,TG O-18:0_20:2_22:1
+TG O-18:0_20:4_20:4,Lipid,TG,TG O-18:0_20:4_20:4
+TG O-18:0_20:4_20:5,Lipid,TG,TG O-18:0_20:4_20:5
+TG O-18:0_20:4_22:0,Lipid,TG,TG O-18:0_20:4_22:0
+TG O-18:0_20:4_22:4,Lipid,TG,TG O-18:0_20:4_22:4
+TG O-18:0_20:4_22:5,Lipid,TG,TG O-18:0_20:4_22:5
+TG O-18:0_20:4_22:6,Lipid,TG,TG O-18:0_20:4_22:6
+TG O-18:0_20:5_20:5,Lipid,TG,TG O-18:0_20:5_20:5
+TG O-18:0_20:5_22:6,Lipid,TG,TG O-18:0_20:5_22:6
+TG O-18:0_22:0_22:6,Lipid,TG,TG O-18:0_22:0_22:6
+TG O-18:0_22:6_22:6,Lipid,TG,TG O-18:0_22:6_22:6
+TG O-18:1_16:0_20:4,Lipid,TG,TG O-18:1_16:0_20:4
+TG O-18:1_16:2_20:4,Lipid,TG,TG O-18:1_16:2_20:4
+TG O-18:1_18:4_20:5,Lipid,TG,TG O-18:1_18:4_20:5
+TG O-18:1_20:0_20:4,Lipid,TG,TG O-18:1_20:0_20:4
+TG O-18:1_20:1_22:4,Lipid,TG,TG O-18:1_20:1_22:4
+TG O-18:1_20:2_20:3,Lipid,TG,TG O-18:1_20:2_20:3
+TG O-18:1_20:4_22:4,Lipid,TG,TG O-18:1_20:4_22:4
+TG O-18:1_22:2_22:2,Lipid,TG,TG O-18:1_22:2_22:2
+TG O-18:1_22:2_22:3,Lipid,TG,TG O-18:1_22:2_22:3
+TG O-20:0_18:1_22:6,Lipid,TG,TG O-20:0_18:1_22:6
+TG O-20:0_18:3_22:0,Lipid,TG,TG O-20:0_18:3_22:0
+TG O-20:0_20:4_22:6,Lipid,TG,TG O-20:0_20:4_22:6
+TG O-20:0_22:0_22:6,Lipid,TG,TG O-20:0_22:0_22:6
+TG O-20:0_22:1_22:5,Lipid,TG,TG O-20:0_22:1_22:5
+TG O-20:0_22:2_22:5,Lipid,TG,TG O-20:0_22:2_22:5
+TG O-20:0_22:6_22:6,Lipid,TG,TG O-20:0_22:6_22:6
+TG O-20:1_20:0_20:1,Lipid,TG,TG O-20:1_20:0_20:1
+TG O-20:1_20:4_20:4,Lipid,TG,TG O-20:1_20:4_20:4
+TG O-20:2_16:1_16:2,Lipid,TG,TG O-20:2_16:1_16:2
+TG O-20:2_16:2_16:3,Lipid,TG,TG O-20:2_16:2_16:3
+TG O-20:2_16:4_20:4,Lipid,TG,TG O-20:2_16:4_20:4
+TG O-22:0_18:0_20:5,Lipid,TG,TG O-22:0_18:0_20:5
+TG O-22:0_20:4_20:4,Lipid,TG,TG O-22:0_20:4_20:4
+TG O-22:1_18:1_20:4,Lipid,TG,TG O-22:1_18:1_20:4
+TG O-22:1_18:1_20:5,Lipid,TG,TG O-22:1_18:1_20:5
+TG O-22:1_20:0_20:4,Lipid,TG,TG O-22:1_20:0_20:4
+TG O-22:1_20:1_20:4,Lipid,TG,TG O-22:1_20:1_20:4
+TG O-22:1_20:2_20:4,Lipid,TG,TG O-22:1_20:2_20:4
+TG O-22:1_20:4_20:4,Lipid,TG,TG O-22:1_20:4_20:4
+TG O-22:1_20:4_20:5,Lipid,TG,TG O-22:1_20:4_20:5
+TG O-22:1_20:4_22:0,Lipid,TG,TG O-22:1_20:4_22:0
+TG O-22:1_20:4_22:4,Lipid,TG,TG O-22:1_20:4_22:4
+TG O-22:1_20:4_22:6,Lipid,TG,TG O-22:1_20:4_22:6
+TG O-22:1_20:5_20:5,Lipid,TG,TG O-22:1_20:5_20:5
+TG O-22:2_16:2_16:3,Lipid,TG,TG O-22:2_16:2_16:3
+TG O-22:2_16:2_18:4,Lipid,TG,TG O-22:2_16:2_18:4
+TG O-22:2_18:2_20:4,Lipid,TG,TG O-22:2_18:2_20:4
+TG O-22:2_20:4_20:4,Lipid,TG,TG O-22:2_20:4_20:4
+TG O-22:2_20:4_20:5,Lipid,TG,TG O-22:2_20:4_20:5
+TG O-22:2_20:4_22:6,Lipid,TG,TG O-22:2_20:4_22:6
+TG O-22:3_18:1_18:2,Lipid,TG,TG O-22:3_18:1_18:2
+TG O-22:4_16:0_18:2,Lipid,TG,TG O-22:4_16:0_18:2
+TG O-22:4_18:1_18:2,Lipid,TG,TG O-22:4_18:1_18:2
+TG O-22:6_16:3_22:2,Lipid,TG,TG O-22:6_16:3_22:2
+TG O-8:0_12:0_18:1,Lipid,TG,TG O-8:0_12:0_18:1
+TG(12:0/12:0/14:1(9Z))[iso3],Lipid,TG,TG(12:0/12:0/14:1(9Z))[iso3]
+TG(12:0/12:0/15:1(9Z))[iso3],Lipid,TG,TG(12:0/12:0/15:1(9Z))[iso3]
+TG(12:0/12:0/16:1(9Z))[iso3],Lipid,TG,TG(12:0/12:0/16:1(9Z))[iso3]
+"TG(12:0/12:0/18:4(6Z,9Z,12Z,15Z))[iso3]",Lipid,TG,"TG(12:0/12:0/18:4(6Z,9Z,12Z,15Z))[iso3]"
+"TG(12:0/12:0/22:5(7Z,10Z,13Z,16Z,19Z))[iso3]",Lipid,TG,"TG(12:0/12:0/22:5(7Z,10Z,13Z,16Z,19Z))[iso3]"
+"TG(12:0/13:0/22:5(7Z,10Z,13Z,16Z,19Z))[iso6]",Lipid,TG,"TG(12:0/13:0/22:5(7Z,10Z,13Z,16Z,19Z))[iso6]"
+"TG(12:0/13:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))[iso6]",Lipid,TG,"TG(12:0/13:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))[iso6]"
+TG(12:0/14:1(9Z)/14:1(9Z))[iso3],Lipid,TG,TG(12:0/14:1(9Z)/14:1(9Z))[iso3]
+"TG(12:0/20:4(5Z,8Z,11Z,14Z)/20:4(5Z,8Z,11Z,14Z))[iso3]",Lipid,TG,"TG(12:0/20:4(5Z,8Z,11Z,14Z)/20:4(5Z,8Z,11Z,14Z))[iso3]"
+"TG(12:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))[iso3]",Lipid,TG,"TG(12:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))[iso3]"
+"TG(13:0/13:0/22:5(7Z,10Z,13Z,16Z,19Z))[iso3]",Lipid,TG,"TG(13:0/13:0/22:5(7Z,10Z,13Z,16Z,19Z))[iso3]"
+"TG(13:0/18:3(6Z,9Z,12Z)/18:3(6Z,9Z,12Z))[iso3]",Lipid,TG,"TG(13:0/18:3(6Z,9Z,12Z)/18:3(6Z,9Z,12Z))[iso3]"
+"TG(13:0/18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))[iso3]",Lipid,TG,"TG(13:0/18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))[iso3]"
+"TG(14:0/20:5(5Z,8Z,11Z,14Z,17Z)/20:5(5Z,8Z,11Z,14Z,17Z))[iso3]",Lipid,TG,"TG(14:0/20:5(5Z,8Z,11Z,14Z,17Z)/20:5(5Z,8Z,11Z,14Z,17Z))[iso3]"
+"TG(14:1(9Z)/14:1(9Z)/20:5(5Z,8Z,11Z,14Z,17Z))[iso3]",Lipid,TG,"TG(14:1(9Z)/14:1(9Z)/20:5(5Z,8Z,11Z,14Z,17Z))[iso3]"
+"TG(14:1(9Z)/20:5(5Z,8Z,11Z,14Z,17Z)/20:5(5Z,8Z,11Z,14Z,17Z))[iso3]",Lipid,TG,"TG(14:1(9Z)/20:5(5Z,8Z,11Z,14Z,17Z)/20:5(5Z,8Z,11Z,14Z,17Z))[iso3]"
+"TG(15:0/18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))[iso3]",Lipid,TG,"TG(15:0/18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))[iso3]"
+"TG(15:1(9Z)/17:2(9Z,12Z)/17:2(9Z,12Z))[iso3]",Lipid,TG,"TG(15:1(9Z)/17:2(9Z,12Z)/17:2(9Z,12Z))[iso3]"
+"TG(15:1(9Z)/18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))[iso3]",Lipid,TG,"TG(15:1(9Z)/18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))[iso3]"
+"TG(16:1(9Z)/16:1(9Z)/17:2(9Z,12Z))[iso3]",Lipid,TG,"TG(16:1(9Z)/16:1(9Z)/17:2(9Z,12Z))[iso3]"
+"TG(16:1(9Z)/17:2(9Z,12Z)/17:2(9Z,12Z))[iso3]",Lipid,TG,"TG(16:1(9Z)/17:2(9Z,12Z)/17:2(9Z,12Z))[iso3]"
+"TG(17:1(9Z)/18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z))[iso3]",Lipid,TG,"TG(17:1(9Z)/18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z))[iso3]"
+"TG(17:1(9Z)/18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))[iso3]",Lipid,TG,"TG(17:1(9Z)/18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))[iso3]"
+"TG(17:1(9Z)/20:5(5Z,8Z,11Z,14Z,17Z)/20:5(5Z,8Z,11Z,14Z,17Z))[iso3]",Lipid,TG,"TG(17:1(9Z)/20:5(5Z,8Z,11Z,14Z,17Z)/20:5(5Z,8Z,11Z,14Z,17Z))[iso3]"
+"TG(17:2(9Z,12Z)/17:2(9Z,12Z)/17:2(9Z,12Z))",Lipid,TG,"TG(17:2(9Z,12Z)/17:2(9Z,12Z)/17:2(9Z,12Z))"
+"TG(17:2(9Z,12Z)/17:2(9Z,12Z)/18:3(9Z,12Z,15Z))[iso3]",Lipid,TG,"TG(17:2(9Z,12Z)/17:2(9Z,12Z)/18:3(9Z,12Z,15Z))[iso3]"
+"TG(17:2(9Z,12Z)/17:2(9Z,12Z)/20:2(11Z,14Z))[iso3]",Lipid,TG,"TG(17:2(9Z,12Z)/17:2(9Z,12Z)/20:2(11Z,14Z))[iso3]"
+"TG(17:2(9Z,12Z)/17:2(9Z,12Z)/20:3(8Z,11Z,14Z))[iso3]",Lipid,TG,"TG(17:2(9Z,12Z)/17:2(9Z,12Z)/20:3(8Z,11Z,14Z))[iso3]"
+"TG(17:2(9Z,12Z)/18:2(9Z,12Z)/18:2(9Z,12Z))[iso3]",Lipid,TG,"TG(17:2(9Z,12Z)/18:2(9Z,12Z)/18:2(9Z,12Z))[iso3]"
+"TG(17:2(9Z,12Z)/18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z))[iso3]",Lipid,TG,"TG(17:2(9Z,12Z)/18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z))[iso3]"
+"TG(17:2(9Z,12Z)/18:3(9Z,12Z,15Z)/20:5(5Z,8Z,11Z,14Z,17Z))[iso6]",Lipid,TG,"TG(17:2(9Z,12Z)/18:3(9Z,12Z,15Z)/20:5(5Z,8Z,11Z,14Z,17Z))[iso6]"
+"TG(17:2(9Z,12Z)/20:3(8Z,11Z,14Z)/20:3(8Z,11Z,14Z))[iso3]",Lipid,TG,"TG(17:2(9Z,12Z)/20:3(8Z,11Z,14Z)/20:3(8Z,11Z,14Z))[iso3]"
+"TG(17:2(9Z,12Z)/20:5(5Z,8Z,11Z,14Z,17Z)/20:5(5Z,8Z,11Z,14Z,17Z))[iso3]",Lipid,TG,"TG(17:2(9Z,12Z)/20:5(5Z,8Z,11Z,14Z,17Z)/20:5(5Z,8Z,11Z,14Z,17Z))[iso3]"
+"TG(17:2(9Z,12Z)/20:5(5Z,8Z,11Z,14Z,17Z)/22:5(7Z,10Z,13Z,16Z,19Z))[iso6]",Lipid,TG,"TG(17:2(9Z,12Z)/20:5(5Z,8Z,11Z,14Z,17Z)/22:5(7Z,10Z,13Z,16Z,19Z))[iso6]"
+"TG(18:2(9Z,12Z)/20:1(11Z)/20:1(11Z))[iso3]",Lipid,TG,"TG(18:2(9Z,12Z)/20:1(11Z)/20:1(11Z))[iso3]"
+"TG(18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z)/20:1(11Z))[iso3]",Lipid,TG,"TG(18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z)/20:1(11Z))[iso3]"
+"TG(18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z)/20:2(11Z,14Z))[iso3]",Lipid,TG,"TG(18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z)/20:2(11Z,14Z))[iso3]"
+"TG(18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z)/20:3(8Z,11Z,14Z))[iso3]",Lipid,TG,"TG(18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z)/20:3(8Z,11Z,14Z))[iso3]"
+"TG(18:3(9Z,12Z,15Z)/20:3(8Z,11Z,14Z)/20:3(8Z,11Z,14Z))[iso3]",Lipid,TG,"TG(18:3(9Z,12Z,15Z)/20:3(8Z,11Z,14Z)/20:3(8Z,11Z,14Z))[iso3]"
+"TG(18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))",Lipid,TG,"TG(18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))"
+"TG(20:0/20:5(5Z,8Z,11Z,14Z,17Z)/22:3(10Z,13Z,16Z))[iso6]",Lipid,TG,"TG(20:0/20:5(5Z,8Z,11Z,14Z,17Z)/22:3(10Z,13Z,16Z))[iso6]"
+"TG(20:2(11Z,14Z)/20:3(8Z,11Z,14Z)/20:3(8Z,11Z,14Z))[iso3]",Lipid,TG,"TG(20:2(11Z,14Z)/20:3(8Z,11Z,14Z)/20:3(8Z,11Z,14Z))[iso3]"
+"TG(20:5(5Z,8Z,11Z,14Z,17Z)/20:5(5Z,8Z,11Z,14Z,17Z)/20:5(5Z,8Z,11Z,14Z,17Z))",Lipid,TG,"TG(20:5(5Z,8Z,11Z,14Z,17Z)/20:5(5Z,8Z,11Z,14Z,17Z)/20:5(5Z,8Z,11Z,14Z,17Z))"
+"TG(22:0/22:3(10Z,13Z,16Z)/22:3(10Z,13Z,16Z))[iso3]",Lipid,TG,"TG(22:0/22:3(10Z,13Z,16Z)/22:3(10Z,13Z,16Z))[iso3]"
+"TG(22:1(13Z)/22:3(10Z,13Z,16Z)/22:3(10Z,13Z,16Z))[iso3]",Lipid,TG,"TG(22:1(13Z)/22:3(10Z,13Z,16Z)/22:3(10Z,13Z,16Z))[iso3]"
+Tricosanedioic acid,Lipid,FA,Tricosanedioic acid
+Tricosanedioic acid,Lipid,FA,Tricosanedioic acid
+Trihydroxycoprostanoic acid,Lipid,FA,Trihydroxycoprostanoic acid
+Trihydroxycoprostanoic acid,Lipid,FA,Trihydroxycoprostanoic acid
+Trihydroxycoprostanoic acid,Lipid,FA,Trihydroxycoprostanoic acid
+WE 33:4,Lipid,WE,WE 33:4
+WE 35:4,Lipid,WE,WE 35:4
+WE 37:4,Lipid,WE,WE 37:4
+WE 39:4,Lipid,WE,WE 39:4
