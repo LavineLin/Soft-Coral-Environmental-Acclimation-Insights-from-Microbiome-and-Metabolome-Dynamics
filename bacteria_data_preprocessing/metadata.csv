@@ -1,0 +1,112 @@
+﻿＃NAME,Name,Type,Time,Treatment,Colony,environment,environment2,Group,Type_wild,All_type
+L1A,L1A,coral,1,Lobo,1,tank,tank,week1,wild,tank_1
+L1B,L1B,coral,1,Lobo,2,tank,tank,week1,wild,tank_1
+L1C,L1C,coral,1,Lobo,3,tank,tank,week1,wild,tank_1
+L2A,L2A,coral,2,Lobo,1,tank,tank,week2,tank,tank_2
+L2B,L2B,coral,2,Lobo,2,tank,tank,week2,tank,tank_2
+L2C,L2C,coral,2,Lobo,3,tank,tank,week2,tank,tank_2
+L3A,L3A,coral,3,Lobo,1,tank,tank,week3,tank,tank_3
+L3B,L3B,coral,3,Lobo,2,tank,tank,week3,tank,tank_3
+L3C,L3C,coral,3,Lobo,3,tank,tank,week3,tank,tank_3
+L4A,L4A,coral,4,Lobo,1,tank,tank,week4,tank,tank_4
+L4B,L4B,coral,4,Lobo,2,tank,tank,week4,tank,tank_4
+L4C,L4C,coral,4,Lobo,3,tank,tank,week4,tank,tank_4
+L5A,L5A,coral,5,Lobo,1,tank,tank,week5,tank,tank_5
+L5B,L5B,coral,5,Lobo,2,tank,tank,week5,tank,tank_5
+L5C,L5C,coral,5,Lobo,3,tank,tank,week5,tank,tank_5
+L6A,L6A,coral,6,Lobo,1,tank,tank,week6,wild,tank_6
+L6B,L6B,coral,6,Lobo,2,tank,tank,week6,wild,tank_6
+L6C,L6C,coral,6,Lobo,3,tank,tank,week6,wild,tank_6
+L7A,L7A,coral,7,Lobo,1,tank,tank,week7,tank,tank_7
+L7B,L7B,coral,7,Lobo,2,tank,tank,week7,tank,tank_7
+L7C,L7C,coral,7,Lobo,3,tank,tank,week7,tank,tank_7
+L8A,L8A,coral,8,Lobo,1,tank,tank,week8,tank,tank_8
+L8B,L8B,coral,8,Lobo,2,tank,tank,week8,tank,tank_8
+L8C,L8C,coral,8,Lobo,3,tank,tank,week8,tank,tank_8
+L9A,L9A,coral,9,Lobo,1,tank,tank,week9,tank,tank_9
+L9B,L9B,coral,9,Lobo,2,tank,tank,week9,tank,tank_9
+L9C,L9C,coral,9,Lobo,3,tank,tank,week9,tank,tank_9
+L10A,L10A,coral,10,Lobo,1,tank,tank,yweek10,wild,tank_10
+L10B,L10B,coral,10,Lobo,2,tank,tank,yweek10,wild,tank_10
+L10C,L10C,coral,10,Lobo,3,tank,tank,yweek10,wild,tank_10
+L11A,L11A,coral,11,Lobo,1,tank,tank,yweek11,tank,tank_11
+L11B,L11B,coral,11,Lobo,2,tank,tank,yweek11,tank,tank_11
+L11C,L11C,coral,11,Lobo,3,tank,tank,yweek11,tank,tank_11
+L12A,L12A,coral,12,Lobo,1,tank,tank,yweek12,tank,tank_12
+L12B,L12B,coral,12,Lobo,2,tank,tank,yweek12,tank,tank_12
+L12C,L12C,coral,12,Lobo,3,tank,tank,yweek12,tank,tank_12
+LW0A,LW0A,coral,0,Lobo,1,tank,wild,week0,wild,wild_0
+LW0B,LW0B,coral,0,Lobo,2,tank,wild,week0,wild,wild_0
+LW0C,LW0C,coral,0,Lobo,3,tank,wild,week0,wild,wild_0
+LW1A,LW1A,coral,6,Lobo,1,wild,wild,week6,wild,wild_6
+LW1B,LW1B,coral,6,Lobo,2,wild,wild,week6,wild,wild_6
+LW1C,LW1C,coral,6,Lobo,3,wild,wild,week6,wild,wild_6
+LWFA,LWFA,coral,19,Lobo,1,wild,wild,week6,wild,wild_19
+LWFB,LWFB,coral,19,Lobo,2,wild,wild,week19,wild,wild_19
+LWFC,LWFC,coral,19,Lobo,3,wild,wild,week19,wild,wild_19
+L13A,L13A,coral,19,Lobo,1,tank,tank,yweek19,wild,tank_19
+L13B,L13B,coral,19,Lobo,2,tank,tank,yweek19,wild,tank_19
+L13C,L13C,coral,19,Lobo,3,tank,tank,yweek19,wild,tank_19
+S1A,S1A,coral,1,Sclero,1,tank,tank,week1,wild,tank_1
+S1B,S1B,coral,1,Sclero,2,tank,tank,week1,wild,tank_1
+S1C,S1C,coral,1,Sclero,3,tank,tank,week1,wild,tank_1
+S2A,S2A,coral,2,Sclero,1,tank,tank,week2,tank,tank_2
+S2B,S2B,coral,2,Sclero,2,tank,tank,week2,tank,tank_2
+S2C,S2C,coral,2,Sclero,3,tank,tank,week2,tank,tank_2
+S3A,S3A,coral,3,Sclero,1,tank,tank,week3,tank,tank_3
+S3B,S3B,coral,3,Sclero,2,tank,tank,week3,tank,tank_3
+S3C,S3C,coral,3,Sclero,3,tank,tank,week3,tank,tank_3
+S4A,S4A,coral,4,Sclero,1,tank,tank,week4,tank,tank_4
+S4B,S4B,coral,4,Sclero,2,tank,tank,week4,tank,tank_4
+S4C,S4C,coral,4,Sclero,3,tank,tank,week4,tank,tank_4
+S5A,S5A,coral,5,Sclero,1,tank,tank,week5,tank,tank_5
+S5B,S5B,coral,5,Sclero,2,tank,tank,week5,tank,tank_5
+S5C,S5C,coral,5,Sclero,3,tank,tank,week5,tank,tank_5
+S6A,S6A,coral,6,Sclero,1,tank,tank,week6,wild,tank_6
+S6B,S6B,coral,6,Sclero,2,tank,tank,week6,wild,tank_6
+S6C,S6C,coral,6,Sclero,3,tank,tank,week6,wild,tank_6
+S7A,S7A,coral,7,Sclero,1,tank,tank,week7,tank,tank_7
+S7B,S7B,coral,7,Sclero,2,tank,tank,week7,tank,tank_7
+S7C,S7C,coral,7,Sclero,3,tank,tank,week7,tank,tank_7
+S8A,S8A,coral,8,Sclero,1,tank,tank,week8,tank,tank_8
+S8B,S8B,coral,8,Sclero,2,tank,tank,week8,tank,tank_8
+S8C,S8C,coral,8,Sclero,3,tank,tank,week8,tank,tank_8
+S9A,S9A,coral,9,Sclero,1,tank,tank,week9,tank,tank_9
+S9B,S9B,coral,9,Sclero,2,tank,tank,week9,tank,tank_9
+S9C,S9C,coral,9,Sclero,3,tank,tank,week9,tank,tank_9
+S10A,S10A,coral,10,Sclero,1,tank,tank,week10,wild,tank_10
+S10B,S10B,coral,10,Sclero,2,tank,tank,week10,wild,tank_10
+S10C,S10C,coral,10,Sclero,3,tank,tank,week10,wild,tank_10
+S11A,S11A,coral,11,Sclero,1,tank,tank,week11,tank,tank_11
+S11B,S11B,coral,11,Sclero,2,tank,tank,week11,tank,tank_11
+S11C,S11C,coral,11,Sclero,3,tank,tank,week11,tank,tank_11
+S12A,S12A,coral,12,Sclero,1,tank,tank,week12,tank,tank_12
+S12B,S12B,coral,12,Sclero,2,tank,tank,week12,tank,tank_12
+S12C,S12C,coral,12,Sclero,3,tank,tank,week12,tank,tank_12
+SW0A,SW0A,coral,0,Sclero,1,wild,wild,week0,wild,wild_0
+SW0B,SW0B,coral,0,Sclero,2,wild,wild,week0,wild,wild_0
+SW0C,SW0C,coral,0,Sclero,3,wild,wild,week0,wild,wild_0
+SW1A,SW1A,coral,6,Sclero,1,wild,wild,week6,wild,wild_6
+SW1B,SW1B,coral,6,Sclero,2,wild,wild,week6,wild,wild_6
+SW1C,SW1C,coral,6,Sclero,3,wild,wild,week6,wild,wild_6
+SWFA,SWFA,coral,19,Sclero,1,wild,wild,week6,wild,wild_19
+SWFB,SWFB,coral,19,Sclero,2,wild,wild,week19,wild,wild_19
+SWFC,SWFC,coral,19,Sclero,3,wild,wild,week19,wild,wild_19
+S13A,S13A,coral,19,Sclero,1,tank,tank,week19,wild,tank_19
+S13B,S13B,coral,19,Sclero,2,tank,tank,week19,wild,tank_19
+S13C,S13C,coral,19,Sclero,3,tank,tank,week19,wild,tank_19
+WA0,WA0,water,0,Sea water,1,tank,tank,week0,tank,tank_0
+WB0,WB0,water,0,Sea water,2,tank,tank,week0,tank,tank_0
+WC0,WC0,water,0,Sea water,3,tank,tank,week0,tank,tank_0
+WA1,WA1,water,1,Sea water,1,tank,tank,week1,tank,tank_1
+WB1,WB1,water,1,Sea water,2,tank,tank,week1,tank,tank_1
+WC1,WC1,water,1,Sea water,3,tank,tank,week1,tank,tank_1
+WA2,WA2,water,6,Sea water,1,tank,tank,week6,tank,tank_6
+WB2,WB2,water,6,Sea water,2,tank,tank,week6,tank,tank_6
+WC2,WC2,water,6,Sea water,3,tank,tank,week6,tank,tank_6
+WA3,WA3,water,19,Sea water,1,tank,tank,week12,tank,tank_19
+WB3,WB3,water,19,Sea water,2,tank,tank,week12,tank,tank_19
+WC3,WC3,water,19,Sea water,3,tank,tank,week12,tank,tank_19
+WW0,WW0,water,0,Sea water,1,wild,wild,week0,wild,wild_0
+WW1,WW1,water,6,Sea water,1,wild,wild,week6,wild,wild_6
+WW2,WW2,water,19,Sea water,1,wild,wild,week19,wild,wild_19
